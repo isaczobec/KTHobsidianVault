@@ -1,7 +1,7 @@
 Jämför med [[Projektbaserad verksamhet]]
 
 I flödesbaserad verksamhet:
-- utveckling och förvaltning i värdeströmmar och releasetåg. Arbetsform baserad på permanent organisation m självorganiserade team. synkronisering o samordning på programnivå
+- utveckling och förvaltning i värdeströmmar och releasetåg. Arbetsform baserad på permanent [[Organisation]] m självorganiserade team. synkronisering o samordning på programnivå
 - Övergripande prioritering sker med portföljstyrning  
 - centrerad kring agila flöden, värdeströmmar
 - även kallad Agil verksamhet?

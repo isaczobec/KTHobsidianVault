@@ -7,7 +7,7 @@ aliases:
 
 Processer är livsfunktioner, kultur och struktur avgör hur arbetet/sammarbetet etc går till
 
-Modern [organisationslära](Organisation) fokuserad mycket på processer
+Modern [organisationslära](Organisation.md) fokuserad mycket på processer
 
 - Proccesser är aktiviteter inom & utom företaget som skapar mervärde för kunden    
 - varje process har leverantör och kund

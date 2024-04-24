@@ -2,7 +2,7 @@
 syftet med organisera verksamhet är öka dess effektivitet
 - Varken företaget eller organisationsform har egenvärde, syfte tillhandahålla värdet kunden efterfrågar
   
-Strategier o affärsmål måste aligna med [[organisationsstruktur]]
+Strategier o affärsmål måste aligna med [[Organisationsstruktur]]
 
 Organisation är formaliserad gruppbildning för uppnå gemensamt mål
 

@@ -1,5 +1,5 @@
 #plKap1
-**Projekt är en tillfällig organisation**
+**Projekt är en tillfällig [[Organisation]]**
 - projekt bra arbetsform när tillfälligt samordna olika verksamhetsdelar eller [[Resurs|resurser]] från olika företag
 - [[Projektledare]] kan ofta overrida linjeorganisations beslut
 - temporär mandat, [[projektorganisation]]
