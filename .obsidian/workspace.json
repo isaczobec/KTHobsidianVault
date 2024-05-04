@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6fd20025f8ab0f55",
+        "id": "ad4067162262b42a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe62ff1fa160afae",
+            "id": "426dcf00479e8a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLbok/Organisationsstruktur.md",
+                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#plförelä",
-                "matchingCase": false,
+                "query": "#plKap6",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,14 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLbok/Organisationsstruktur.md",
+                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLbok/Organisationsstruktur.md",
+                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLbok/Organisationsstruktur.md"
+                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md"
               }
             }
           }
@@ -148,42 +148,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "fe62ff1fa160afae",
+  "active": "426dcf00479e8a42",
   "lastOpenFiles": [
-    "plFöreläsning24-04-23/Mekanismer för samordning, styrning och kontroll.md",
-    "PLbok/Organisationsstruktur.md",
-    "plFöreläsning24-04-23/Vertikal arbetsdelning.md",
-    "plFöreläsning24-04-23/Organisation Kontra verksamhet.md",
-    "plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
-    "plFöreläsning24-04-23/Horisontella samarbetsarrangemang.md",
-    "plFöreläsning24-04-23/Horisontell samordning.md",
-    "plFöreläsning24-04-23/horisontell arbetsdelning.md",
-    "plFöreläsning24-04-23/Grad av centralisering.md",
-    "plFöreläsning24-04-23/Generell organisations 5 delar.md",
-    "plFöreläsning24-04-23/Differentiering och integrering.md",
-    "plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
-    "plFöreläsning24-04-23/Stab.md",
-    "plFöreläsning24-04-23/Organisationsschema.md",
-    "Assets/Pasted image 20240424113649.png",
-    "Assets",
-    "Assets/Pasted image 20240424112604.png",
-    "plFöreläsning24-04-23/Val mellan olika samordningsmekanismer.md",
-    "plFöreläsning24-04-23/Social hållbarhet och Organisationsstruktur.md",
-    "plFöreläsning24-04-23/Organisatoriska gruppformer.md",
-    "Untitled.canvas",
-    "2024-04-24.md",
-    "PLbok/Proccesser.md",
-    "PLbok/Organisation.md",
-    "PLbok/Projekt.md",
-    "PLbok/Projektbaserad verksamhet.md",
-    "PLbok/Projektverksamhet.md",
-    "plFöreläsning24-04-23",
-    "PLbok/Resurs.md",
-    "PLbok/Aktivitet.md",
-    "PLbok/Flödesbaserad verksamhet.md",
-    "PLbok",
-    "fördelning av beslutsmyndighet - stab",
-    "Marknadsföring",
-    "Projektledning"
+    "PL/PLbok/PLkap6/rapportering.md",
+    "PL/PLbok/PLkap6/Kommunikationsplan.md",
+    "PL/PLbok/PLkap6/Möte.md",
+    "PL/PLbok/PLkap6/Kommunikationsmodellen.md",
+    "PL/PLbok/PLkap6/Kommunikation.md",
+    "PL/plSeminarium24-05-03/Ledarskap som retorik.md",
+    "Angående inl 3 surgery.md",
+    "Untitled.md",
+    "PL/PLVideoOrganisationsstruktur/Nätverksorganisation.md",
+    "PL/plSeminarium24-05-03/MQ.md",
+    "IntroIndek/IntroIndekBok/IntroIndekBokKap15/Chefskap och ledarskap.md",
+    "PL/PLVideoOrganisationsstruktur/Affärsområdesbaserad divisionsorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/struktur.md",
+    "PL/PLVideoOrganisationsstruktur/Projektorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/Projektbaserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Produkt och funktionsbaserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Processorienterade organisationer.md",
+    "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
+    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
+    "PL/plSeminarium24-05-03/Horisontellt distribuerat ledarskap.md",
+    "PL/Att lägga in i obsidian elr plugga inför pl tentan.md",
+    "PL/SKIPPADE DELAR, KONCEPT I PL.md",
+    "PL/plSeminarium24-05-03/Det nya ledarskapet.md",
+    "PL/plSeminarium24-05-03/Vertikalt och horisontellt ledarskap.md",
+    "PL/plSeminarium24-05-03",
+    "IntroIndek/IntroIndekBok/IntroIndekBokKap16",
+    "IntroIndek/IntroIndekBok/IntroIndekBokKap15",
+    "IntroIndek/IntroIndekBok",
+    "IntroIndek",
+    "PL/PLVideoFörändringsledning",
+    "Assets/Pasted image 20240502155145.png",
+    "Assets/Pasted image 20240502154635.png",
+    "Assets/Pasted image 20240502154502.png",
+    "Assets/Pasted image 20240502154237.png",
+    "Assets/Pasted image 20240502154053.png",
+    "Assets/Pasted image 20240502153816.png",
+    "Assets/Pasted image 20240502152739.png",
+    "PL/PLVideoOrganisationsstruktur",
+    "Assets/Pasted image 20240501192416.png",
+    "Assets/Pasted image 20240501185656.png",
+    "Assets/Pasted image 20240501185424.png",
+    "PL/PLbok/PLkap18",
+    "PL/PLbok/PLkap13",
+    "PL/PLbok/PLkap10",
+    "Untitled.canvas"
   ]
 }

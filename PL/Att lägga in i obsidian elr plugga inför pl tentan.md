@@ -1,0 +1,19 @@
+- [x] Kap 3
+- [x] Kap 6
+- [x] Kap 10
+- [x] Kap 13
+- [x] Kap 18
+- [ ] kanske Kap 11
+- [x] frls 24-04-23
+- [ ] frls 24-05-06
+- [ ] frls 24-05-07
+- [ ] frls 24-05-13
+- [ ] frls 24-05-15
+- [ ] frls 24-05-16
+- [x] Videofrls. Org. teori
+- [x] Videofrls. Förändringsledning
+- [ ] Videofrls. Vad betyder org.struktur (***SKIPPAD***)
+- [x] Modern Indek Kap 15
+- [x] Modern Indek Kap 16
+- [ ] kopierat kap från Bolman & Deal
+- [ ] kopierat kap från Jacobson & Torsvik upplaga
