@@ -8,3 +8,4 @@
 **Nackdelar**
 - Två chefer, har ofta olika krav och oklart vem som har rätt att bestämma
 - Ofta maktkamp mellan chefer
+- Ofta svårt att förklara hur man tar beslut

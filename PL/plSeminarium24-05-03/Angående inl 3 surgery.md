@@ -1,4 +1,4 @@
-
+#plSeminarium24-05-03 
 Kan analysera i efterhand mha teorier
 
 kan skriva om teamroller processer förhandling konflikthantering, annat interesant som finns i boken

@@ -14,11 +14,18 @@ Förutsägbar livscykel
 
 Iterativ livscykel    
 - Otydliga krav, behov testa sig fram till lösning innan leverans. 
-- flera feedbackloopar m ofärdigt resultat som successivt förbättras och anpassas efter verkliga behov
+- flera feedbackloopar m ofärdigt resultat som successivt förbättras och anpassas efter verkliga ebehov
+- Förbättra det man redan har gjort?
+	- Kommer komma *Förändringsbehov* på saker man redan har gjort
 
 Inkrementell livscykel    
 - Kända krav, många delleveranser
 - många delleveranser av resultat som kan användas direkt
+- gör i många delsteg färdigt (helt)
 
 Adaptiv livscykel
 - Kombination iterativt och inkrementellt, för förfina arbetet och leverera resultat stegvis
+- Anpassa arbetet
+	- Jobba både inkrementellt och iterativt
+
+

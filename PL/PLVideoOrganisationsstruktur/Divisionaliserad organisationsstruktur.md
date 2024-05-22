@@ -12,8 +12,24 @@ Som [[Funktionsbaserad organisationsstruktur]] men man delar in efter andra krit
 - Nära sin egna kundbas
 - Specialister fokuserade på sin grupp/område
 - Tydligt resultatansvar
+
 **Nackdelar**
 - Dubbelarbetare; svårt hålla koll på om arbetare i olika division gör samma sak (onödigt), måste samordna
 - lågt incitament att göra detta; känner sig frånkopplad från de andra divisionerna
 - lågt incitament generellt samordna mellan divisioner
 - risk bristande kunskapsöverföring
+
+
+#plFöreläsning24-05-13 
+
+![[Pasted image 20240513144713.png]]
+
+Blandat mellan centralisering/decentralisering
+- Viktigt, vad fattar man för beslut?
+
+Mycket prestationskontroll, kpier
+resultatinriktad
+
+
+
+Har flera andra organisationsformer på lägre nivåer?

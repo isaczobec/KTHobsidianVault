@@ -25,3 +25,16 @@ Sju mekanismer som trycks på
 *Pneumonic*: ÖmanDöHo4S
 
 #plFöreläsning24-04-23
+
+
+#plInstuderingsfrågor 
+
+fler hierarkiska nivåer (hur många framgår ofta av formella [[Organisationsstruktur]]en) innebär större [[Horisontell och Vertikal differentiering|vertikal differentiering]]
+
+måste ha samordning, speciellt med fler specialiseringar. koordinationsbehov växer vid ökande horisontell diferentiering
+
+(*se ovan för dessa*)
+Det är vanligt att skilja mellan följande sju sätt att samordna arbetet på; ömsesidig anpassning, direkt  
+tillsyn, standardisering av arbetsuppgifter, standardisering av resultat, standardisering av kunskap,  
+standardisering av normer och horisontella samarbetsarrangemang där man till exempel använder sig av  
+arbetsgrupper eller team.

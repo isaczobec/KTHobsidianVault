@@ -1,3 +1,10 @@
+#JacobssonEtAl 
+Klassar organisation *som socialt system som är medvetet konstruerat för uppnå bestämda mål*
+- Kärna i organisation är människor, krävs sammarbete för att lösa problemen; är socialt
+- Att är ett system innehåller ömsesidigt beroende system, ex maskiner resurser behöver människor och vice versa
+- nån menar [[Organisationsstruktur]]en som används är effektivt sätt att uppnå målet på; kan inte göra själv ibland
+-
+
 #plKap1
 syftet med organisera verksamhet är öka dess effektivitet
 - Varken företaget eller organisationsform har egenvärde, syfte tillhandahålla värdet kunden efterfrågar
@@ -56,3 +63,11 @@ vilken [[Organisationsstruktur]] som lämpligt beror också på företaget - ex 
 	- Standardisering av arbetsprocessen: Arbete standardiseras med regler och instruktioner
 	- Standardisering av output: samordning genom att själva arbetsresultatet är väldigt väldefinierat
 	- Standardisering av kunskaper och färdigheter: alla har bestämd utbildning / träning
+
+#BolmanODeal
+Bildar organisationer för att de tillgodoser våra behov, precis vad som sas innan; organisationer uppnår gemensamt mål(/behov)
+
+Förändring sker i omvärlden snabbt, organisationer och deras struktur måste vara i ständig förändring
+
+Organisationer får ibland negativ påverkan på omvärlden; ex överdriven vinstlystnad
+

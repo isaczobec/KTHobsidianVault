@@ -61,3 +61,50 @@ Roller:
 - Big Room Planning för när flera agila team ska samordnas.
 - Målet är att ta fram en övergripande leveransplan, ett agilt releasetåg, för kommande 3-6 månader.
 - Syftet är att förankra mål och strategier samt ge stöd till teamens individuella prioriteringar och sprintplanering.
+
+
+
+#plFöreläsning24-05-15 
+Arbetsprocess när jobbar med [[Agila metoder]]
+	- Har en product backlog; vilka produktkrav/aktiviteter man måste göra, prioriterad
+		- Kan göra en product backlog på det sättet man vill
+		- kan också utgå från vad man vill att produkten/idén ska kunna göra
+	- Ofta skev bild att man bara bestämmer lite i taget; men är en nidbild
+		- är istället upp till behov hur långt man planerar, men måste göra det
+	- Bestäm längd på en sprint
+		- En låst tidperiod; timeboxad tidsperiod
+		- Kolalr hur myckt av product backloggen man tror man klarar på en tidsperiod
+		- Lägger in de aktiviteterna i sprintbackloggen
+		- Kan också sätta de på kanbantavla eller liknande
+		- har sprintar för att kunna reflektera efteråt
+			- blir bättre och bättre på estimera mängden jobb
+		- 2 veckor är standardtid
+			- nedkortande av detta är att nedkortande ger mer pricksäkerhet
+			- Lättare att veta vad man kan göra under en kortare tidsperiod
+	- Under sprinten vill ha visualisering av hur det går
+		- Tavlan
+		- Mötet
+			- Daily scrum, ställ sig vid tavlan eller annat visualiseringsmedel
+	- När sprint är slut:
+		- Bjuder in folk t titta vad gjort, få feedback (titta utåt)
+			- Vet om rätt grejer, hjälp hur tänka här näst
+			- team får utifrånhjälp
+			- Poduktägare måste vara med; de ansvar hjälpa teamet bygga rätt produtk
+			- Även andra intrersenter får kolla
+		- efteråt: Reflerktera hur gjort och arbetet (retrospective) (titta inåt)
+	- Levererar så ofta man kan; får förhoppningsvis värde under hela projektet
+		- tänkte fr början att ska ha levererbar produkt vid slutet av varje sprint
+		- Idag ska helst ha proccesss för se om kan leverera vid varje tillfälle
+		- Ibland kan leverera flera gånger per dag; ex pga tekniska lösningar
+	- Hur man gör grejer ska man fatta beslut om som team
+		- Ingen chef får bestämma hur man ska uppfylla något i produktbackloggen
+		- har istället scrum master
+			- ska hjälpa teamet bli självorganiserande
+				- samlar team när det behövs, etc
+				- medlar
+	- Ibland kan man inte veta hur lång tid en sak i product backlogg kommer ta
+		- Alltid bra att så ofta/tidigt som möjlgit medela tidsprognos eller liknande
+
+Kan ibland inte planera fullt i varje sprint, kommer komma klagomål som måste justera, vig lite till detta i planeringen
+
+Kan ibland kombinera [[Agila metoder]] och vanliga

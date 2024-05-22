@@ -5,15 +5,16 @@
 - [x] Kap 18
 - [ ] kanske Kap 11
 - [x] frls 24-04-23
-- [ ] frls 24-05-06
-- [ ] frls 24-05-07
-- [ ] frls 24-05-13
-- [ ] frls 24-05-15
+- [x] frls 24-05-06
+- [x] frls 24-05-07 (också slidsen i början jag missade)
+- [x] Extra info från föreläsningsslides 24-05-07
+- [x] frls 24-05-13
+- [x] frls 24-05-15
 - [ ] frls 24-05-16
 - [x] Videofrls. Org. teori
 - [x] Videofrls. Förändringsledning
 - [ ] Videofrls. Vad betyder org.struktur (***SKIPPAD***)
 - [x] Modern Indek Kap 15
 - [x] Modern Indek Kap 16
-- [ ] kopierat kap från Bolman & Deal
-- [ ] kopierat kap från Jacobson & Torsvik upplaga
+- [x] kopierat kap från Bolman & Deal (*Viktigt*)
+- [x] kopierat kap från Jacobson & Torsvik upplaga (*Viktigt*)

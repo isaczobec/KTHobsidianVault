@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad4067162262b42a",
+        "id": "a2ef72f0ca5f4d81",
         "type": "tabs",
         "children": [
           {
-            "id": "426dcf00479e8a42",
+            "id": "013200675b9bfcf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md",
-                "mode": "source",
+                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#plKap6",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 215.5
   },
   "right": {
     "id": "0122162df339bb1e",
@@ -86,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md",
+                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md",
+                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PL/PLbok/PLkap1/Organisationsstruktur.md"
+                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,62 +140,62 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "426dcf00479e8a42",
+  "active": "4b31f71979754e95",
   "lastOpenFiles": [
-    "PL/PLbok/PLkap6/rapportering.md",
-    "PL/PLbok/PLkap6/Kommunikationsplan.md",
-    "PL/PLbok/PLkap6/Möte.md",
-    "PL/PLbok/PLkap6/Kommunikationsmodellen.md",
-    "PL/PLbok/PLkap6/Kommunikation.md",
-    "PL/plSeminarium24-05-03/Ledarskap som retorik.md",
-    "Angående inl 3 surgery.md",
-    "Untitled.md",
-    "PL/PLVideoOrganisationsstruktur/Nätverksorganisation.md",
-    "PL/plSeminarium24-05-03/MQ.md",
-    "IntroIndek/IntroIndekBok/IntroIndekBokKap15/Chefskap och ledarskap.md",
-    "PL/PLVideoOrganisationsstruktur/Affärsområdesbaserad divisionsorganisation.md",
-    "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
+    "PL/plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
+    "PL/Jacobsson et al/Skillnader mellan organisationer.md",
+    "PL/Jacobsson et al/Organisationer som produktionssystem.md",
+    "PL/Jacobsson et al/Organisationsdesign.md",
+    "PL/Jacobsson et al/Organisationsteori.md",
+    "PL/plFöreläsning24-05-13/professionell byråkrati.md",
+    "PL/Jacobsson et al/Organisationer och omvärlden.md",
+    "PL/Jacobsson et al/Ledarskap.md",
+    "PL/Jacobsson et al/Beteende.md",
     "PL/PLVideoOrganisationsstruktur/struktur.md",
-    "PL/PLVideoOrganisationsstruktur/Projektorganisation.md",
-    "PL/PLVideoOrganisationsstruktur/Projektbaserad organisationsstruktur.md",
-    "PL/PLVideoOrganisationsstruktur/Produkt och funktionsbaserad organisationsstruktur.md",
-    "PL/PLVideoOrganisationsstruktur/Processorienterade organisationer.md",
-    "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
-    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
-    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
-    "PL/plSeminarium24-05-03/Horisontellt distribuerat ledarskap.md",
-    "PL/Att lägga in i obsidian elr plugga inför pl tentan.md",
-    "PL/SKIPPADE DELAR, KONCEPT I PL.md",
+    "PL/PLbok/PLkap1/Kultur.md",
+    "PL/PLbok/PLkap1/Organisation.md",
+    "PL/Bolman & Deal/Strategier för att förbättra organisationer.md",
+    "PL/plSeminarium24-05-07/Perspektivväxling.md",
+    "PL/Bolman & Deal/Perspektiv.md",
+    "PL/plSeminarium24-05-07/Sex psykolgiska krav på gott arbete.md",
+    "PL/plSeminarium24-05-07/Utforma arbetsorganisation utifrån verksamhetsprocesserna.md",
     "PL/plSeminarium24-05-03/Det nya ledarskapet.md",
-    "PL/plSeminarium24-05-03/Vertikalt och horisontellt ledarskap.md",
-    "PL/plSeminarium24-05-03",
-    "IntroIndek/IntroIndekBok/IntroIndekBokKap16",
-    "IntroIndek/IntroIndekBok/IntroIndekBokKap15",
-    "IntroIndek/IntroIndekBok",
-    "IntroIndek",
-    "PL/PLVideoFörändringsledning",
-    "Assets/Pasted image 20240502155145.png",
-    "Assets/Pasted image 20240502154635.png",
-    "Assets/Pasted image 20240502154502.png",
-    "Assets/Pasted image 20240502154237.png",
-    "Assets/Pasted image 20240502154053.png",
-    "Assets/Pasted image 20240502153816.png",
-    "Assets/Pasted image 20240502152739.png",
-    "PL/PLVideoOrganisationsstruktur",
-    "Assets/Pasted image 20240501192416.png",
-    "Assets/Pasted image 20240501185656.png",
-    "Assets/Pasted image 20240501185424.png",
-    "PL/PLbok/PLkap18",
-    "PL/PLbok/PLkap13",
-    "PL/PLbok/PLkap10",
-    "Untitled.canvas"
+    "PL/Bolman & Deal/Hur chefer lyckas.md",
+    "IntroIndek/IntroIndekBok/IntroIndekBokKap15/Maslows behovspyramid.md",
+    "PL/plSeminarium24-05-07/Ornigrafer.md",
+    "PL/plSeminarium24-05-07/Normativ styrning.md",
+    "PL/plSeminarium24-05-07/Mentala modeller.md",
+    "PL/plSeminarium24-05-07/Makt och konflikter i organisationer.md",
+    "PL/plSeminarium24-05-07/Makt.md",
+    "PL/plSeminarium24-05-07/Förmåga att förändra.md",
+    "Assets/Pasted image 20240521175628.png",
+    "Assets/Pasted image 20240521165811.png",
+    "Assets/Pasted image 20240521165451.png",
+    "Assets/Pasted image 20240521165449.png",
+    "Assets/Pasted image 20240521165127.png",
+    "Assets/Pasted image 20240521164032.png",
+    "Assets/Pasted image 20240520194105.png",
+    "Assets/Pasted image 20240520194103.png",
+    "PL/PLinstruderingsfrågor",
+    "Assets/Pasted image 20240501165538.png",
+    "PL/plFöreläsning24-05-15",
+    "PL/Föreläsning24-05-15",
+    "Assets/Pasted image 20240514095417.png",
+    "PL/plFöreläsning24-05-13",
+    "Untitled.canvas",
+    "PL/Bolman & Deal",
+    "PL/Jacobsson et al",
+    "PL/Andra källor",
+    "PL/plFöreläsning24-05-06",
+    "PL/plSeminarium24-05-07",
+    "PL/plSeminarium24-05-03"
   ]
 }

@@ -28,7 +28,7 @@ org måste göra rätt förändring vid rätt tidpunkt
 
 **Utgångspunkter för förändring:**
 - Externa/interna drivkrafter
-- Politiska processer (mobilisera stöd, hantera hinder, vilja och makt att förändra)
+- Politiska processer (mobilisera stöd, hantera hinder, vilja och [[Makt]] att förändra)
 - Kunskapsutveckling
 - Resursutveckling
 

@@ -1,0 +1,2 @@
+#JacobssonEtAl 
+Hur man i [[Organisation]]er tar fram strategi och [[struktur]] genom [[Differentiering och integrering]], [[Vertikal arbetsdelning]], [[Horisontell samordning]] ([[Mekanismer för samordning, styrning och kontroll]]), [[horisontell arbetsdelning]], [[Organisationsstruktur]] 

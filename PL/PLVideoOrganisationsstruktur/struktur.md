@@ -1,8 +1,11 @@
 #plVideoOrganisationsstruktur 
+*Tema inom forksning inom [[Organisation]]er*
 Formella medel man använder i en organisation för att styra (?)
 
+motsats? mot [[Kultur]]
+
 Ex:
-- Organisationsstruktur
+- [[Organisationsstruktur]]
 - Befattningar och roller?
 - Beslutsvägar?
 

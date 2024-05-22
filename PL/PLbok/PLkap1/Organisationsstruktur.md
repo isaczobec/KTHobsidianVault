@@ -12,7 +12,7 @@ Organisationsstuktur är ett medvetet valt medel för att uppnå ett specefikt (
 - I dessa är [[Projekt]] skilad från linjeverksamhet (= kontinuerligt arbete utan avskilda mål)
 - Sällan risk projektmedlemmar m kritisk kompetens fast i linjen
 - Ofta konkurens mellan [[Projekt]] 
-- Prioritering och samordning resurser och [[Projekt]] genom övergrupande resursplanering och portföljstyrning
+- Prioritering och samordning resurser och [[Projekt]] genom övergrupande resursplanering och portföljstyrning 
 - ex byggföretag som levererar värde genom byggprojekt
 
 ## Matris
@@ -47,11 +47,22 @@ Organisationsstuktur är ett medvetet valt medel för att uppnå ett specefikt (
 Kan säga att [[Organisation]] är linjeorganisation om belsut går ovanifrån och ner hierarkiskt
 Vilken organisationstrukturstyp man tror något är beror på ens perspektiv (ex arbetare m tvärfunktionell beslutsväg kontra person i ledningen)
 
-Organisationsstruktur svarar på frågor: 
+**Organisationsstruktur svarar på frågor**: 
 - Hur ska uppgifter fördelas ([[Differentiering och integrering|differentiering]])
 - Hur ska befogenhet fatta beslut fördelas
 - Hur ska uppgifter samordnas ([[Differentiering och integrering|integrering]])
 - Hur försäkra att anställda gör de de får betalt för?
+- #plSeminarium24-05-07 **Organisations utformnings styrs av**
+	• Vilka arbetsuppgifter ska lösas för att uppnå målet?  
+	• Hur ska uppgifterna fördelas?  
+	• Hur ska uppgifterna samordnas?  
+	• Hur ska befogenheter fördelas?  
+	• Vilka är organisationens kunder?  
+	• Behöver utveckling, produktion och distribution av erbjudandena till kunderna utnyttja  
+	några gemensamma resurser?  
+	• Vad kännetecknar de tekniska systemen?  
+	• Går det att utveckla en gemensam kultur?  
+	• I vilken utvecklingsfas befinner sig affärsidén?
 
 ### Viktigaste fokusområden för orgstrukt
 - **Arbetsindelning, specialisering**
@@ -147,3 +158,66 @@ samordning av verkssamheten
 		- staber bra för att inte varje linjeenhet kan anställa egna specialister
 	- Funktionell arbetsledning:
 		- varje schef specialiserad på något område. Många olika chefer ger order till underställda beroende på deras dåvarande arbetsuppgift etc
+
+
+#### #plInstuderingsfrågor 
+
+formell organisationsstruktur: nedteckning av hur beslutsmyndighet fördelas, hur [[Differentiering och integrering]] ska gå till, hur styrning ska ske
+- formell organisationsstruktur skapar stabilitet, regelbundenhet, alla vet vad de ska göra, beteende mer förutsägbart
+
+Viktiga element för organisationsstruktur:
+- [[Mekanismer för samordning, styrning och kontroll]]
+- hur [[Differentiering och integrering]] (och specialisering) göras
+- bruk av stöd och stabfunktioner
+- Hierarki [[Grad av centralisering]]
+
+#### Hur ska man fördela uppgifter? 
+([[Differentiering och integrering|differentiering]])
+specialisering är bra
+
+Grupperar arbetsuppgifter och personer när många personer är med i [[organisation]]en
+
+kan gruppera arbetsuppgifter utifrån två huvudprinciper:
+1. Funktionsbaserad gruppering ( se [[Funktionsbaserad organisationsstruktur]])
+	1. (två olika sätt)
+		1. man kan in processen av skapa något i olika funktioner (ex tillverkning, marknadsföring). Dela in grupper efter vilken funktion de har
+		2. sammanför alla uppgifter som bygger på samma kunskap till samma enhet (kan va samma typ av uppgift som utförs på lite olika sätt, ex alla skolorna i kth utbildar)
+	2. samma kunskap o likartade uppgifter samlas i samma enhet
+	3. fördelar
+		1. Specialisering
+		2. Undvika dubbelarbete
+		3. stordriftsfördelar
+	4. nackdelar
+		1. Isolering fr andra grupper, bristande intresse o förståelse
+		2. bristande samordning
+2. Marknadsbaserad gruppering  (se [[Divisionaliserad organisationsstruktur]])
+	1. (tre olika sätt)
+		1. samför uppgifter som berör samma klientell
+		2. sammanföra uppgifter knutna till samma produkt/produkttyp
+		3. sammanföra uppgifter knutna t samma geografiska område
+	2. fördelar
+		1. stor närhet t kunden/marknaden
+		2. enhetligt produkt/kuntänkande (alla funktioner för detta samlad i samma enhet)
+	3. nackdelar
+		1. ej stordriftsfördelar
+		2. risk dubbelarbete
+		3. inga förutsättningar för spetskompetens likartade funktioner
+
+### Matris- och projektstrukturer
+
+- används för kombinera dessa
+- kännetecknas av lägger emfas på fördelar av samla likartade uppgifter, samt inrätta enheter för olika produkter/marknadssegment
+- Många organisationer går mot detta
+- Fördelar
+	- fördelar fr både funktions och marknadsbaserad organsiationsstruktur
+	- stor flexibilitet, speciellt i uttnytjande resurser över funktioner/produktlinjer
+	- skapar nödvändig samordning för möta (dubbla) krav hos kunder
+- Nackdelar
+	- tvådelad ledningsstrycktur skapar korstryck, förvirring, ledningsproblem, frustration
+	- oklar beslutsmyndighet (flera chefer)
+	- mycket behov av samarbete; myckcet möten, måste lära bemästra ständiga förändringar ang arbetssammanhang
+	- blir Lätt (mål)konflikter
+
+kan blanda grupperingsprinciper i samma [[organisation]], ex olika på olika nivåer, eller om organisaionenen är stor
+
+se även [[beslutsmyndighet - linje och stab]]

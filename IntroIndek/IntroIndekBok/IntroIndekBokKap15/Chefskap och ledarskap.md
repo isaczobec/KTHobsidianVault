@@ -35,7 +35,7 @@ Måste som sagt flyta över till ledarskap om är chef
 
 #IntroIndekKap15
 - Chef är formell ledare, med formell befogenhet att styra. ska också fördela resurser och sköta ekonomi etc
-- Informell ledare har stort inflytande men ingen formell makt
+- Informell ledare har stort inflytande men ingen formell [[Makt]]
 	- konflikter mellan formell/informell ledare måste lösas för att ta sig förbi rollsöksningsfasen i FIRO-modellen
 - Olika ledarskapsmodeller:
 	- Endimensionell skala från auktoritär till demokratisk ledarstil
