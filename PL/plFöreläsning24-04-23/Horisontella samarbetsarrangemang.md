@@ -1,6 +1,6 @@
 Har fem nivåer
 
-är en del av mekaniskmer för samordning, styrning och kontroll (som är en viktig del inom [[Organisationsstruktur]])
+är en del av [[Mekanismer för samordning, styrning och kontroll]] (som är en viktig del inom [[Organisationsstruktur]])
 
 är en matris?
 handlar om att samarbeta horisontellt

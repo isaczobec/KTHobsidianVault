@@ -34,4 +34,6 @@ Kultur finns omkring organisationen och påverkar den
 
 **
 
+se även mintzberg [[fem organisatoriska grundformer]]
+
 #plFöreläsning24-04-23

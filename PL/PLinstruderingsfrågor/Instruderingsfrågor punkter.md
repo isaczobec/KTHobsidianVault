@@ -42,6 +42,7 @@ Så utifrån föreläsningarna och denna litteratur bör ni kunna besvara följa
 
 - **Vilka är de huvudsakliga skillnaderna mellan projektorganisationer och permanenta organisationer?**
 
+SVAR PÅ OVANSTÅENDE:
 #### Kort summering
 
 Vi har diskuterat många olika och kompletterande exempel/delar på nedanstående områden:

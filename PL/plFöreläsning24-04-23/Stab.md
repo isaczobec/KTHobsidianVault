@@ -5,3 +5,4 @@ Ingår ofta i företags [[Organisationsstruktur]], ofta till sidan ansluten till
 
 Finns i princip alltid, har egen beslutshierarki
 
+i en [[Generell organisations 5 delar]] är det teknostruktur, service och stöd

@@ -9,3 +9,14 @@
 - Två chefer, har ofta olika krav och oklart vem som har rätt att bestämma
 - Ofta maktkamp mellan chefer
 - Ofta svårt att förklara hur man tar beslut
+
+#plInstuderingsfrågor 
+
+Fördelar: 
+- Blir specialiserad på "funktion" och "division"
+- kan utnyttja resurser tvärs över divisioner
+- Kan samordna för att möta dubbla krav från kund
+
+Nackdelar:
+- tvådelad beslutsväg, svårt vem som tar beslut, ofta konflikter
+- Stort behov sammarbetsförmåga: måste samordna --> kommunicera mycket, möten etc, måste vara bra på detta

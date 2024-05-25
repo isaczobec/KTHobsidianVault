@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ef72f0ca5f4d81",
+        "id": "874a93f32399c421",
         "type": "tabs",
         "children": [
           {
-            "id": "013200675b9bfcf9",
+            "id": "638c42f34a3e1297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md",
+                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#plFöreläsning24-04-23",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md",
+                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md",
+                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PL/Jacobsson et al/Skillnader mellan organisationer.md"
+                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,47 +147,47 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4b31f71979754e95",
+  "active": "638c42f34a3e1297",
   "lastOpenFiles": [
+    "PL/plFöreläsning24-05-15/Att implementera ett ramverk.md",
+    "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
+    "PL/plFöreläsning24-05-15/SAFe.md",
+    "PL/plFöreläsning24-05-15/Progress principle.md",
     "PL/plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
-    "PL/Jacobsson et al/Skillnader mellan organisationer.md",
-    "PL/Jacobsson et al/Organisationer som produktionssystem.md",
-    "PL/Jacobsson et al/Organisationsdesign.md",
-    "PL/Jacobsson et al/Organisationsteori.md",
+    "PL/plFöreläsning24-04-23/Horisontella samarbetsarrangemang.md",
+    "PL/plFöreläsning24-04-23/horisontell arbetsdelning.md",
+    "PL/plFöreläsning24-04-23/Grad av centralisering.md",
+    "PL/plFöreläsning24-04-23/Generell organisations 5 delar.md",
+    "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
+    "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
     "PL/plFöreläsning24-05-13/professionell byråkrati.md",
-    "PL/Jacobsson et al/Organisationer och omvärlden.md",
-    "PL/Jacobsson et al/Ledarskap.md",
-    "PL/Jacobsson et al/Beteende.md",
+    "PL/plFöreläsning24-04-23/Differentiering och integrering.md",
+    "PL/plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
+    "Saker som kommer på PLTENTAN.md",
+    "PL/PLVideoFörändringsledning/Organisatioriska förändringar.md",
+    "PL/PLVideoFörändringsledning/Förändringstyper.md",
+    "PL/PLVideoFörändringsledning/Förändringsstrategier.md",
+    "PL/PLVideoFörändringsledning/Förändringsledning.md",
+    "PL/PLVideoFörändringsledning/Förändringens omfattning.md",
     "PL/PLVideoOrganisationsstruktur/struktur.md",
-    "PL/PLbok/PLkap1/Kultur.md",
+    "PL/PLbok/PLkap1/Organisationsstruktur.md",
     "PL/PLbok/PLkap1/Organisation.md",
-    "PL/Bolman & Deal/Strategier för att förbättra organisationer.md",
-    "PL/plSeminarium24-05-07/Perspektivväxling.md",
-    "PL/Bolman & Deal/Perspektiv.md",
-    "PL/plSeminarium24-05-07/Sex psykolgiska krav på gott arbete.md",
-    "PL/plSeminarium24-05-07/Utforma arbetsorganisation utifrån verksamhetsprocesserna.md",
-    "PL/plSeminarium24-05-03/Det nya ledarskapet.md",
-    "PL/Bolman & Deal/Hur chefer lyckas.md",
-    "IntroIndek/IntroIndekBok/IntroIndekBokKap15/Maslows behovspyramid.md",
-    "PL/plSeminarium24-05-07/Ornigrafer.md",
-    "PL/plSeminarium24-05-07/Normativ styrning.md",
-    "PL/plSeminarium24-05-07/Mentala modeller.md",
-    "PL/plSeminarium24-05-07/Makt och konflikter i organisationer.md",
-    "PL/plSeminarium24-05-07/Makt.md",
-    "PL/plSeminarium24-05-07/Förmåga att förändra.md",
+    "PL/PLVideoOrganisationsstruktur/Nätverksorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
+    "Assets/Pasted image 20240523123217.png",
+    "Assets/Pasted image 20240523123207.png",
+    "Assets/Pasted image 20240522214017.png",
+    "Assets/Pasted image 20240522214009.png",
+    "Assets/Pasted image 20240522213142.png",
+    "Assets/Pasted image 20240522213134.png",
+    "Assets/Pasted image 20240522213110.png",
     "Assets/Pasted image 20240521175628.png",
     "Assets/Pasted image 20240521165811.png",
     "Assets/Pasted image 20240521165451.png",
-    "Assets/Pasted image 20240521165449.png",
-    "Assets/Pasted image 20240521165127.png",
-    "Assets/Pasted image 20240521164032.png",
-    "Assets/Pasted image 20240520194105.png",
-    "Assets/Pasted image 20240520194103.png",
     "PL/PLinstruderingsfrågor",
-    "Assets/Pasted image 20240501165538.png",
     "PL/plFöreläsning24-05-15",
     "PL/Föreläsning24-05-15",
-    "Assets/Pasted image 20240514095417.png",
     "PL/plFöreläsning24-05-13",
     "Untitled.canvas",
     "PL/Bolman & Deal",

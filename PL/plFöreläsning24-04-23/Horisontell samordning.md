@@ -9,10 +9,11 @@
 	- Personer från varje grupp samlas regelbundet i en grupp och samordnar
 - Tillfälliga arbetsgrupper och projekt
 	- tillfällig grupp för lösa problem som berör flera avdelningar
-- [[Projektbaserad organisationsstruktur]]
-- [[Matrisorganisation]]
-	- flerdimensionell struktur där varje avdelning delas in efter flera kriterier, ex funktionell indelning, geografisk indelning och produktindelning
-	- försöker kombinera fördelarna med alla olika former av horizontell specialisering
-	- kan dock bli spänningar då det blir oklart vilken avdelning som ska bestämma vad
-- [[Nätverksorganisation]]
-	- förbindelser med personer och företag utanför organisationen
+- Vissa organisationsstrukturer syftar även att göra horisontell samordning:
+	- [[Projektbaserad organisationsstruktur]]
+	- [[Matrisorganisation]]
+		- flerdimensionell struktur där varje avdelning delas in efter flera kriterier, ex funktionell indelning, geografisk indelning och produktindelning
+		- försöker kombinera fördelarna med alla olika former av horizontell specialisering
+		- kan dock bli spänningar då det blir oklart vilken avdelning som ska bestämma vad
+	- [[Nätverksorganisation]]
+		- förbindelser med personer och företag utanför organisationen
