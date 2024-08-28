@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "874a93f32399c421",
+        "id": "35ea1ba87d25b359",
         "type": "tabs",
         "children": [
           {
-            "id": "638c42f34a3e1297",
+            "id": "0544487d0a583b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
-                "mode": "preview",
+                "file": "Varför control systems.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0def4853e3a81788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technology.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plFöreläsning24-04-23",
+                "query": "porters",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 200
   },
   "right": {
     "id": "0122162df339bb1e",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
+                "file": "Varför control systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
+                "file": "Varför control systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PL/plFöreläsning24-05-15/Agilt från litet till stort.md"
+                "file": "Varför control systems.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,54 +161,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "638c42f34a3e1297",
+  "active": "0544487d0a583b1d",
   "lastOpenFiles": [
-    "PL/plFöreläsning24-05-15/Att implementera ett ramverk.md",
-    "PL/plFöreläsning24-05-15/Agilt från litet till stort.md",
-    "PL/plFöreläsning24-05-15/SAFe.md",
-    "PL/plFöreläsning24-05-15/Progress principle.md",
-    "PL/plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
-    "PL/plFöreläsning24-04-23/Horisontella samarbetsarrangemang.md",
-    "PL/plFöreläsning24-04-23/horisontell arbetsdelning.md",
-    "PL/plFöreläsning24-04-23/Grad av centralisering.md",
-    "PL/plFöreläsning24-04-23/Generell organisations 5 delar.md",
-    "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
-    "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
-    "PL/plFöreläsning24-05-13/professionell byråkrati.md",
-    "PL/plFöreläsning24-04-23/Differentiering och integrering.md",
-    "PL/plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
-    "Saker som kommer på PLTENTAN.md",
-    "PL/PLVideoFörändringsledning/Organisatioriska förändringar.md",
-    "PL/PLVideoFörändringsledning/Förändringstyper.md",
-    "PL/PLVideoFörändringsledning/Förändringsstrategier.md",
-    "PL/PLVideoFörändringsledning/Förändringsledning.md",
-    "PL/PLVideoFörändringsledning/Förändringens omfattning.md",
-    "PL/PLVideoOrganisationsstruktur/struktur.md",
-    "PL/PLbok/PLkap1/Organisationsstruktur.md",
-    "PL/PLbok/PLkap1/Organisation.md",
-    "PL/PLVideoOrganisationsstruktur/Nätverksorganisation.md",
-    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
-    "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
+    "technology.md",
+    "mission, goals and strategies.md",
+    "shareholder or stakeholder view.md",
+    "Contingencies.md",
+    "strategy.md",
+    "management control system.md",
+    "EkonomiStyrning/FL2024-08-26/output controls.md",
+    "corporate social responsibility.md",
+    "corporate governance.md",
+    "Varför control systems.md",
+    "shareholder/stakeholder view.md",
+    "shareholder",
+    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
+    "EkonomiStyrning/FL2024-08-26/simons levers of control.md",
+    "EkonomiStyrning/FL2024-08-26/input controls.md",
+    "kompetens.md",
+    "budget.md",
+    "EkonomiStyrning/FL2024-08-27/finansiella nyckeltal.md",
+    "EkonomiStyrning/ESbokKap1",
+    "EkonomiStyrning/FL2024-08-27/ROE.md",
+    "EkonomiStyrning/FL2024-08-27/ROCE.md",
+    "EkonomiStyrning/FL2024-08-27/ROA.md",
+    "EkonomiStyrning/FL2024-08-27/resultaträkning.md",
+    "EkonomiStyrning/FL2024-08-27/resultat vs balansräkning.md",
+    "EkonomiStyrning/FL2024-08-27/Redovisningsrapport.md",
+    "EkonomiStyrning/FL2024-08-27/Matchning.md",
+    "EkonomiStyrning/FL2024-08-27/kassaflödesanalys.md",
+    "EkonomiStyrning/FL2024-08-27/kapitalomsättningshastighet.md",
+    "EkonomiStyrning/FL2024-08-27",
+    "EkonomiStyrning/FL2024-08-26",
+    "EkonomiStyrning",
+    "IntroMedia",
+    "Assets/Pasted image 20240605160421.png",
+    "Assets/Pasted image 20240605155207.png",
+    "Assets/Pasted image 20240605131930.png",
+    "Assets/Pasted image 20240605131115.png",
+    "Diff/Boyce-DiPrima",
+    "Diff",
     "Assets/Pasted image 20240523123217.png",
     "Assets/Pasted image 20240523123207.png",
     "Assets/Pasted image 20240522214017.png",
     "Assets/Pasted image 20240522214009.png",
     "Assets/Pasted image 20240522213142.png",
     "Assets/Pasted image 20240522213134.png",
-    "Assets/Pasted image 20240522213110.png",
-    "Assets/Pasted image 20240521175628.png",
-    "Assets/Pasted image 20240521165811.png",
-    "Assets/Pasted image 20240521165451.png",
     "PL/PLinstruderingsfrågor",
     "PL/plFöreläsning24-05-15",
-    "PL/Föreläsning24-05-15",
-    "PL/plFöreläsning24-05-13",
-    "Untitled.canvas",
-    "PL/Bolman & Deal",
-    "PL/Jacobsson et al",
-    "PL/Andra källor",
-    "PL/plFöreläsning24-05-06",
-    "PL/plSeminarium24-05-07",
-    "PL/plSeminarium24-05-03"
+    "Untitled.canvas"
   ]
 }

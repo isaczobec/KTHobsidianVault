@@ -1,8 +1,10 @@
 #plKap1
+#imtFL2024-08-26
 **Projekt är en tillfällig [[Organisation]]**
 - projekt bra arbetsform när tillfälligt samordna olika verksamhetsdelar eller [[Resurs|resurser]] från olika företag
 - [[Projektledare]] kan ofta overrida linjeorganisations beslut
 - temporär mandat, [[Projektorganisation]]
+- har begränsad tid och resurser
 
 projekt kan drivas externt t kund, internt inom organisationen
 

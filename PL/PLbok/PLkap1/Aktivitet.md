@@ -1,6 +1,9 @@
 #plKap1
 Saker som leder fram t projekts resultat
 
+har input och output, kund och leverantör
+en serie aktiviteter är en [[Proccesser]] (???)
+
 ### Ansvarsförhållanden i en aktivitet
 Måste hitta någon som har ansvar för en aktivitet
 - Den som har ansvar är den som ser till att något händer; måste inte alltid vara den som utför arbetet för en aktivitet
