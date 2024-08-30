@@ -1,4 +1,4 @@
-
+#EsBokKap1
 handlar om hur owners får en organisation att agera i deras bästa intresse
 - relaterar till [[shareholder or stakeholder view|shareholder view]]
 

@@ -1,4 +1,4 @@
-Handlar om att en [[Organisation]] tar mer ansvar än de nödvändigtvis behöver för att satisfiera stakeholder views
+#EsBokKap1 Handlar om att en [[Organisation]] tar mer ansvar än de nödvändigtvis behöver för att satisfiera stakeholder views
 
 relaterat till [[shareholder or stakeholder view|stakeholder view]]
 

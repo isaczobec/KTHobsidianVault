@@ -1,4 +1,4 @@
-*är två olika syner på vad [[Organisation]]ers syften är*
+#EsBokKap1*är två olika syner på vad [[Organisation]]ers syften är*
 
 har stor påverkan på hur managers och board of directors formulerar [[mission, goals and strategies]]
 

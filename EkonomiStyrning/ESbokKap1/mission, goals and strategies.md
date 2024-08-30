@@ -1,4 +1,4 @@
-
+#EsBokKap1 
 det är dessa som [[management control system]] syftar till att employees och mellanchefer ska conforma sitt beteende efter
 
 dessa är relaterade till varför företaget finns och vad det vill ådstakomma
@@ -51,6 +51,7 @@ finns financial och strategic goals
 	- separerar strategier in i *deliberate strategies* (uttänkta av top management) och *emerging strategies* (såna som kommer fram av sig själva när problem löses i praktiken)
 		- om flera börjar lösa problem på samma sätt kan hela strategiska riktigningen för ett företag förändras, ex inköpare prioriterar experience framför pris
 	- detta perspektiv hävdar att testandet av strategier är det viktigaste
+	- tänkbart att enabling [[management control system]]s är centralt för detta
 
 ### typer av strategi
 

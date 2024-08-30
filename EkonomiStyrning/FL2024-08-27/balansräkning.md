@@ -1,3 +1,17 @@
+#ekStyrKompendium 
+![[Pasted image 20240830161256.png]]
+visar ekonomisk ställning; tillgångar vs skulder och eget kapital
+tillgångar = skulder + eget kapital
+
+tillgångar = aktivsidan
+skulder = passivsidan
+- hur är företaget finansierat
+
+EK minskar vid förlust/negativt resultat och aktieutdelning
+EK ökar vid vinst/positivt resultat och nyemission
+på så sätt kopplat till [[resultaträkning]]
+
+
 #ekStyrFL2024-08-27
 företagets ekonomiska ställning vid en tidpunkt
 [[resultaträkning]] är som ett delta av detta?

@@ -1,3 +1,7 @@
+#ekStyrKompendium 
+likvida medels förändring under en period
+
+
 #plKap13
 ## I projekt
 - Måste ha kontroll över hur mycket som går in och ut ur projektet, se till räcker t kvarvarande aktiviteter

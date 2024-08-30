@@ -1,4 +1,4 @@
-
+#EsBokKap1
 *vilka situationer ett företag är i*
 
 viktigt att consider för ett företag att kunna uppnå sina [[mission, goals and strategies]] (och följdaktligen hur [[management control system]]s ska designas)

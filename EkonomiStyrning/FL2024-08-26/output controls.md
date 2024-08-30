@@ -2,7 +2,7 @@
 
 är en typ av [[management control system]]
 
-- är ett sätt att få mellanchefer och anställda responsible för diverse resultat (output), exempelvis genom mätning
+- är ett sätt att få mellanchefer och anställda responsible för diverse **resultat (output)**, exempelvis genom mätning
 - **output control fungerar genom att planera mäta och följa upp/utvärdera kring vad som är acceptabla resultat**
 - är vanligtvis det många tror att ekonomistyrning syftar till
 

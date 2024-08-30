@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35ea1ba87d25b359",
+        "id": "5a900a852fd73243",
         "type": "tabs",
         "children": [
           {
-            "id": "0544487d0a583b1d",
+            "id": "2d49288be0c669da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varför control systems.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0def4853e3a81788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technology.md",
+                "file": "performance measures.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Varför control systems.md",
+                "file": "performance measures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Varför control systems.md",
+                "file": "performance measures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Varför control systems.md"
+                "file": "performance measures.md"
               }
             }
           }
@@ -161,36 +148,42 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "0544487d0a583b1d",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "technology.md",
-    "mission, goals and strategies.md",
-    "shareholder or stakeholder view.md",
-    "Contingencies.md",
-    "strategy.md",
-    "management control system.md",
-    "EkonomiStyrning/FL2024-08-26/output controls.md",
-    "corporate social responsibility.md",
-    "corporate governance.md",
-    "Varför control systems.md",
-    "shareholder/stakeholder view.md",
-    "shareholder",
-    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
-    "EkonomiStyrning/FL2024-08-26/simons levers of control.md",
-    "EkonomiStyrning/FL2024-08-26/input controls.md",
-    "kompetens.md",
-    "budget.md",
-    "EkonomiStyrning/FL2024-08-27/finansiella nyckeltal.md",
-    "EkonomiStyrning/ESbokKap1",
-    "EkonomiStyrning/FL2024-08-27/ROE.md",
+    "ekonomiska begrepp.md",
+    "performance measures.md",
+    "EkonomiStyrning/FL2024-08-29/likviditet.md",
+    "EkonomiStyrning/FL2024-08-29/soliditet.md",
     "EkonomiStyrning/FL2024-08-27/ROCE.md",
+    "EkonomiStyrning/FL2024-08-27/dupontmodellen.md",
+    "Assets/Pasted image 20240830165405.png",
+    "EkonomiStyrning/FL2024-08-27/finansiella nyckeltal.md",
     "EkonomiStyrning/FL2024-08-27/ROA.md",
-    "EkonomiStyrning/FL2024-08-27/resultaträkning.md",
-    "EkonomiStyrning/FL2024-08-27/resultat vs balansräkning.md",
-    "EkonomiStyrning/FL2024-08-27/Redovisningsrapport.md",
-    "EkonomiStyrning/FL2024-08-27/Matchning.md",
+    "EkonomiStyrning/FL2024-08-27/ROE.md",
+    "EkonomiStyrning/FL2024-08-27/balansräkning.md",
     "EkonomiStyrning/FL2024-08-27/kassaflödesanalys.md",
-    "EkonomiStyrning/FL2024-08-27/kapitalomsättningshastighet.md",
+    "PL/PLbok/PLkap13/Kassaflöde.md",
+    "EkonomiStyrning/FL2024-08-27/resultaträkning.md",
+    "Assets/Pasted image 20240830162900.png",
+    "Assets/Pasted image 20240830161256.png",
+    "Assets/Pasted image 20240830155952.png",
+    "Assets/Pasted image 20240830153404.png",
+    "EkonomiStyrning/ESbokKap1/mission, goals and strategies.md",
+    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
+    "EkonomiStyrning/ESbokKap1/corporate social responsibility.md",
+    "EkonomiStyrning/ESbokKap1/Contingencies.md",
+    "EkonomiStyrning/ESbokKap1/technology.md",
+    "EkonomiStyrning/ESbokKap1/shareholder or stakeholder view.md",
+    "EkonomiStyrning/ESbokKap1/management control system.md",
+    "EkonomiStyrning/ESbokKap1/Varför control systems.md",
+    "EkonomiStyrning/ESbokKap1/corporate governance.md",
+    "EkonomiStyrning/FL2024-08-26/output controls.md",
+    "EkonomiStyrning/FL2024-08-26/input controls.md",
+    "EkonomiStyrning/FL2024-08-29/commited costs.md",
+    "EkonomiStyrning/FL2024-08-29",
+    "EkonomiStyrning/FL2024-08-29/målkostnadskalkylering.md",
+    "shareholder",
+    "EkonomiStyrning/ESbokKap1",
     "EkonomiStyrning/FL2024-08-27",
     "EkonomiStyrning/FL2024-08-26",
     "EkonomiStyrning",
@@ -202,13 +195,7 @@
     "Diff/Boyce-DiPrima",
     "Diff",
     "Assets/Pasted image 20240523123217.png",
-    "Assets/Pasted image 20240523123207.png",
-    "Assets/Pasted image 20240522214017.png",
-    "Assets/Pasted image 20240522214009.png",
-    "Assets/Pasted image 20240522213142.png",
-    "Assets/Pasted image 20240522213134.png",
     "PL/PLinstruderingsfrågor",
-    "PL/plFöreläsning24-05-15",
     "Untitled.canvas"
   ]
 }

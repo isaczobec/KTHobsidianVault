@@ -1,3 +1,4 @@
+#EsBokKap1
 påverkar designen av [[management control system]]
 
 - teknologi spelar olika roll om det är en tillverkande eller serviceföretag
