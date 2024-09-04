@@ -40,3 +40,7 @@ management control systems Kan ses på negativt, som ett sätt för top manageme
 kommunikation mellan top level och lower lever managers och medarbetare är väldigt viktigt för att göra uppfattningen om control practices mer effektiv
 
 
+
+
+
+

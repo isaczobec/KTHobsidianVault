@@ -13,6 +13,9 @@ Top managers attityd och ton sprider sig ofta till lägre nivåer i [[Organisati
 
 att förstå vad som motiverar folk är vital för att kunna designa bra system
 
+#EsBokKap2
+för att förstå hur dessa kan designas är det fundamentalt att förstå hur human behaviour fungerar
+
 
 #ekStyrFL2024-08-26
 
