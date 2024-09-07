@@ -10,7 +10,7 @@ Kopplat till [[FMEA]]?
 
 ## kvalitetsplanering
 - ![[Pasted image 20240501173026.png]]
-- Kvalitetsnivå bestäms m hänsyn till [[QTK-triangeln]]
+- Kvalitetsnivå bestäms m hänsyn till [[Project management triangle]]
 	- kvalitet och ambitionsnivå kopplade
 - kravspec bestämmer kvalitetsnivå. Toleranser inom målkriterier styrande för vad som anses vara godkänt resultat
 - i detta steg måste också fastställa kvalitetsstandard och kvalitetsaktiviteter. 

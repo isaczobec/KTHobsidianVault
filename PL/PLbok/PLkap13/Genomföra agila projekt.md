@@ -1,9 +1,9 @@
 #plKap13
 Kopplat till [[Agila metoder]]
 
-- Agilt != ok säga inte vet hur lång tid kommer ta, vad kommer kosta. (måste fortfarande ha någon aning i [[QTK-triangeln]]?)
+- Agilt != ok säga inte vet hur lång tid kommer ta, vad kommer kosta. (måste fortfarande ha någon aning i [[Project management triangle]]?)
 - sprintar måste räcka för att utveckla resultatet
-- tid och resurser låsta för en sprint eftersom konstant längd och teamstorlek, endast resultat som varierar i [[QTK-triangeln]]
+- tid och resurser låsta för en sprint eftersom konstant längd och teamstorlek, endast resultat som varierar i [[Project management triangle]]
 - Finns dock typ alltid en låst deadline
 
 **Beslutsfattande:**

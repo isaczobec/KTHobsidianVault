@@ -69,7 +69,7 @@ När presentera förprojekt
 
 ## Riskbedömningar
 Väldigt viktigt
-- VAd kan hända som gör att man inte levererar (?) enligt lovade styrparametrar i [[QTK-triangeln]]
+- VAd kan hända som gör att man inte levererar (?) enligt lovade styrparametrar i [[Project management triangle]]
 - Får bättre bild gneom diskutera med sina kollegor
 - Har alltså idée om hur man ska hantera
 

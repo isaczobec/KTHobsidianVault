@@ -1,3 +1,11 @@
+#EsBokKap6
+differentiering = behov av olika [[responsibility centre]]s/specialiteter inom ett företag
+integrering = behovet av att samordna dem
+mer differentiering --> svårare att integrera
+
+svårt att integrera högutbildade employees fr olika discipliner; kommunikation svårt 
+
+
 #plFöreläsning24-04-23
 - Hur dela upp arbetsuppgifter (differentiera)
 - hur samordna dem (integrera)

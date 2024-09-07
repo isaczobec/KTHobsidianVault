@@ -1,3 +1,15 @@
+#EsBokKap6 
+Hur man väljer att dela in och organisera [[responsibility centre]]s
+påverkar också förhållandet mellan [[Differentiering och integrering]]
+
+finns tre generella former: 
+1. [[Funktionsbaserad organisationsstruktur]]
+	- varje manager responsible för en funktion, ex marketing eller produktion
+2. [[business unit structure]]
+	- manager responsible för det mesta inom sin unit, och unitsen är semi-independent delar av organisationen
+3. [[Matrisorganisation]]
+	- där funktionella units har dual responsibilities, både till functional manager och business unit manager. Som en mix av de två ovanstående
+
 #plKap1
 
 Vanliga organisationsstrukturer: Funktionell hierarkisk, projektbaserad, matrisorganisation, nätverksbaserad, flödesbaserad

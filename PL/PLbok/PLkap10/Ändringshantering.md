@@ -4,7 +4,7 @@
 - **Etablera rutiner/metodik för hur man ska göra ändringar i projektet:**
 	- Det är viktigt att bestämma rutiner och dokumentera i projektplanen hur ändringar ska hanteras i projektet.
 	- Det bör klargöras vem som får ändra och hur ändringar ska föras in i planen.
-- Alla ändringar som påverkar [[QTK-triangeln]] (kvalitet, tid, budget) bör diskuteras med [[projektägare]] och [[Styrgrupp]].
+- Alla ändringar som påverkar [[Project management triangle]] (kvalitet, tid, budget) bör diskuteras med [[projektägare]] och [[Styrgrupp]].
 - Mindre ändringar kan hanteras av [[Projektledare]].
 - För bättre spårbarhet bör versionshantering användas för projektets dokumentation.
 - Projektledare måste behärska ändringshantering som ett område av kompetens.
