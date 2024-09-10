@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8679e8921a7d715",
+            "id": "40da78dd561b004d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
+                "file": "EkonomiStyrning/ESbokKap8/parts of the budget.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organic manag",
+                "query": "base",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
+                "file": "EkonomiStyrning/ESbokKap8/parts of the budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
+                "file": "EkonomiStyrning/ESbokKap8/parts of the budget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md"
+                "file": "EkonomiStyrning/ESbokKap8/parts of the budget.md"
               }
             }
           }
@@ -147,34 +147,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "40da78dd561b004d",
   "lastOpenFiles": [
-    "EkonomiStyrning/ESbokKap8/parts of the budget.md",
-    "EkonomiStyrning/ESbokKap8",
     "EkonomiStyrning/ESbokKap8/critique against budgeting.md",
     "EkonomiStyrning/ESbokKap8/budgeting process.md",
     "EkonomiStyrning/ESbokKap8/budget gaming.md",
     "EkonomiStyrning/ESbokKap8/budget evaluation.md",
     "EkonomiStyrning/ESbokKap8/budget.md",
     "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
+    "EkonomiStyrning/ESbokKap9/pitfalls when using non financial performance measures.md",
+    "EkonomiStyrning/ESbokKap9/representational criterion.md",
+    "EkonomiStyrning/ESbokKap9/user criterion.md",
+    "EkonomiStyrning/ESbokKap9/pitfalls when using financial measures.md",
+    "EkonomiStyrning/ESbokKap9/non-financial performance measures.md",
+    "EkonomiStyrning/ESbokKap9/measurement criterion.md",
+    "EkonomiStyrning/ESbokKap9/EVA.md",
+    "EkonomiStyrning/ESbokKap9/critique of financial performance measures.md",
+    "EkonomiStyrning/ESbokKap9/critical succes factors.md",
+    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
+    "EkonomiStyrning/ESbokKap9",
+    "EkonomiStyrning/ESKompendium/performance measures.md",
+    "performance measure.md",
+    "Untitled.md",
+    "EkonomiStyrning/FL2024-08-27/dupontmodellen.md",
+    "EkonomiStyrning/ESbokKap5/corporate services.md",
+    "EkonomiStyrning/ESbokKap8/parts of the budget.md",
+    "EkonomiStyrning/ESbokKap8",
     "IntroMedia/Problemlösning.md",
     "EkonomiStyrning/ESbokKap6/silo problem.md",
     "EkonomiStyrning/ESbokKap1/Contingencies.md",
-    "EkonomiStyrning/FL2024-08-27/dupontmodellen.md",
-    "EkonomiStyrning/ESbokKap1/mission, goals and strategies.md",
-    "EkonomiStyrning/ESbokKap1/technology.md",
-    "EkonomiStyrning/ESbokKap1/management control system.md",
-    "EkonomiStyrning/ESbokKap4/expense responsibility centre.md",
-    "EkonomiStyrning/ESbokKap3/psychological model of human behaviour.md",
-    "EkonomiStyrning/FL2024-08-27/ROCE.md",
-    "EkonomiStyrning/ESbokKap6/resource & flow efficiency.md",
-    "EkonomiStyrning/ESbokKap6/Project management triangle.md",
-    "EkonomiStyrning/ESbokKap6/lean management.md",
-    "EkonomiStyrning/ESbokKap6/business unit structure.md",
-    "EkonomiStyrning/ESbokKap5/administration of transfer prices.md",
-    "PL/PLbok/PLkap1/Organisationsstruktur.md",
-    "EkonomiStyrning/FL2024-08-29/inteorganisatorisk integration.md",
-    "PL/PLbok/PLkap1/Projekt.md",
     "EkonomiStyrning/ESbokKap6",
     "EkonomiStyrning/ESbokKap4",
     "EkonomiStyrning/ESbokKap5",
@@ -188,7 +189,6 @@
     "EkonomiStyrning/FL2024-08-29",
     "shareholder",
     "EkonomiStyrning/ESbokKap1",
-    "EkonomiStyrning/FL2024-08-27",
     "Assets/Pasted image 20240605160421.png",
     "Assets/Pasted image 20240605155207.png",
     "Assets/Pasted image 20240605131930.png",
