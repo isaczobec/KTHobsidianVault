@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "003fcd7b1af813ca",
+        "id": "0bfb7f22116f9c75",
         "type": "tabs",
         "children": [
           {
-            "id": "2b74215a31711706",
+            "id": "b8679e8921a7d715",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap6/silo problem.md",
+                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "organic manag",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap6/silo problem.md",
+                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap6/silo problem.md",
+                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap6/silo problem.md"
+                "file": "EkonomiStyrning/ESbokKap8/beyond budgeting.md"
               }
             }
           }
@@ -149,32 +149,33 @@
   },
   "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "EkonomiStyrning/ESbokKap6/lean management.md",
+    "EkonomiStyrning/ESbokKap8/parts of the budget.md",
+    "EkonomiStyrning/ESbokKap8",
+    "EkonomiStyrning/ESbokKap8/critique against budgeting.md",
+    "EkonomiStyrning/ESbokKap8/budgeting process.md",
+    "EkonomiStyrning/ESbokKap8/budget gaming.md",
+    "EkonomiStyrning/ESbokKap8/budget evaluation.md",
+    "EkonomiStyrning/ESbokKap8/budget.md",
+    "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
+    "IntroMedia/Problemlösning.md",
     "EkonomiStyrning/ESbokKap6/silo problem.md",
-    "EkonomiStyrning/ESbokKap6",
+    "EkonomiStyrning/ESbokKap1/Contingencies.md",
+    "EkonomiStyrning/FL2024-08-27/dupontmodellen.md",
+    "EkonomiStyrning/ESbokKap1/mission, goals and strategies.md",
+    "EkonomiStyrning/ESbokKap1/technology.md",
+    "EkonomiStyrning/ESbokKap1/management control system.md",
+    "EkonomiStyrning/ESbokKap4/expense responsibility centre.md",
+    "EkonomiStyrning/ESbokKap3/psychological model of human behaviour.md",
+    "EkonomiStyrning/FL2024-08-27/ROCE.md",
     "EkonomiStyrning/ESbokKap6/resource & flow efficiency.md",
     "EkonomiStyrning/ESbokKap6/Project management triangle.md",
+    "EkonomiStyrning/ESbokKap6/lean management.md",
     "EkonomiStyrning/ESbokKap6/business unit structure.md",
-    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
-    "PL/PLbok/PLkap1/Projekt.md",
-    "PL/plFöreläsning24-04-25/Kritisk linje.md",
-    "aktivitetsplan.md",
+    "EkonomiStyrning/ESbokKap5/administration of transfer prices.md",
     "PL/PLbok/PLkap1/Organisationsstruktur.md",
-    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
-    "PL/Jacobsson et al/Organisationsteori.md",
-    "PL/plFöreläsning24-04-23/Differentiering och integrering.md",
-    "EkonomiStyrning/ESbokKap5/two sets of prices.md",
-    "EkonomiStyrning/ESbokKap5/two-step pricing.md",
-    "EkonomiStyrning/ESbokKap5/transfer pricing.md",
-    "EkonomiStyrning/ESbokKap5/standard costs.md",
-    "EkonomiStyrning/ESbokKap5/shared service centres.md",
-    "EkonomiStyrning/ESbokKap4/revenue responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/responsibility centre.md",
-    "EkonomiStyrning/ESbokKap5/profit sharing.md",
-    "EkonomiStyrning/ESbokKap4/profit responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/investment responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/goal congruence.md",
-    "EkonomiStyrning/frågor es.md",
+    "EkonomiStyrning/FL2024-08-29/inteorganisatorisk integration.md",
+    "PL/PLbok/PLkap1/Projekt.md",
+    "EkonomiStyrning/ESbokKap6",
     "EkonomiStyrning/ESbokKap4",
     "EkonomiStyrning/ESbokKap5",
     "EkonomiStyrning/ESbokKap3",
@@ -188,7 +189,6 @@
     "shareholder",
     "EkonomiStyrning/ESbokKap1",
     "EkonomiStyrning/FL2024-08-27",
-    "EkonomiStyrning/FL2024-08-26",
     "Assets/Pasted image 20240605160421.png",
     "Assets/Pasted image 20240605155207.png",
     "Assets/Pasted image 20240605131930.png",

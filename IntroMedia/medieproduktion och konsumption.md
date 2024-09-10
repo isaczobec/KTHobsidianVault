@@ -20,5 +20,6 @@ Kan dela upp dessa i produktion och konsumption
 - De som utvecklar tjänst, skapar produktionssystem
 - använda produktionssystem, (ex använder zoom för att hålla en presentation)
 **Konsumtion**
-- 
+
+
 

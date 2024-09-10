@@ -50,13 +50,17 @@ ifrågasättbart att göra elaborate planer när det mesta kommer ändras
 vattenfall inte flexibelt för externa/interna förändringar (ex att kunden ändrar sig resp att en intern teknisk lösning inte fungerade as anticipated)
 
 remedy: [[Scrum]], planera övergripande och ha rullande närzonsplanering i form av sprintar
+- mer flexibelt eftersom utifrån hur projektet fortlöper och kan tillgodose ändrade önskemål fr kunder
 
 agila metoder har också viktiga aspects för individuals and interactions: (se [[Scrum]] igen)
 - ingen traditionell projektledare, alla responsible för output
 - face2face contact
+	- arbeta tätt tillsammans
 - daily scrum
 - social kompetens
 - återkoppla ofta med customer
+
+planerar i sprintar där varje sprint utvärderas och planeras utifrån när den är klar, pågår t projekt klart
 
 Potentiell nackdel:
 - tappar känsla av att vara i kontroll
