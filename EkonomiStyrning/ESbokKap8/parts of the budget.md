@@ -27,7 +27,7 @@ cost of sales är standardkostnaden för produkterna som budgeteras (predictas) 
 ## G&A expenses
 generall administration
 - det mesta är discretionary costs
-- en del är engineered costs (ex book-keeping) är engineered costs
+- en del är engineered costs (ex book-keeping)
 
 ## R&D expenses
 

@@ -15,7 +15,7 @@ skilljer sig från [[budget]]ing på olika sätt:
 	- detta görs ibland i vanliga [[budget]]ar
 - Frequency
 	- updateras mer frequently än en [[budget]] (ex varje kvartal vs år)
-	- Updateras ibland inte med konstant mellanrum utan när [[Contingencies]] har ändrats
+	- Updateras ibland inte med konstant mellanrum utan när [[Contingencies]] har ändrats (vid behov)
 - Commitement
 	- Ofta hålls ingen accountable för att möta forecasten
 	- Kan dock göra det mer eller mindre (eller partly)
@@ -27,7 +27,7 @@ skilljer sig från [[budget]]ing på olika sätt:
 Om rolling forecasts planeras i detalj, uppdateras regularly istället för vid behov, ses som commitment och evaluatas tightly är de i princip som en budget och löser inte [[critique against budgeting]]
 
 ### Targets, forecats and resource allocations
-- Dessa görs tillsammans i [[budget]]ing ([[budgeting process]]) ÄVEN FAST de har olika, oförenliga mål
+- Dessa görs tillsammans i [[budget]]ing ([[budgeting process]]) ÄVEN FAST de har olika, oförenliga mål (bakas in i samma siffror)
 - Vissa skilljer dock på dessa till tre separata processer eftersom de är i konflikt med varandra
 	- Målet med targetting är att vara motiverande
 	- forecasts ska ge bild av framtiden

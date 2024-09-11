@@ -8,24 +8,24 @@
 
 - BSC ska hjälpa managers välja [[performance measures]] som scorar högt på [[measurement criterion]] [[representational criterion]] [[user criterion]]
 	- Eftersom detta ska hjälpa managers identifiera problem och hitta sätt att lösa de på ses det som ett sätt att skapa ett enabling [[management control system]]
-- BSC bestämmer [[critical succes factors]]: säger vad som [[responsibility centre]] måste göra för att vara succesful, ***vilket mäts på 4 sätt:***
+- BSC bestämmer [[critical succes factors]]: säger vad som [[responsibility centre]] måste göra för att vara succesful, ***vilket mäts inom 4 perspektiv:***
 	1. Financial perspective - hur ser shareholder oss (lagging measures)
 	2. Customer perspective - Hur ser kunder oss (leading measures)
 	3. Internal business perspective - vad måste vi vara bra på? (leading measures)
 	4. Innovation and learning perspective - kan vi fortsätta skapa värde och göra det bättre? (long-term leading measures)
 
 **Hur skapa BSC?**
-1. Börjar med [[mission, goals and strategies]], 
-2. utifrån dessa sätter strategiska mål för varje av dessa perspektiv
-3. sen bestämmer critical success factors
-4. och sedan performance measures
-5. ***SE BILD s324***
-6. -
-7. Perspektivens innehåll och antal kan varieras 
+1. Börjar med företagets [[mission, goals and strategies]]
+1. utifrån dessa sätter strategiska mål för varje av dessa perspektiv
+2. sen bestämmer critical success factors
+3. och sedan performance measures
+4. ***SE BILD s324***
+5. -
+6. Perspektivens innehåll och antal kan varieras 
 	1. Ex många börjat m sustainability
-8. hur många och vilka nyckeltal som väljs kan också variera
+7. hur många och vilka nyckeltal som väljs kan också variera
 	1. vanligt m 4-7 i varje perspektiv
-9. 
+8. 
 
 ### BSC är populärt pga
 - systematiserar olika measures in i olika perspektiv

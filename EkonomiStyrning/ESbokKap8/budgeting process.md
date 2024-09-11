@@ -12,13 +12,13 @@ kan vara bottom-up eller top-down (lower managers respektive top managers influe
 	- snabbt, top managers kan bestämma vad de vill att budgeten visar baserat på vad de bedömmer som taktiskt eller forecasted performance
 - **Nackdelar**
 	- Lower managers har inte deltagit
-		- Alltså top down mest applicerbart i public service eller organisationer där nivåerna av spenderande är kända i början av året
+		- Alltså top down mest applicerbart i public service eller organisationer där nivåerna av spenderande är kända i början av året (missar använda lägre managers specialistkompetens)
 
 - ### Bottom up
 - lower managers och employees skickar vad de tror performancen de kommer vara till budgeting function
 - **Budget participation** (= lower level managers hjälper sätta budget) är positivt för motivation eftersom:
-- högre acceptance av budget goals, högre commitment till målen
-- Siffrorna blir mer rimliga pga lower level managers specialisering inom sin avdelning (extra bra i osäkra environments)
+	- högre acceptance av budget goals, högre commitment till målen
+	- Siffrorna blir mer rimliga pga lower level managers specialisering inom sin avdelning (extra bra i osäkra environments)
 - Kommunikationen mellan top/lower level managers gör att lower managers får bättre uppfattning av vad deras jobb är
 - **nackdelar:**
 	- Kan budgetera buffertar

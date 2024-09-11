@@ -7,7 +7,7 @@ viktigt att ha lagom många och rätt mix av financial och non financial [[perfo
 - för många blir aldeles för komplext
 - för få blir för onyanserat
 
-- Bör ha komba fiancial/nonfinancial (lagging/leading)
+- Bör ha kombo fiancial/nonfinancial (lagging/leading)
 	- Detta för att ett samband mellan att improva leading measures förmodligen kommer öka lagging measures i framtiden (nonfinancial bättre => financial bättre)
 		-  ex customer satisfaction --> högre profits
 - MÅSTE DOCK undersöka causality mellan profits och använda nonfinancial measures för att vara säkra på att deras efforts inte är in vain

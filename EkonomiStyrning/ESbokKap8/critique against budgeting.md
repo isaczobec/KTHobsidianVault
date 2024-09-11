@@ -1,9 +1,13 @@
 #EsBokKap8
 Några argument mot [[budget]]ing:
 
-### [[budget]]ar skapar [[budget gaming]] och myopia
+### [[budget]]ar skapar [[budget gaming]]
 - se [[budget gaming]]
+
+### Budgets skapar suboptimization/[[silo problem]]
 - sub-optimization händer eftersom budgets gör managers responsible för resultatet av endast sin unit, vilket inte automatiskt är samma sak som att optimera för hela organisationen (se [[silo problem]])
+
+### Budgets kan vara för kortsiktiga
 - att budgets är periodiska gör att man fokuserar på kortsiktigt uppnå resultat även om det får negativa long-term-konsekvenser
 
 ### Budgeting kräver för mycket resurser

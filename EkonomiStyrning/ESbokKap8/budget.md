@@ -41,6 +41,6 @@ Både ritual och legitimacy rollerna relaterar till [[sociological model of huma
 ---
 **Varje buget har [[parts of the budget]]**
 
-Att ska budget kräver en [[budgeting process]]
+Att skapa budget kräver en [[budgeting process]]
 
 Budget bör även vara subject to [[budget evaluation]]

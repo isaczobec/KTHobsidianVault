@@ -7,6 +7,7 @@ kan utföras top-down (tight budgetary control) eller bottom up (loose budgetary
 - mutual understanding att budget var en gissning som gjordes utan infromationen som finns i slutet av perioden
 - evaluationen är en utvärdering av perestanda, vad som kan läras, och hur uniten kan förbättras i framtiden
 
+----
 - tight ökar disciplin och compliance (relaterat till mehcanistic [[management control system]]s)
 	- Kan funka i low-cost porters strategy, och stabila [[Contingencies]]
 - loose ökar initiativ, villighet att ta beslut (relaterat till organice [[management control system]]s)
