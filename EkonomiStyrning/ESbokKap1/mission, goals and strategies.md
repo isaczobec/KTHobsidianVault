@@ -52,6 +52,7 @@ finns financial och strategic goals
 		- om flera börjar lösa problem på samma sätt kan hela strategiska riktigningen för ett företag förändras, ex inköpare prioriterar experience framför pris
 	- detta perspektiv hävdar att testandet av strategier är det viktigaste
 	- tänkbart att enabling [[management control system]]s är centralt för detta
+	- Kopplat till interactive control systems i [[simons levers of control]]
 
 ### typer av strategi
 

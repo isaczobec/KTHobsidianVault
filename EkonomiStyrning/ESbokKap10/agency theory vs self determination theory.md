@@ -13,7 +13,7 @@ beror på:
 
 ## What kind of people?
 - i vissa branshcer ses financial incentives som standard, blir svårt konkurera om bra anställda om inte har de
-- folk som är väldigt competetive och gillar att få credit preferar förmodligen variable financial incentives (bonuses) över fixed pay
+- folk som är väldigt competetive och gillar att få credit preferar förmodligen variable financial incentives (bonuses) över fixed pay (använd alltså [[agency theory]])
 	- Org måste tänka på om de vill ha denna typ av anställda eller sådana som kan arbeta bra
 	- dessa val påverkar kultur
 

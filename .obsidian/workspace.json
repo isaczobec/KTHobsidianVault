@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap10/agency theory vs self determination theory.md",
+                "file": "bokmärken ekonomistyrning.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "base",
+                "query": "tag:#EsBokKap10",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap10/agency theory vs self determination theory.md",
+                "file": "bokmärken ekonomistyrning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap10/agency theory vs self determination theory.md",
+                "file": "bokmärken ekonomistyrning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap10/agency theory vs self determination theory.md"
+                "file": "bokmärken ekonomistyrning.md"
               }
             }
           }
@@ -147,35 +148,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "40da78dd561b004d",
   "lastOpenFiles": [
-    "EkonomiStyrning/frågor es.md",
-    "EkonomiStyrning/ESbokKap10/agency theory vs self determination theory.md",
-    "EkonomiStyrning/ESbokKap10",
-    "EkonomiStyrning/ESbokKap3/agency theory.md",
-    "EkonomiStyrning/ESbokKap10/roles of compensation.md",
+    "EkonomiStyrning/ESbokKap1/mission, goals and strategies.md",
+    "bokmärken ekonomistyrning.md",
     "EkonomiStyrning/ESbokKap10/self determination theory.md",
-    "EkonomiStyrning/ESbokKap10/theory x and theory y.md",
+    "EkonomiStyrning/ESbokKap8/budget gaming.md",
+    "EkonomiStyrning/ESbokKap8/critique against budgeting.md",
+    "EkonomiStyrning/ESbokKap9/pitfalls when using financial measures.md",
+    "EkonomiStyrning/ESbokKap9/critique of financial performance measures.md",
+    "EkonomiStyrning/ESbokKap10/agency theory vs self determination theory.md",
+    "EkonomiStyrning/FL2024-08-26/simons levers of control.md",
+    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
+    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
     "EkonomiStyrning/ESbokKap10/types of incentives and motivations.md",
+    "EkonomiStyrning/ESbokKap10/roles of compensation.md",
+    "EkonomiStyrning/ESbokKap3/agency theory.md",
+    "EkonomiStyrning/ESbokKap10/theory x and theory y.md",
+    "EkonomiStyrning/frågor es.md",
+    "EkonomiStyrning/ESbokKap10",
     "performance measure.md",
     "EkonomiStyrning/ESbokKap9/pitfalls when using non financial performance measures.md",
     "EkonomiStyrning/ESbokKap9/representational criterion.md",
     "EkonomiStyrning/ESbokKap9/user criterion.md",
-    "EkonomiStyrning/ESbokKap9/pitfalls when using financial measures.md",
     "EkonomiStyrning/ESbokKap9/non-financial performance measures.md",
     "EkonomiStyrning/ESbokKap9/EVA.md",
-    "EkonomiStyrning/ESbokKap9/critique of financial performance measures.md",
     "EkonomiStyrning/ESbokKap9/critical succes factors.md",
-    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
     "EkonomiStyrning/FL2024-08-27/balansräkning.md",
     "EkonomiStyrning/ESbokKap9/measurement criterion.md",
     "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
-    "EkonomiStyrning/ESbokKap8/critique against budgeting.md",
-    "EkonomiStyrning/ESbokKap8/budgeting process.md",
-    "EkonomiStyrning/ESbokKap8/budget gaming.md",
-    "EkonomiStyrning/ESbokKap8/budget evaluation.md",
-    "EkonomiStyrning/ESbokKap8/budget.md",
-    "EkonomiStyrning/ESbokKap8/parts of the budget.md",
     "EkonomiStyrning/ESbokKap9",
     "EkonomiStyrning/ESbokKap8",
     "EkonomiStyrning/ESbokKap6",

@@ -44,7 +44,7 @@ Agency-problem är hur principals ska få agents att agera i deras bästa intres
 	- incentive contracts som ger bonusar för mätetal som bidrar till [[mission, goals and strategies]] är [[goal congruence]]t, eftersträva detta
 	- att inte ha bonusar för performance (bara fixed pay) posar ett agency probelm
 		- Agent kommer inte jobba lika hårt
-	- Se alltså till att contract ökar alignar principals och agents mål, låt agents dela wealth
+	- Se alltså till att contract  alignar principals och agents mål, låt agents dela wealth
 	- se till att measures är kopplade till agetns performance för att de ska vara motiverande
 
 Monitoring och incentives kan alldrig försäkra 100% [[goal congruence]]
