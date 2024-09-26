@@ -2,7 +2,7 @@
 påverkar designen av [[management control system]]
 
 - teknologi spelar olika roll om det är en tillverkande eller serviceföretag
-- ### **manufacturing** ses som komplicerat
+- ### **manufacturing** ses som komplicerat (borde kanske vara tvärtom?)
 	- kan lagra varor
 	- kan judga kvaliten innan leverans
 	- kam automatisera; och minska labour costs

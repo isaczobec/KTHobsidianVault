@@ -8,7 +8,7 @@ Alltså måsta man inte tänka på förhållandet mellan dessa två mått
 
 
 - Vissa top managers vill göra om funktioner i [[Funktionsbaserad organisationsstruktur]] till profit centres
-- deras beslut om detta kan påverkas av hur mycket influence managers av en funktion har över funktionens bottom line
+- deras beslut om detta kan påverkas av hur mycket influence managers av en funktion har över funktionens bottom line (controllability principle)
 -
 #clarify (vet inte riktigt vad transfer pricing är)
 - ex kan marketing unit bli gjord till en profit centre genom att via [[transfer pricing]] charga uniten med standardkostnaden av units sold

@@ -11,12 +11,8 @@
             "id": "40da78dd561b004d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bokmärken ekonomistyrning.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EsBokKap10",
+                "query": "tag:#EsBokKap5",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bokmärken ekonomistyrning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bokmärken ekonomistyrning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bokmärken ekonomistyrning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,33 +142,33 @@
   },
   "active": "40da78dd561b004d",
   "lastOpenFiles": [
-    "EkonomiStyrning/ESbokKap1/mission, goals and strategies.md",
-    "bokmärken ekonomistyrning.md",
-    "EkonomiStyrning/ESbokKap10/self determination theory.md",
-    "EkonomiStyrning/ESbokKap8/budget gaming.md",
-    "EkonomiStyrning/ESbokKap8/critique against budgeting.md",
-    "EkonomiStyrning/ESbokKap9/pitfalls when using financial measures.md",
-    "EkonomiStyrning/ESbokKap9/critique of financial performance measures.md",
-    "EkonomiStyrning/ESbokKap10/agency theory vs self determination theory.md",
-    "EkonomiStyrning/FL2024-08-26/simons levers of control.md",
-    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
-    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
-    "EkonomiStyrning/ESbokKap10/types of incentives and motivations.md",
-    "EkonomiStyrning/ESbokKap10/roles of compensation.md",
+    "EkonomiStyrning/ESbokKap5/shared service centres.md",
+    "EkonomiStyrning/ESbokKap5/administration of transfer prices.md",
+    "EkonomiStyrning/ESbokKap5/profit sharing.md",
+    "EkonomiStyrning/ESbokKap5/two sets of prices.md",
+    "EkonomiStyrning/ESbokKap5/two-step pricing.md",
+    "EkonomiStyrning/ESbokKap5/cost based transfer pricing.md",
+    "EkonomiStyrning/ESbokKap5/transfer pricing.md",
+    "EkonomiStyrning/ESbokKap5/competetive prices.md",
+    "EkonomiStyrning/ESbokKap4/constraints profit and investment centre.md",
+    "EkonomiStyrning/ESbokKap4/advantages and difficulities of profit and investement centres.md",
+    "EkonomiStyrning/ESbokKap4/profit responsibility centre.md",
+    "EkonomiStyrning/ESbokKap4/goal congruence.md",
+    "EkonomiStyrning/ESbokKap4/investment responsibility centre.md",
+    "EkonomiStyrning/ESbokKap4/expense responsibility centre.md",
+    "EkonomiStyrning/ESbokKap4/responsibility centre.md",
+    "EkonomiStyrning/ESbokKap4/revenue responsibility centre.md",
+    "EkonomiStyrning/ESbokKap4/effectiveness.md",
+    "EkonomiStyrning/ESbokKap4/efficiency.md",
+    "EkonomiStyrning/ESbokKap3/management control systems model of human behaviour.md",
+    "EkonomiStyrning/ESbokKap3/sociological model of human behaviour.md",
+    "EkonomiStyrning/ESbokKap3/psychological model of human behaviour.md",
+    "EkonomiStyrning/ESbokKap3/economic model of human behaviour.md",
+    "EkonomiStyrning/ESbokKap3/behaviourial economics.md",
     "EkonomiStyrning/ESbokKap3/agency theory.md",
-    "EkonomiStyrning/ESbokKap10/theory x and theory y.md",
-    "EkonomiStyrning/frågor es.md",
+    "EkonomiStyrning/ESbokKap3/human behaviour.md",
+    "EkonomiStyrning/ESbokKap1/shareholder or stakeholder view.md",
     "EkonomiStyrning/ESbokKap10",
-    "performance measure.md",
-    "EkonomiStyrning/ESbokKap9/pitfalls when using non financial performance measures.md",
-    "EkonomiStyrning/ESbokKap9/representational criterion.md",
-    "EkonomiStyrning/ESbokKap9/user criterion.md",
-    "EkonomiStyrning/ESbokKap9/non-financial performance measures.md",
-    "EkonomiStyrning/ESbokKap9/EVA.md",
-    "EkonomiStyrning/ESbokKap9/critical succes factors.md",
-    "EkonomiStyrning/FL2024-08-27/balansräkning.md",
-    "EkonomiStyrning/ESbokKap9/measurement criterion.md",
-    "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
     "EkonomiStyrning/ESbokKap9",
     "EkonomiStyrning/ESbokKap8",
     "EkonomiStyrning/ESbokKap6",
