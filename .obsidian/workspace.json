@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0bfb7f22116f9c75",
+        "id": "f7e8cb1747546ac5",
         "type": "tabs",
         "children": [
           {
-            "id": "40da78dd561b004d",
+            "id": "144ce871cc8ba9e8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "EkonomiStyrning/FL2024-08-26/output controls.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EsBokKap5",
+                "query": "tag:#EsBokKap1",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EkonomiStyrning/FL2024-08-26/output controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EkonomiStyrning/FL2024-08-26/output controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EkonomiStyrning/FL2024-08-26/output controls.md"
+              }
             }
           }
         ]
@@ -140,34 +147,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "40da78dd561b004d",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "EkonomiStyrning/ESbokKap5/shared service centres.md",
-    "EkonomiStyrning/ESbokKap5/administration of transfer prices.md",
-    "EkonomiStyrning/ESbokKap5/profit sharing.md",
-    "EkonomiStyrning/ESbokKap5/two sets of prices.md",
-    "EkonomiStyrning/ESbokKap5/two-step pricing.md",
-    "EkonomiStyrning/ESbokKap5/cost based transfer pricing.md",
-    "EkonomiStyrning/ESbokKap5/transfer pricing.md",
-    "EkonomiStyrning/ESbokKap5/competetive prices.md",
+    "EkonomiStyrning/ESbokKap1/management control system.md",
+    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
+    "EkonomiStyrning/FL2024-08-26/input controls.md",
+    "PL/PLbok/PLkap1/Organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
+    "EkonomiStyrning/ESbokKap6/business unit structure.md",
+    "PL/plFöreläsning24-04-23/Differentiering och integrering.md",
+    "Organisationsstuktur.md",
+    "PL/PLVideoOrganisationsstruktur/Projektbaserad organisationsstruktur.md",
+    "EkonomiStyrning/ESbokKap1/Contingencies.md",
+    "EkonomiStyrning/Ekonomistryning Tenta.md",
+    "EkonomiStyrning/FL2024-08-29/commited costs.md",
+    "EkonomiStyrning/ESbokKap3/behaviourial economics.md",
+    "EkonomiStyrning/ESbokKap3/management control systems model of human behaviour.md",
+    "EkonomiStyrning/FL2024-08-26/ekonomistyrning.md",
+    "PL/plSeminarium24-05-03/Kring Surgeryinlämning.md",
+    "EkonomiStyrning/ESbokKap8/critique against budgeting.md",
+    "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
+    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
+    "EkonomiStyrning/ESbokKap10/self determination theory.md",
+    "EkonomiStyrning/ESbokKap4/responsibility centre.md",
+    "EkonomiStyrning/ESbokKap4/goal congruence.md",
     "EkonomiStyrning/ESbokKap4/constraints profit and investment centre.md",
     "EkonomiStyrning/ESbokKap4/advantages and difficulities of profit and investement centres.md",
-    "EkonomiStyrning/ESbokKap4/profit responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/goal congruence.md",
     "EkonomiStyrning/ESbokKap4/investment responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/expense responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/revenue responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/effectiveness.md",
-    "EkonomiStyrning/ESbokKap4/efficiency.md",
-    "EkonomiStyrning/ESbokKap3/management control systems model of human behaviour.md",
-    "EkonomiStyrning/ESbokKap3/sociological model of human behaviour.md",
-    "EkonomiStyrning/ESbokKap3/psychological model of human behaviour.md",
-    "EkonomiStyrning/ESbokKap3/economic model of human behaviour.md",
-    "EkonomiStyrning/ESbokKap3/behaviourial economics.md",
-    "EkonomiStyrning/ESbokKap3/agency theory.md",
-    "EkonomiStyrning/ESbokKap3/human behaviour.md",
-    "EkonomiStyrning/ESbokKap1/shareholder or stakeholder view.md",
     "EkonomiStyrning/ESbokKap10",
     "EkonomiStyrning/ESbokKap9",
     "EkonomiStyrning/ESbokKap8",

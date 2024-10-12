@@ -7,7 +7,7 @@ olika delar som vanligtvis finns i en organisations [[budget]]
 - Väldigt uncertain, olika grad av uncertainty i olika företag/branscher
 - ex osäkerhet i produktion och marknadsefterfrågan
 - måste försöka förutspå dessa
-- Recogniza vad marketing och sales managers har kontroll över (ex inte state of the economy eller marknaden, men advertising och anställda salespeople)
+- Recogniza vad marketing och sales managers har kontroll över (ex inte state of the economy eller marknaden, men advertising och anställda salespeople) (tillämpa [[controllability principle]])
 
 ## Budgetet production cost and cost of sales
 
