@@ -1,4 +1,4 @@
-
+#VLBokKap7
 utöver flödet av en layout (se [[basic layout types]]) är apperance av en layout viktig
 - ex för customer experience i high vis service
 - research visar att appearance påverkar customer och employee wellbeing och således också produktivitet

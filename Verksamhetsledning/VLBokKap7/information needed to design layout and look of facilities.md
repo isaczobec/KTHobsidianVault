@@ -1,4 +1,4 @@
-
+#VLBokKap7
 utöver val om [[basic layout types]] måste **mer detaljerad design** baseras på information om natur och volym acv flow att akomoderas, och workers/employee preferences
 
 ## Information for flow analysis of layouts

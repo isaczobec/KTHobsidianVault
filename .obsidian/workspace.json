@@ -25,14 +25,10 @@
             "id": "aa177ae9a27f1bc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "information needed to design layout and look of facilities.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "information needed to design layout and look of facilities"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -67,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EsBokKap1",
+                "query": "Indirect",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "information needed to design layout and look of facilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for information needed to design layout and look of facilities"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "information needed to design layout and look of facilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from information needed to design layout and look of facilities"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,11 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "information needed to design layout and look of facilities.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of information needed to design layout and look of facilities"
+              "title": "Outline"
             }
           }
         ]
@@ -180,10 +172,15 @@
   },
   "active": "aa177ae9a27f1bc3",
   "lastOpenFiles": [
-    "facility appearance.md",
-    "information needed to design layout and look of facilities.md",
-    "basic layout types.md",
-    "layout and look.md",
+    "Verksamhetsledning/VLBokKap8/Gartner hype curve.md",
+    "Verksamhetsledning/VLBokKap8/process technology.md",
+    "Verksamhetsledning/VLBokKap8",
+    "Untitled.md",
+    "Verksamhetsledning/VLBokKap7/basic layout types.md",
+    "Verksamhetsledning/VLBokKap7",
+    "Verksamhetsledning/VLBokKap7/layout and look.md",
+    "Verksamhetsledning/VLBokKap7/information needed to design layout and look of facilities.md",
+    "Verksamhetsledning/VLBokKap7/facility appearance.md",
     "Verksamhetsledning/VLBokKap6/process type.md",
     "Verksamhetsledning/VLBokKap6/volume and vareity.md",
     "Verksamhetsledning/VLBokKap6/The effects of process variability.md",
@@ -204,18 +201,12 @@
     "Verksamhetsledning/VLFöreläsning24-10-30/operations.md",
     "Verksamhetsledning/VLFöreläsning24-10-30/process chains.md",
     "Verksamhetsledning/VLFöreläsning24-10-30",
-    "Verksamhetsledning/VLFöreläsning24-10-30/P-D boundary.md",
-    "Kommunikation och informaion/semiotics.md",
-    "PL/plSeminarium24-05-07/Utforma arbetsorganisation utifrån verksamhetsprocesserna.md",
-    "Kommunikation och informaion/medie & kommunikationsvetenskap.md",
     "Kommunikation och informaion",
     "Verksamhetsledning",
     "EkonomiStyrning/ESbokKap10",
     "EkonomiStyrning/ESbokKap9",
     "EkonomiStyrning/ESbokKap8",
     "EkonomiStyrning/ESbokKap6",
-    "EkonomiStyrning/ESbokKap4",
-    "EkonomiStyrning/ESbokKap5",
     "Assets/Pasted image 20240830165405.png",
     "Assets/Pasted image 20240830162900.png",
     "Assets/Pasted image 20240830161256.png",

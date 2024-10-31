@@ -1,4 +1,4 @@
-
+#VLBokKap7
 flesta practical layouts derivas från fyra basic types:
 (något relaterade till [[process type]])
 - ## Fixed-position layout

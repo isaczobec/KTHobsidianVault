@@ -1,4 +1,4 @@
-
+#VLBokKap7
 är hur facilities i en [[process]] eller [[operations]] är positionerade i förhållande t varandra respektive ser ut
 - Påverkar flödet av transformerade items genom operationen eller processen
 - påverkar hur anställda/kunder(i high vis service operations) reagerar på att vara del av processen
