@@ -1,4 +1,4 @@
-#EsBokKap3 
+#EsBokKap3
 måste ta lärdommar från [[economic model of human behaviour]], [[sociological model of human behaviour]], och [[psychological model of human behaviour]] och integrera/tillämpa dem när man designar/förutspår hur [[management control system]]s kommer fungera
 
 finns ingen generell teori för hur dessa kan tillämpas i MCSs, men 3 principer kan skapas, i en slags *management control systems model of human behaviour*.

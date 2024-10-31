@@ -15,6 +15,7 @@ används för att komma fram till [[transfer pricing]] när inget marknadspris f
 - kan använda percentage of costs, eller percentage of investment för att take capital into account
 - borde också bara tillåta en profit mark-up i linje med vad marknadsvärdet (markupen) hade varit, så att selling [[profit responsibility centre]]t inte framstår som för bra
 
+
 #clarify fattade inte riktigt det här,  kolla ca s. 152
 ibland kan transfer prices ha stora upstream fixed costs inbakade i sig
 - sista profit centret, som säljer till utsidan, kanske inte är medvetna om detta elller vill ha hög egen profit, så de accepterar ett lägre än ok transfer price --> dåligt för hela organisationens profits

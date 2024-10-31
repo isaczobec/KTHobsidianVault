@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EkonomiStyrning/FL2024-08-26/output controls.md",
+                "file": "EkonomiStyrning/ESbokKap1/shareholder or stakeholder view.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "shareholder or stakeholder view"
+            }
+          },
+          {
+            "id": "aa177ae9a27f1bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "information needed to design layout and look of facilities.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "information needed to design layout and look of facilities"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EkonomiStyrning/FL2024-08-26/output controls.md",
+                "file": "information needed to design layout and look of facilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for information needed to design layout and look of facilities"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EkonomiStyrning/FL2024-08-26/output controls.md",
+                "file": "information needed to design layout and look of facilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from information needed to design layout and look of facilities"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EkonomiStyrning/FL2024-08-26/output controls.md"
-              }
+                "file": "information needed to design layout and look of facilities.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of information needed to design layout and look of facilities"
             }
           }
         ]
@@ -147,49 +178,49 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "aa177ae9a27f1bc3",
   "lastOpenFiles": [
-    "EkonomiStyrning/ESbokKap1/management control system.md",
-    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
-    "EkonomiStyrning/FL2024-08-26/input controls.md",
-    "PL/PLbok/PLkap1/Organisationsstruktur.md",
-    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
-    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
-    "EkonomiStyrning/ESbokKap6/business unit structure.md",
-    "PL/plFöreläsning24-04-23/Differentiering och integrering.md",
-    "Organisationsstuktur.md",
-    "PL/PLVideoOrganisationsstruktur/Projektbaserad organisationsstruktur.md",
-    "EkonomiStyrning/ESbokKap1/Contingencies.md",
-    "EkonomiStyrning/Ekonomistryning Tenta.md",
-    "EkonomiStyrning/FL2024-08-29/commited costs.md",
-    "EkonomiStyrning/ESbokKap3/behaviourial economics.md",
-    "EkonomiStyrning/ESbokKap3/management control systems model of human behaviour.md",
-    "EkonomiStyrning/FL2024-08-26/ekonomistyrning.md",
-    "PL/plSeminarium24-05-03/Kring Surgeryinlämning.md",
-    "EkonomiStyrning/ESbokKap8/critique against budgeting.md",
-    "EkonomiStyrning/ESbokKap8/beyond budgeting.md",
-    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
-    "EkonomiStyrning/ESbokKap10/self determination theory.md",
-    "EkonomiStyrning/ESbokKap4/responsibility centre.md",
-    "EkonomiStyrning/ESbokKap4/goal congruence.md",
-    "EkonomiStyrning/ESbokKap4/constraints profit and investment centre.md",
-    "EkonomiStyrning/ESbokKap4/advantages and difficulities of profit and investement centres.md",
-    "EkonomiStyrning/ESbokKap4/investment responsibility centre.md",
+    "facility appearance.md",
+    "information needed to design layout and look of facilities.md",
+    "basic layout types.md",
+    "layout and look.md",
+    "Verksamhetsledning/VLBokKap6/process type.md",
+    "Verksamhetsledning/VLBokKap6/volume and vareity.md",
+    "Verksamhetsledning/VLBokKap6/The effects of process variability.md",
+    "Verksamhetsledning/VLBokKap6/automating processes.md",
+    "Verksamhetsledning/VLBokKap6/mått processes.md",
+    "Verksamhetsledning/VLBokKap6/proccess networks.md",
+    "Verksamhetsledning/VLBokKap6/process.md",
+    "Verksamhetsledning/VLBokKap6/process bottlenecks.md",
+    "Verksamhetsledning/VLBokKap6/process design.md",
+    "Verksamhetsledning/VLBokKap6/process mapping.md",
+    "Verksamhetsledning/VLBokKap6/product-process matrix.md",
+    "Verksamhetsledning/VLBokKap6/workflow.md",
+    "EkonomiStyrning/ESbokKap6/lean management.md",
+    "Verksamhetsledning/VLFöreläsning24-10-30/supply chain management.md",
+    "Verksamhetsledning/VLFöreläsning24-10-30/volume  variety.md",
+    "Verksamhetsledning/VLBokKap6",
+    "Verksamhetsledning/VLFöreläsning24-10-30/uncertainty.md",
+    "Verksamhetsledning/VLFöreläsning24-10-30/operations.md",
+    "Verksamhetsledning/VLFöreläsning24-10-30/process chains.md",
+    "Verksamhetsledning/VLFöreläsning24-10-30",
+    "Verksamhetsledning/VLFöreläsning24-10-30/P-D boundary.md",
+    "Kommunikation och informaion/semiotics.md",
+    "PL/plSeminarium24-05-07/Utforma arbetsorganisation utifrån verksamhetsprocesserna.md",
+    "Kommunikation och informaion/medie & kommunikationsvetenskap.md",
+    "Kommunikation och informaion",
+    "Verksamhetsledning",
     "EkonomiStyrning/ESbokKap10",
     "EkonomiStyrning/ESbokKap9",
     "EkonomiStyrning/ESbokKap8",
     "EkonomiStyrning/ESbokKap6",
     "EkonomiStyrning/ESbokKap4",
     "EkonomiStyrning/ESbokKap5",
-    "EkonomiStyrning/ESbokKap3",
-    "EkonomiStyrning/ESKompendium",
     "Assets/Pasted image 20240830165405.png",
     "Assets/Pasted image 20240830162900.png",
     "Assets/Pasted image 20240830161256.png",
     "Assets/Pasted image 20240830155952.png",
     "Assets/Pasted image 20240830153404.png",
-    "EkonomiStyrning/FL2024-08-29",
-    "shareholder",
     "Assets/Pasted image 20240605160421.png",
     "Assets/Pasted image 20240605155207.png",
     "Assets/Pasted image 20240605131930.png",

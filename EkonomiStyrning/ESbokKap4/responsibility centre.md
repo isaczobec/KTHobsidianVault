@@ -28,7 +28,7 @@
 	- Outputs kan gå till annan responsibility centre som input eller till marknaden (blir output ur [[Organisation]]en)
 		- revenue skapas genom att leverera outputs ur organisationen
 	- -
-	- i ex tillvärkning är input direkt kopplade till output (förädla råvara)
+	- i ex tillverkning är input direkt kopplade till output (förädla råvara)
 	- i andra centres (ex advertising/rnd) är kopplingen mellan input och output mycket mer indirekt/ambiguos
 		- Ökade investeringar (input i form av pengar) kan vara baserade på judgement istället för data och ge resultat först om några år
 	- -

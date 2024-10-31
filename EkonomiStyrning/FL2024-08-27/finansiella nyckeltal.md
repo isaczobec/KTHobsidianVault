@@ -9,5 +9,5 @@ Lönsamhetsmått:
 	- [[ROCE]]
 - Vinstmarginal
 - kapitalomsättningshastighet
-- soliditet
-- likviditet
+- [[soliditet]]
+- [[likviditet]]
