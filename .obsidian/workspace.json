@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e8cb1747546ac5",
+        "id": "a0860ca9314df7e8",
         "type": "tabs",
         "children": [
           {
-            "id": "144ce871cc8ba9e8",
+            "id": "43313fc9b8d2f6e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EkonomiStyrning/ESbokKap1/shareholder or stakeholder view.md",
-                "mode": "preview",
+                "file": "Verksamhetsledning/VLBokKap11/capacity management.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "shareholder or stakeholder view"
+              "title": "capacity management"
             }
           },
           {
-            "id": "aa177ae9a27f1bc3",
+            "id": "88bd4da89e17fad7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Medieproduktion/kolls film.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "kolls film"
             }
           }
         ],
@@ -63,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Indirect",
+                "query": "dependa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Verksamhetsledning/VLBokKap6/process bottlenecks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for process bottlenecks"
             }
           },
           {
@@ -122,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Verksamhetsledning/VLBokKap6/process bottlenecks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from process bottlenecks"
             }
           },
           {
@@ -147,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Verksamhetsledning/VLBokKap6/process bottlenecks.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of process bottlenecks"
             }
           }
         ]
@@ -170,43 +178,44 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "aa177ae9a27f1bc3",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "Verksamhetsledning/VLBokKap8/Gartner hype curve.md",
-    "Verksamhetsledning/VLBokKap8/process technology.md",
-    "Verksamhetsledning/VLBokKap8",
-    "Untitled.md",
-    "Verksamhetsledning/VLBokKap7/basic layout types.md",
-    "Verksamhetsledning/VLBokKap7",
-    "Verksamhetsledning/VLBokKap7/layout and look.md",
-    "Verksamhetsledning/VLBokKap7/information needed to design layout and look of facilities.md",
-    "Verksamhetsledning/VLBokKap7/facility appearance.md",
-    "Verksamhetsledning/VLBokKap6/process type.md",
-    "Verksamhetsledning/VLBokKap6/volume and vareity.md",
-    "Verksamhetsledning/VLBokKap6/The effects of process variability.md",
-    "Verksamhetsledning/VLBokKap6/automating processes.md",
-    "Verksamhetsledning/VLBokKap6/mått processes.md",
-    "Verksamhetsledning/VLBokKap6/proccess networks.md",
-    "Verksamhetsledning/VLBokKap6/process.md",
-    "Verksamhetsledning/VLBokKap6/process bottlenecks.md",
+    "Verksamhetsledning/VLBokKap11/capacity management.md",
+    "Medieproduktion/kolls film.md",
+    "Verksamhetsledning/VLBokKap10/sequencing.md",
+    "Verksamhetsledning/VLBokKap11",
+    "Verksamhetsledning/VLBokKap10/dependent and independet demand.md",
+    "Verksamhetsledning/VLBokKap10/loading.md",
+    "Verksamhetsledning/VLBokKap10/monitoring and control.md",
+    "Verksamhetsledning/VLBokKap10/planning and control.md",
+    "Verksamhetsledning/VLBokKap10/Sales and operations planning.md",
+    "Verksamhetsledning/VLBokKap10/volume-vareity effect on planning and control.md",
+    "Verksamhetsledning/VLBokKap10/supply-demand and planning and control.md",
+    "Verksamhetsledning/VLBokKap10/scheduling.md",
+    "Verksamhetsledning/VLBokKap10/PD Ratio.md",
+    "Verksamhetsledning/VLBokKap10",
     "Verksamhetsledning/VLBokKap6/process design.md",
+    "Verksamhetsledning/VLBokKap6/process.md",
+    "Verksamhetsledning/VLBokKap8/process technology.md",
+    "Verksamhetsledning/VLBokKap8/Gartner hype curve.md",
+    "Verksamhetsledning/VLBokKap6/mått processes.md",
     "Verksamhetsledning/VLBokKap6/process mapping.md",
-    "Verksamhetsledning/VLBokKap6/product-process matrix.md",
+    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
     "Verksamhetsledning/VLBokKap6/workflow.md",
-    "EkonomiStyrning/ESbokKap6/lean management.md",
-    "Verksamhetsledning/VLFöreläsning24-10-30/supply chain management.md",
-    "Verksamhetsledning/VLFöreläsning24-10-30/volume  variety.md",
+    "EkonomiStyrning/ESbokKap1/shareholder or stakeholder view.md",
+    "Medieproduktion/Medieproduktion introFL.md",
+    "Verksamhetsledning/VLBokKap6/process bottlenecks.md",
+    "Medieproduktion",
+    "Verksamhetsledning/VLBokKap6/product-process matrix.md",
+    "Verksamhetsledning/VLBokKap6/process type.md",
+    "Verksamhetsledning/VLBokKap6/The effects of process variability.md",
+    "Verksamhetsledning/VLBokKap8",
+    "Verksamhetsledning/VLBokKap7",
     "Verksamhetsledning/VLBokKap6",
-    "Verksamhetsledning/VLFöreläsning24-10-30/uncertainty.md",
-    "Verksamhetsledning/VLFöreläsning24-10-30/operations.md",
-    "Verksamhetsledning/VLFöreläsning24-10-30/process chains.md",
     "Verksamhetsledning/VLFöreläsning24-10-30",
     "Kommunikation och informaion",
     "Verksamhetsledning",
     "EkonomiStyrning/ESbokKap10",
-    "EkonomiStyrning/ESbokKap9",
-    "EkonomiStyrning/ESbokKap8",
-    "EkonomiStyrning/ESbokKap6",
     "Assets/Pasted image 20240830165405.png",
     "Assets/Pasted image 20240830162900.png",
     "Assets/Pasted image 20240830161256.png",

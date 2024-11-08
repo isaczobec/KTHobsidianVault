@@ -9,7 +9,7 @@ balancing är att allocata work equally mellan stages
 ### Balancing work time allocation
 måste respektera precedence av work tasks när allokerar arbete till process stages
 - kan räkna ut required cycle time
-- sedan räkna ut throughput time, dela med required cycle time och ta ceil för att få required stages, och sortera in activities i stages vars tid inte överstiger cycle time
+- sedan räkna ut total work content, dela med required cycle time och ta ceil för att få required stages, och sortera in activities i stages vars tid inte överstiger cycle time
 
 ### Arranging the stages
 för att få samma cycle time kan man arrangera en lång lina stages i en [[process]] i flera kortare flöden

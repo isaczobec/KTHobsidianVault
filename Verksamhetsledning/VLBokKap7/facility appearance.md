@@ -12,7 +12,7 @@ utöver flödet av en layout (se [[basic layout types]]) är apperance av en lay
 - fysisk distans och kommunikation mellan arbetare är significantly negativt korrelerade
 - distance reducing technology gör proximity viktigare
 
-## The effect of workplace deisgn on employees (servicescapes)
+## The effect of workplace deisgn on customers (servicescapes)
 - många faktorer påverkar environmental experience, genom space factors, signs and symbols
 - leder till cogniticve, emotional, physiological experiences
 - visa faktorer kontrollerbara (ljus, färg) andra okontrollerbara (andra kunder)
