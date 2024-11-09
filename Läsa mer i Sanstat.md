@@ -1,0 +1,2 @@
+
+skattning/konfidensintervall av standardavvikelse 

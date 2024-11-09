@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "kolls film"
             }
+          },
+          {
+            "id": "04051be6b57e7245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "product and service innovation process.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "product and service innovation process"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,10 +192,20 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "04051be6b57e7245",
   "lastOpenFiles": [
-    "Verksamhetsledning/VLBokKap11/capacity management.md",
+    "QFD.md",
+    "product and service innovation process.md",
+    "Assets/Pasted image 20241109161859.png",
+    "strategic role of product & service innovation.md",
+    "the innovation s-curve.md",
+    "innovation in the value chain.md",
+    "Creativity, innovation and design.md",
+    "incremental & radical innovation.md",
+    "The process of design.md",
+    "Läsa mer i Sanstat.md",
     "Medieproduktion/kolls film.md",
+    "Verksamhetsledning/VLBokKap11/capacity management.md",
     "Verksamhetsledning/VLBokKap10/sequencing.md",
     "Verksamhetsledning/VLBokKap11",
     "Verksamhetsledning/VLBokKap10/dependent and independet demand.md",
@@ -199,16 +223,7 @@
     "Verksamhetsledning/VLBokKap8/process technology.md",
     "Verksamhetsledning/VLBokKap8/Gartner hype curve.md",
     "Verksamhetsledning/VLBokKap6/mått processes.md",
-    "Verksamhetsledning/VLBokKap6/process mapping.md",
-    "EkonomiStyrning/ESbokKap9/balanced scorecard.md",
-    "Verksamhetsledning/VLBokKap6/workflow.md",
-    "EkonomiStyrning/ESbokKap1/shareholder or stakeholder view.md",
-    "Medieproduktion/Medieproduktion introFL.md",
-    "Verksamhetsledning/VLBokKap6/process bottlenecks.md",
     "Medieproduktion",
-    "Verksamhetsledning/VLBokKap6/product-process matrix.md",
-    "Verksamhetsledning/VLBokKap6/process type.md",
-    "Verksamhetsledning/VLBokKap6/The effects of process variability.md",
     "Verksamhetsledning/VLBokKap8",
     "Verksamhetsledning/VLBokKap7",
     "Verksamhetsledning/VLBokKap6",
@@ -225,7 +240,6 @@
     "Assets/Pasted image 20240605155207.png",
     "Assets/Pasted image 20240605131930.png",
     "Assets/Pasted image 20240605131115.png",
-    "Assets/Pasted image 20240523123217.png",
     "Untitled.canvas"
   ]
 }
