@@ -1,3 +1,4 @@
+#VLBokKap4
 - har stor fördel för företag eftersom att deras produkter är deras brand
 - är också bra att förbättra service & product innovation [[process]]es eftersom de
 	- driver & operisatinalisar innovation, ökar market share & nya markander

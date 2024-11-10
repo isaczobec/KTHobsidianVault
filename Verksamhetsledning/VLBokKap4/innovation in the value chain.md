@@ -1,4 +1,4 @@
-
+#VLBokKap4
 - Innovation är en del i värdekedjan, kan ses som [[process]] att transformera idéer till workable designs
 	- påverkar andra steg i värdekedjan: både produktion och distribution
 

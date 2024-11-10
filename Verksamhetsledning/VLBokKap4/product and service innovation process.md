@@ -1,4 +1,4 @@
-
+#VLBokKap4
 se [[strategic role of product & service innovation]]
 
 ## Performance objectives for the product and service innovation process
@@ -112,7 +112,7 @@ kan komma från många olika ställen:
 	2. finns spektrum av göra allt in house <-> outsourca allt
 	3. BILD S 129 visar aspekter av inhouse/outsource
 	4. ett innovationsperspektiv: man bör köpa in i innovations ist för bara generera internt, eller dela genom joint ventures
-		1. Nackdel: kan vara rädd för knowledge leakage, men boken svarar att all information som delas då man outsoourcar design egentligen är "leakage"
+		1. Nackdel: kan vara rädd för knowledge leakage, men boken svarar att all information som delas då man outsourcar design egentligen är "leakage"
 3. **What technology can be used to support innovation process?**
 	1. vissa teknologier ger insikt om konsekvenser av val etc, bra när design task är komplex
 	2. konsoliderar information om innovation process, ger comprehensive view
@@ -140,9 +140,9 @@ kan komma från många olika ställen:
 	6. team bra om uncertainty, de är flexibla
 	7. funktionell ger specialiserad teknisk kompetens
 5. **How can innovation process be compressed?**
-	1. måste eventually skapa produkten/servicen i en [[process]], därför bör [[process design]] och [[product and service innovation process]] vara nära kopplade
-		1. merga processerna kallas simultaneous/interactive design.
-		2. minskar utvecklingstider och time to market (ttm)
+		1. måste eventually skapa produkten/servicen i en [[process]], därför bör [[process design]] och [[product and service innovation process]] vara nära kopplade
+		2. merga processerna kallas simultaneous/interactive design.
+		3. minskar utvecklingstider och time to market (ttm)
 	2. **Tre metoder för minska TTM:**
 		1. *Integrating the design of the offering and the design of the process*
 			1. i service görs detta i i princip automatiskt, hur de levereras är del av tjänsten

@@ -1,4 +1,4 @@
-
+#VLBokKap4
 - incremental innovation är gradvis, mindre dramatisk
 	- bygger på tidigare teknologier
 

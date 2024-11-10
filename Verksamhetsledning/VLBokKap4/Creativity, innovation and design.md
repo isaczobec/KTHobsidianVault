@@ -1,4 +1,4 @@
-
+#VLBokKap4
 ## Creativity
 - Att tänka utanför conventions
 	- Viktigt i innovation men också för att managa [[operations]] mer generellt, att inte kunna adapta till change är riskfyllt
