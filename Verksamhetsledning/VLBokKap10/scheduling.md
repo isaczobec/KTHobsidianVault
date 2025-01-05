@@ -14,6 +14,7 @@ används om planning behövs för att säkerställa att customer demands möts
 Forward: påbörja jobb direkt när man får det
 - hög labour utilisation, börjar direkt
 - flexibelt
+
 Backward: påbörja i senaste möjliga tillfälle
 - Lägre materialkostnader; används senare
 - mindre risk ifall schedule change by customer
@@ -43,4 +44,5 @@ Vilken som är bra beror på circumstances
 	- förbättrar ständigt output
 - approachen som använder detta kallas optimised production technology (OPT)
 	- går ut på att schedula production systems till mest loaded resurser; bottlenecks
-	- ***Fanns massa principer jag skippade*** #skipped s. 343
+	- ***Fanns massa principer jag skippade*** #skipped s. 343 (DESSA NEDAN)
+	- ![[Pasted image 20241223165532.png]]

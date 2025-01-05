@@ -11,7 +11,8 @@
 
 ## Negotiating with suppliers during supplier selection
 - approach t negotiation påverkas av performance priorities, supplier type (traditional vs partnership, sourcing configuration)
-- kan göras enklare om managers är well informed om negotiation techniques: emotion, logic, threat, bargaining, compromise (finns en bild på dessa S 422)
+- kan göras enklare om managers är well informed om negotiation techniques: emotion, logic, threat, bargaining, compromise
+- ![[Pasted image 20241225131104.png|600]]
 	- att bara fokusera på egen gain kan dock vara kortsiktigt, skapa konflikter och skada förhållandet,
 	- Alternativ: **Collaborative negotiation**
 		- emphaziza bådas needs, transparens, personliga relationships development, brainstorming
@@ -22,11 +23,11 @@
 
 ## perception diffrences in suplpy chain relationships
 - vanligt problem i [[supply chain management]] är att köpare/säljare har olika uppfattningar av vad som krävs och hur relationshipet performar
-- kan vara skillnad i vad kund vill ha och hur supplier uppfattar det; kallas ***requirements perception gap***
-- skillnad i hur kund och supplier upplever att suppliern performar kallas ***fulfillment perception gap***
-- skillnad mellan vad kund vill ha och hur de upplever kund performar är ***supplier improvement gap***, påverkar vilka mål på suppliern kunden sätter
-- skillnad mellan hur supplier upplever att de performar och vad de tror kunden vill ha: ***supplier performace gap***, visar hur supplier ser att de ska improva sin performance
-- BRA BILD S 424
+	- kan vara skillnad i vad kund vill ha och hur supplier uppfattar det; kallas ***requirements perception gap***
+	- skillnad i hur kund och supplier upplever att suppliern performar kallas ***fulfillment perception gap***
+	- skillnad mellan vad kund vill ha och hur väl de upplever supplier levererar det är ***supplier improvement gap***, påverkar vilka mål på suppliern kunden sätter
+	- skillnad mellan hur supplier upplever att de performar och vad de tror kunden vill ha: ***supplier performace gap***, visar hur supplier ser att de ska improva sin performance
+	- ![[Pasted image 20241225131355.png]]
 - -
 - viktigt att ifrågasätta om ex requirements/perceptions av performance på supplier (eller kanske kund) är rimliga: ex kanske inte considerar konsekvenser av requirments, kanske suppliers kan göra en liten ändring som blir väldigt bra för de men inte påverkar kunden, kunden kanske är dålig på mäta suppliers performance
 
@@ -36,7 +37,7 @@
 	- ideelt kommer relationshipet vara samma på alla dessa nivåer (attityder etc), men inte alltid fallet
 - finns relationship dynamic mellan [[Organisation]] och dess employees
 - disconnects mellan vad organisationen vill att employees/managers ska leverera och vad de faktiskt levererar kan skapa problem
-- BRA BILD S 424
+- ![[Pasted image 20241225132253.png]]
 
 ## Developing suppliers
 - om inte purely transactional och market based är det i kunds bästa intressa att developa suppliers capabilities

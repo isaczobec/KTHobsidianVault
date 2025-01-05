@@ -1,3 +1,4 @@
+#VLBokKap3
 [[operations strategy]] är starting point för improvement av [[operations]]
 - bestämmer direction of change
 - *Måste visa HUR improvement ska hända för att uppfylla sitt mål*
@@ -8,7 +9,7 @@ kan beskriva operations strategy process i 4 steg:
 2. Implementation
 3. Monitoring
 4. Control
-BILD S 97
+![[Pasted image 20241220120522.png]]
 är en cykel eftersom strategier kan revisitas pga experience man fick när man försökte implementera dem
 
 ## Operations strategy formulation

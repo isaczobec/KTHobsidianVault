@@ -3,7 +3,7 @@
 - Påverkar flödet av transformerade items genom operationen eller processen
 - påverkar hur anställda/kunder(i high vis service operations) reagerar på att vara del av processen
 - dålig layout kan leda till förvvirring, ineffektivitet, låg flexibilitet
-BILD S 218
+![[Pasted image 20241221150146.png]]
 
 ### what makes a good layout?
 - beror på operations strategiska mål

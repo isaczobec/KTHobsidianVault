@@ -35,7 +35,7 @@ utöver val om [[basic layout types]] måste **mer detaljerad design** baseras p
 		- kan göra production flow analysis (PFA):
 			- ett sätt att allokera tasks och maskiner till cells
 			- utvärdera produktkrav och process grouping samtidigt
-			- BILD S 238
+			- ![[Pasted image 20241221153215.png]]
 			- Sätt maskiner och components i matris och hitta groupings
 			- Ofta inte jätte clean analysis: kan behöva investera kapital i maskiner som saknas i en cell, eller skicka vidare produkt till annan cell, vilket strider mot ordningen cell layout försöker skapa
 				- kan också skapa remainder cells för det som inte tilldelades till celler, detta bibehåller ordningen

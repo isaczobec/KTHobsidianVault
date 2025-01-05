@@ -21,7 +21,7 @@
 - I Short term svårare att göra changes
 	- demand hanteras mer disaggregerat; ses (ibland) som individuella aktiviteter
 	- får göra ad-hoc ändringar till planen baserat på prioriteringar, går inte att kalkylera exakt
-BRA BILD S 325
+![[Pasted image 20241225110805.png]]
 
 [[volume and vareity]] påverkar hur planning and control går till
 - se [[volume-vareity effect on planning and control]]

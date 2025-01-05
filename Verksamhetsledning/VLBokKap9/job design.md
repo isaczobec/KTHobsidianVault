@@ -1,8 +1,7 @@
 #VLBokKap9
 går ut på hur man strukturerar varje employees job, vilka team de ingår i, workplace, interface m teknologin de använder
 - är ofta huvudsakliga people-related tasken för [[operations]] managers
-BRA BILD S 288
-
+![[Pasted image 20250103140546.png]]
 ## Element i job design
 
 ### Task allocation - the division of labour
@@ -41,7 +40,7 @@ BRA BILD S 288
 	- motivation theory bra eftersom gör folk mer satisfied, och ökar kvalite/kvantitet av output
 	- denna approach har två steg: kolla hur characteristics av jobb affectar motivation, och hur motivation affectar jobb
 	- Hackman and Oldham har model för önskvärda tekniker för att öka motivation/performance:
-		- bild på denna s. 293
+		- ![[Pasted image 20250103141730.png]]
 		- Dessa tekniker kan också förbättre mental states, ex hur meningsfullt tycker jobbet är, hur mycket de förstår results av sina efforts
 - ***Sätt att öka motivation/commitment:***
 	- **job rotation**
@@ -54,7 +53,7 @@ BRA BILD S 288
 	- **Job enrichment**
 		- Öka antal tasks och ge tasks med mer desiscion making, mer autonomy, större kontroll över jobbet
 		- minskar monotony, ökar autonomy och personal development
-	- BILD S 294
+	- ![[Pasted image 20250103142304.png]]
 	- vertical changes ger ökad responsibility, autonomy, desiscion making, horizontal ger mer related tasks
 	- **Empowerment**
 		- en extension av autonomy

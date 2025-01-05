@@ -1,6 +1,6 @@
 #VLBokKap6
 påverkar [[process design]]
-bra bild s. 186
+![[Pasted image 20241220145212.png]]
 
 Vareity och volume brukar vara negativt korrelerade, kan sätta [[process]]er på spektrum
 - ex arkitekt hög vareity låg volume

@@ -2,7 +2,7 @@
 Är en aktivitet/stage i en [[process]] där innefektivitet skapas eftersom att workloaden är större än kapaciteten
 - eller mest overloaded del av aktivitet
 
-Bra bild med exempel S 201
+![[Pasted image 20241220153354.png]]
 
 balancing är att allocata work equally mellan stages
 

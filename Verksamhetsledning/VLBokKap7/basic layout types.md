@@ -34,9 +34,9 @@ flesta practical layouts derivas från fyra basic types:
 	- om fortf har hög vareity kan flow layout bli väldigt komplext, olika flow patterns
 - om vareity blir något lägre så olika kategorier av produkter börjar uppkomma kan cell layout bli bättre
 - om ännu lägre vareity kan flödet regulariseras, product layout kan börja fungera
-BRA BILD S 227
+![[Pasted image 20241221151618.png]]
 
-!!!! BILD OM ADVANTAGES DISADVANTAGES MED ALLA PÅ S 228
+![[Pasted image 20241221151717.png]]
 
 
 ## Cost analysis

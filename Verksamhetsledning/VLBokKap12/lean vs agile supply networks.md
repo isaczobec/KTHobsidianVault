@@ -13,6 +13,6 @@ Beroende på natur av produkt som levereras kan olika supply networks vara olika
 	- emfas hög service level, responsive supply t end customer
 	- fokus på högst inventory och service capacity nära kunden, så att de kan bli levererade till även när drastiksa förändringar i demand
 		- behöver fortf snabb throughput för att replenisha downstream operations
-BRA BILD S 413
+![[Pasted image 20241225133856.png]]
 kan ha hybrid av dessa typer
 #clarify kanske kan förtydlgia skillnaderna lean agile

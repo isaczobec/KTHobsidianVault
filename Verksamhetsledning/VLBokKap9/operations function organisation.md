@@ -32,7 +32,7 @@
 		- U-form
 			- cluster resources by **functional purpose**
 			- pyramid structure, reportar till managerial level ovanför
-			- emphaziasr [[process]]effektivitet före customer service och förmåga adapta till ändrande marknader (sämre flexibilitet)
+			- emphaziasr [[process]] effektivitet före customer service och förmåga adapta till ändrande marknader (sämre flexibilitet)
 			- håller ihop expertise, kan promota skapandet/spridandet av teknisk kunskap 
 			- är som funktionsbaserad / linje organisation (?)
 		- M-form
@@ -52,4 +52,4 @@
 			- lite hierarcical reporting/control
 			- varje kluster länkat t annat kluster i nätverket, förhållanden ändras över tid
 			- senior management sätter breda mål, utvecklar kultur, command and controllar mindre än i andra strukturer
-		- BRA BILD S 287
+		- ![[Pasted image 20250103140419.png]]

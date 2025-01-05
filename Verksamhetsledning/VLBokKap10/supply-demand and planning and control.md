@@ -15,6 +15,6 @@ se [[dependent and independet demand]]
 	- om har ännu mer pretictable demand & utbud kan börja producera ex komponenter av produkten innan får order. Assemble to order/partially create and deliver to order (ex dell)
 	- om har standardiserade produkter kan man tillverka de tidigt och lägga de i stock utan att demand är känt för att på order endast leverera (make to stock) (ex perserved food production)
 		- om kunden sköter leveransen själva: collect/choose from stock (ex ikea)
-	- ASBRA BILD S 329
+	- ![[Pasted image 20241223172916.png]]
 - Alla dessa typer av point of order är går på spektrument av [[volume and vareity]]
 - för jämföra dessa: [[PD Ratio]]

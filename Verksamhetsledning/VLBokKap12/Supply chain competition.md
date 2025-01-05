@@ -10,7 +10,7 @@
 		- se till att  ta responsibility för egen *och* suppliers performance för minska risken för detta och öka kundens nöjdhet
 - **Speed**
 	- har två meningar:
-		- 1. hur snabbt kund levereras från ger order --> får produkt
+		- 1. hur snabbt kund får leverans från ger order --> får produkt
 			- Detta kan ökas genom att ha väldigt ("för") mycket stock/kapacitet
 		- 2. Hur snabbt produkt rör sig genom kedjan
 			- om denna snabb blir inventory och working capital mindre, vilket kommer minska costs

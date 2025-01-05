@@ -7,7 +7,7 @@ capacity desiscions görs med constraints på operations och supply in min
 
 medium term capacity management ex att variera mängd output genom hur mycket alla arbetar
 short term capacity management är att copa med kortsiktiga avvikelser
-bra bild s. 359
+![[Pasted image 20241223181551.png]]
 
 ## capacity management affects performance objectives
 - cost: ex högre capacity än demand ger höga unit costs
@@ -24,7 +24,7 @@ bra bild s. 359
 - andra steg förutspå hur stor kapaciteten/möjlighet skapa supply kommer vara
 - tredje steg kolla om kan använda demand management
 - fjärde steg är bestämma appropriate capacity och om den ska hållas konstant eller varieras med demand
-BRA BILD S 361
+![[Pasted image 20241223183139.png]]
 
 ### How is demand measured?
 - bör veta demand över olika timeframes och rate of change av demand, så vet när man ska ta action
@@ -82,7 +82,7 @@ BRA BILD S 361
 	- speed kan minska med idling eller inte optimum speed
 	- quality minskar capacity eftersom måste ha kvalitetskontroller etc
 	- för process att vara effektiv måste ha alla dessa, tillsammans ger de bra översikt över kapaciteten
-	- BRA BILD S 373
+	- ![[Pasted image 20241223210123.png]]
 - **Understanding changes in capacity**
 	- vissa businesses har inte stabil capacity, möjlighet att skapa supply
 	- ex om en crop inte harvestas hela året runt
@@ -112,11 +112,12 @@ BRA BILD S 361
 	1. **factoring in predictable vs unpredictable demand variation**
 		- om predictable change i demand, justera kapacitet accordingly
 		- om unpredictable change i demand, måste reagera snabbt för ska få någon verkan
-		- BRA BILD S. 381
+		- ![[Pasted image 20241223210402.png]]
 	2.  **using cumulative representations of demand and capacity**
 		- måste se till att cumulative production alltid ska ligga över cumulative demand
 		- tänk på att det kostar att ha inventory
 		- skippade det om chase capacity plans s. 384 #skipped 
+		- ![[Pasted image 20241225122247.png|300]]
 	1. **using queueing principles to make capacity management desiscions**
 		1. bra om man inte kan stora sina outputs, ex service organisations
 		2. använd queueing theory
@@ -152,7 +153,7 @@ BRA BILD S 361
 		1. capacity management är inte bara att planera capacity utan också att kortsiktigt reagera på changes
 		2. lär sig från tidigare perioder av capacity management
 		3. ta beslut baserat på kombinationen av short term och long term outlook for volume
-		4. BRA BILD S 387
+		4. ![[Pasted image 20241223210653.png]]
 
 #skipped  supplement till ch11, analytical queing models s.399 #frågaomtentan kommer på tentan?
 

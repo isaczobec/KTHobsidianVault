@@ -17,7 +17,8 @@ product och process design är interrelated
 
 poängen med process design är att se till att [[process]]s performance är lämplig för det [[operations]] försöker uppnå
 - Om ex konkurerar med snabb leverans: säkerställ snabb throughput
-	- **table över fler exempel s. 181**
+	- ![[Pasted image 20241220143823.png]]
+	- ![[Pasted image 20241220143813.png]]
 - design of process bör judgas på *quality speed dependability flexibility cost sustainability performance*
 
 
@@ -56,7 +57,7 @@ kan inte designa processer som transformerar människor/har hög customer visibi
 - Bör därför mappa process så ser vilka aktiviteter som är synliga
 - 'line of visibliy' denotar vad kunda kan/inte kan se
 - vissa har mindre interaktion men fortf synliga t viss grad
-- BILD S 195
+![[Pasted image 20241220150242.png]]
 
 ##### Visibility, customer experience and emotional mapping
 - att genomgå proccess som kund skapar känslor, inte alltid rationella
@@ -71,4 +72,5 @@ kan inte designa processer som transformerar människor/har hög customer visibi
 	- kontakt mellan processen och kund
 	- feauters of process at touch points kallas clues/cues
 		- reaktion/känsla från dessa påverkar hur customer judgar processen
-		- Måste se till att känslorna som touch pointsen ger alignar med det som vill kunden ska känna, kan använda emotional mapping BILD S 197
+		- Måste se till att känslorna som touch pointsen ger alignar med det som vill kunden ska känna, kan använda emotional mapping 
+		- ![[Pasted image 20241220150649.png]]

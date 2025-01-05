@@ -1,11 +1,11 @@
 #VLBokKap6 
 ## Process types
 position av [[process]] på volume-vareity spektrum påverkar dess [[process design]] och hur den ska managas
-För manufacturing:
+## För manufacturing:
 - Project processes
 	- Långa processer, låg volym, väldigt customised, defined start och slut, transformationen av resurser kan vara unik för varje item
 - Jobbing processes
-	- Har också hög vareity, låg volym, men  [[operations]] resurser har hanterar många olika produkter
+	- Har också hög vareity, låg volym, men  [[operations]] resurser har hanterar många olika produkter samtidigt (i projekt är en resurs ofta exclusively assignad till en produkt/projekt)
 	- Något mer förutsägbara än projekt
 	- ex skräddare
 - Batch processes
@@ -22,7 +22,7 @@ För manufacturing:
 	- vissa är literally continous: ström
 	- kapitalintensiv, inflexibel, förutsägbart smutt flöde
 	- ex water processing, petrochemical refineries
-För services:
+## För services:
 - Proffesional services
 	- Mycket kontakt med kund, de involverade i processen
 	- hög customisation

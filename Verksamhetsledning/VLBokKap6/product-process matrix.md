@@ -1,5 +1,5 @@
 #VLBokKap6
-bild s.190
+![[Pasted image 20241220145644.png]]
 *ställer product/service characteristics (volume-vareity mot process performance characteristics (flexibel vs kostnadsoptimerad))*
 
 metod för illustrera samband volume-vareity position och design characteristis av en [[process]]

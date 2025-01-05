@@ -5,7 +5,7 @@ supply networks är skillda från supply chains; många supply chains kan passer
 
 flödet är inte endast downstream mot kunden, vanligt att information åker upstream. Vanligt att failures sker om detta inte händer
 - alltså lika viktigt med information flow (up/downstream) (ex om customer requirements) som flow av produkter/services
-- BILD S 407
+- ![[Pasted image 20241225130642.png]]
 
 Supply chain management inte begränsat till företag som tillverkar/levererar fysiska produkter
 - även banker, konsultfirmor, healthcare etc

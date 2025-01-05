@@ -1,8 +1,8 @@
-
+#VLBokKap3
 - många expectar [[operations strategy]] att gå från att inte göra mycket till att vara direkt responsible för business sucess
 - vision av [[operations]] är vad de måste bli och hur de ska bidra
-- [[Hayes and wheelwrights four-stage model op operations contribution]] är modell på hur contribution av [[operations strategy]] progressar
-- BILD s 75
+- [[Hayes and wheelwrights four-stage model of operations contribution]] är modell på hur contribution av [[operations strategy]] progressar
+- ![[Pasted image 20241221131052.png]]
 - Har 4 stages som en [[operations]] function kan tillhöra:
   1. **internal neutrality**
 	  1. [[operations strategy]] skadar [[operations]] förmåga competa

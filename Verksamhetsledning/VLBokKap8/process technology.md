@@ -99,7 +99,7 @@ vad som är product/service technology och [[process technology]] skilljer sig �
 					- exempelvis digitisation och computing power
 					- ex automatiska förbättrade knitting machines som kan göra många olika plagg billigt
 					- allt detta böjer naturliga diagonalen uppåt
-					- BRA BILD S 263
+					- ![[Pasted image 20241221163319.png]]
 		- #### vilka aspekter av [[operations]] performance ska den förbättra?
 			- judga teknologi på samma 5 kriterier man judgar [[operations]] och [[process]]er på: (brukar splitta några kriterier när kollar på teknologi)
 				1. quality
@@ -129,7 +129,7 @@ vad som är product/service technology och [[process technology]] skilljer sig �
 				- elementen kan vara business goals, market developments, product/service technologies
 			- fördel med TRM är att den unifiar olika stakeholders o svarar på frågor om varför teknologin behövs, i vilken ordning man ska göra saker, etc
 			- är ett narrativ snarare än konkret plan, har blivit kriteserade för att vara för optimistisk
-			- BILD S 268
+			- ![[Pasted image 20241221164931.png]]
 	- **Resource and process distance**
 		- desto mindre teknologi*resurserna* är välförstådda, desto större resource distance
 			- detta påverkar implementationen

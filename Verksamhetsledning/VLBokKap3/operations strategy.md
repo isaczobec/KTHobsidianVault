@@ -1,4 +1,4 @@
-
+#VLBokKap3
 - strategi involverar
 	- sätta breda objectives som directar enterprise mot sitt mål
 	- plannera vägen dit
@@ -14,4 +14,4 @@
 - *content* är specefika beslut, actions som bestämmer [[operations]] roll, objectives och aktiviteter
 - *process* är metoden som används för att komma fram till content
 
-För hur operations strategy förväntas contributa till busines: [[Hayes and wheelwrights four-stage model op operations contribution]]
+För hur operations strategy förväntas contributa till busines: [[Hayes and wheelwrights four-stage model of operations contribution]]

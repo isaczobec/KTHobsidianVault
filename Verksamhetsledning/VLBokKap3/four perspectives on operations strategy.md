@@ -1,3 +1,4 @@
+#VLBokKap3
 finns olika syner på perspektiv  av vad [[operations strategy]] borde göra/är:
 - operations strategy bör aligna med vad hela businessen/gruppen vill - ***top down***
 - operations strategy bör översätta enterprises intended market position till objectives för operations desicions - ***outside in***
@@ -26,7 +27,7 @@ olika business objectives/strategies ger olika [[operations strategy]]
 detta perspektiv säger att strategi existerar i hierarki-context av vad den försöker göra (strategin ovanför) och hur den försöker göra det (strategin nedanför)
 bör guida vad [[operations strategy]] ska prioritera och ge lite guidance på hur strategin kan uppnås
 
-BILD S 77
+![[Pasted image 20241220101147.png]]
 
 **Correspondance and coherence**
 - måste finnas logisk koppling mellan business strategi och alla funcitonal strategies och vad functional strategies är respektive vad som faktiskt händer i funktionen = *correspondance*
@@ -42,7 +43,7 @@ BILD S 77
 	- kan involvera ex kpier, investeringar, intended cash flows,organisationsstruktur, assets
 - operating model är mer concerned med hur business objectives ska uppnås
 
-bild s 79
+![[Pasted image 20241220101241.png]]
 
 ##  Outside in - how does operations strategy align with market requirements?
 
@@ -71,11 +72,11 @@ bild s 79
 
 **The impact of product/service differentiation on market requirements**
 - om differentierar produkter efter segment måste bestämma performance objectives i varje segment
-- BILD S 83
+![[Pasted image 20241220102325.png|400]]
 
 **The impact of the product/service life cycle on market requirments**
 - produkt har olika krav genom livstid och således bör operations strategy också ha det
-- BILD S 83
+- ![[Pasted image 20241220102506.png|400]]
 	- introduction
 		- ny offering, needs of customers inte väl förstådda, [[operations]] mangagment måste vara flexibla att copa med ändrigar
 	- growth stage
@@ -91,11 +92,11 @@ bild s 79
 	- vanligt att företag går i en strategisk riktning eftersom det från ongoing experience visar sig vara rätt sak att göra
 		- vanligt att högre desicion making bara confirmar detta och ger resurser t förändringen
 		- strategy-making är ganska ostrukturerad process, speglar att omvärlden och framtiden är osäker
-	- BILD S 86
+	- ![[Pasted image 20241220102921.png|400]]
 
 detta perspektiv är inte motsatt top down-perspective, de kan uppbygga varandra
 - eftersom day2day operations kan akkumuleras till capabilities som kan exploitas strategically
-- BILD S 87 (hur detta kan funka)
+- ![[Pasted image 20241220103020.png|400]]
 
 
 ## Inside out - how does operations strategy align with operations resources?
@@ -125,22 +126,22 @@ resource based svar på varför vissa företag har långvarig competetive advant
 
 **Structural and infrastructural desiscions**
 - distinkiton mellan strategiska beslut som påverkar [[operations]] struktur och infrastruktur
-	- struktur: influencar design activities
+	- struktur: influencar design activities #clarify 
 	- infrastruktur: influencar workforce organisation, planning and control, improvement activities
 	- infrastruktur är som software
 	- oavsett hur påkostad struktur är måste infrastruktur vara bra för garanterad effektivitet
-BILD S 90
+![[Pasted image 20241220114220.png|500]]
 
 
 
 ## How are the four perspectives of operations strategy reconciled?
 - inget av de 4 perspektiven ensamt ger full bild av [[operations strategy]], men tillsammans ger bra bild över hur [[operations]] bidrar strategically
 - varje perspektiv måste vara consistent med [[operations strategy]], de måste vara reconcilable med de andra perspektiven
-	- BILD S 91
+	- ![[Pasted image 20241220114704.png|550]]
 - *Två modeller för hjälpa denna reconciliation*: **Line och fit, Importance-performance matrix**
 
 ### Line of fit
-- Bild S 92
+- ![[Pasted image 20241220114904.png]]
 - matris med market requirements and operations capabilities
 	- ide med line of fit: bör finnas reasonable degree alignment / fit mellan requirments av marknaden och capability av [[operations]], detta blir en linje i matrisen
 	- vertikala dimensionen (market requirment) förknippat m outside-in perspektivet
@@ -154,6 +155,7 @@ BILD S 90
 	- annars kan man ha gjort förbättringar som inte kan exploitas helt i marknaden
 
 ### Importance-performance matrix
+![[Pasted image 20241220115327.png|400]]
 - fråga sig, istället för generella market requirements, hur viktiga olika competetive factors av en produkt/service är (för kunden)
 	- customer needs/preferences formar [[operations]] objectives
 	- istället för att fråga generellt vad ens [[operations]] capabilities är frågar man hur bra [[operations]] kan provida required level of performance i varje competetive factor?
@@ -162,7 +164,7 @@ BILD S 90
 	- kan judga importance genom att ta tidigarenämnda skalan order winning - order qualifying - less important och dela upp varje steg i tre
 	- judgar performance genom att dela in om bättre - lika - sämre än competitors i 9 steg
 	- kan sätta dessa i 2d-matrix, får en lower bound of acceptability och andra zoner (appropriate, improve, urgent-action, excess?)
-		- BILD S 94
+		- ![[Pasted image 20241220115707.png]]
 		- var något hamnar i matrisen avgör om man bör improva det, ex om över/under lower bound of acceptability
 		- ex bryr man sig inte mycket om oviktiga saker, även om competitors mycket bättre
 		- 

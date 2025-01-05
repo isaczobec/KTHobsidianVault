@@ -31,6 +31,7 @@ se [[strategic role of product & service innovation]]
 ## Stages of product and service innovation
 finns stages som är ganska tydligt defind, även om edges blurrade ibland
 **The design funnel**
+![[Pasted image 20241220132159.png|600]]
 	- Möjliga beslut/ändringar som kan göras minskar under designprocessen
 		- att ta vissa beslut constrainar andra
 		- kostnaden av ändra sig blir högre och högre, eftersom mer och mer måste tänkas om
@@ -40,7 +41,6 @@ finns stages som är ganska tydligt defind, även om edges blurrade ibland
 		- preliminary design
 		- evaluation and improvement
 		- prototyping and final design
-		- bild s 119
 
 ### concept generation
 när ide blir koncept för ny produkt/service
@@ -68,12 +68,13 @@ kan komma från många olika ställen:
 ### concept screening
 - måste välja vilka koncept som kan utvecklas till viable produkter, denna ratio är liten
 - kan rata/evaluata feasability, acceptability, vulnerability
-	- bild s. 122
+	- ![[Pasted image 20241220132459.png]]
 
 ### preliminary design
 - definiera exakt vad som kommer inge i produkten/servicen
 - ex service: job instructions, service blueprints
 - ex produkt: bryt ner i alla komponenter som behövs
+- lite som en PBS
 	- finns ofta opportunity att förenkla kostnad genom design simplification, ex **standardisation, comonality och modularisation**
 		- Standardisation
 			- minska kostnader, öka predictability genom göra komponenter, metoder, etc uniform i eller mellan [[operations]]
@@ -81,6 +82,7 @@ kan komma från många olika ställen:
 				- Minska kostnad genom att endast ge vareity där det verkligen behövs
 		- Comonality
 			- göra så att många olika produkter kan använda samma typer av komponenter eller dylikt
+			- Om produkter är lika att producera blir det billigare, enklare
 		- Modularisation
 			- skapa sub-assemblies som kan bli tillverkade i större volymer, monteras på olika sätt
 
@@ -110,7 +112,7 @@ kan komma från många olika ställen:
 2. **Should innovation be inhouse or outsourced?**
 	1. finns development networks som connectar leverantör och custommer i innovation process
 	2. finns spektrum av göra allt in house <-> outsourca allt
-	3. BILD S 129 visar aspekter av inhouse/outsource
+	3. ![[Pasted image 20241220134229.png|450]]
 	4. ett innovationsperspektiv: man bör köpa in i innovations ist för bara generera internt, eller dela genom joint ventures
 		1. Nackdel: kan vara rädd för knowledge leakage, men boken svarar att all information som delas då man outsourcar design egentligen är "leakage"
 3. **What technology can be used to support innovation process?**
@@ -140,10 +142,10 @@ kan komma från många olika ställen:
 	6. team bra om uncertainty, de är flexibla
 	7. funktionell ger specialiserad teknisk kompetens
 5. **How can innovation process be compressed?**
-		1. måste eventually skapa produkten/servicen i en [[process]], därför bör [[process design]] och [[product and service innovation process]] vara nära kopplade
-		2. merga processerna kallas simultaneous/interactive design.
-		3. minskar utvecklingstider och time to market (ttm)
-	2. **Tre metoder för minska TTM:**
+	måste eventually skapa produkten/servicen i en [[process]], därför bör [[process design]] och [[product and service innovation process]] vara nära kopplade
+	- merga processerna kallas simultaneous/interactive design.
+	- minskar utvecklingstider och time to market (ttm)
+	1. **Tre metoder för minska TTM:**
 		1. *Integrating the design of the offering and the design of the process*
 			1. i service görs detta i i princip automatiskt, hur de levereras är del av tjänsten
 			2. kan vara svårt eftersom: dyrt ändra processen när ändrar design av produkten, svårt integrera de som arbetar med design produkt respektive process, kan vara svårt designa process innan produkt klar

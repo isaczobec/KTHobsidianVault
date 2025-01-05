@@ -22,7 +22,7 @@ inventory management = manage dessa accumulations
 	- mAnagement av dessa handlar om att organisera databaser
 
 ## Why should there be an inventory?
-- S 446 BILD anledningar varför inte ha inventory
+- ![[Pasted image 20241229152129.png]]
 - ibland kan inventory dock vara viktigt; ex om något riskerar gå out of stock
 - måste kunna se till att accumulation sker endast när benefits outweighar disadvantages
 Några benefits:
