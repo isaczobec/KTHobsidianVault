@@ -4,3 +4,8 @@
 - repetera fel för interpolation?
 - repetera extrapolation?
 - repetera felfortplantning
+
+
+
+INNAN TENA
+Finite difference method uppgifter

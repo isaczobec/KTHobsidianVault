@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a94c7adc74a41a11",
+        "id": "7834a248b0c270ea",
         "type": "tabs",
         "children": [
           {
-            "id": "57bb813ac4686440",
+            "id": "b90f9ffc83354425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verksamhetsledning/VLBokKap11/capacity management.md",
+                "file": "Kvaff/Kausala diagram.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "capacity management"
+              "title": "Kausala diagram"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qualifier",
+                "query": "interaktionste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 200
   },
   "right": {
     "id": "0122162df339bb1e",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verksamhetsledning/VLBokKap11/capacity management.md",
+                "file": "MDI/Norman Everyday things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for capacity management"
+              "title": "Backlinks for Norman Everyday things"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verksamhetsledning/VLBokKap6/process bottlenecks.md",
+                "file": "MDI/Norman Everyday things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from process bottlenecks"
+              "title": "Outgoing links from Norman Everyday things"
             }
           },
           {
@@ -145,11 +145,13 @@
               "title": "Outline of process bottlenecks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,54 +164,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "57bb813ac4686440",
+  "active": "b90f9ffc83354425",
   "lastOpenFiles": [
-    "Verksamhetsledning/VLBokKap10/volume-vareity effect on planning and control.md",
-    "Verksamhetsledning/VLBokKap3/operations strategy process.md",
-    "Verksamhetsledning/VLBokKap3/Hayes and wheelwrights four-stage model of operations contribution.md",
-    "Verksamhetsledning/VLBokKap3/four perspectives on operations strategy.md",
-    "Verksamhetsledning/VLBokKap3/operations strategy.md",
-    "Verksamhetsledning/VLBokKap9/job design.md",
-    "Verksamhetsledning/VLBokKap9/operations function organisation.md",
-    "Verksamhetsledning/VLBokKap9/People in operations management.md",
-    "Verksamhetsledning/VLBokKap9/Socio-technical approach.md",
-    "Verksamhetsledning/VLBokKap13/inventory.md",
-    "Verksamhetsledning/VLBokKap12/Controlling supply chain dynamics.md",
-    "Verksamhetsledning/VLBokKap12/Bullwhip effect.md",
-    "Verksamhetsledning/VLBokKap12/customer relationship management.md",
-    "Verksamhetsledning/VLBokKap12/lean vs agile supply networks.md",
-    "Verksamhetsledning/VLBokKap12/Logistics services.md",
-    "Verksamhetsledning/VLBokKap12/Supply chain competition.md",
-    "Verksamhetsledning/VLBokKap12/supply chain management.md",
-    "Verksamhetsledning/VLBokKap12/supply chain relationships.md",
-    "Verksamhetsledning/VLBokKap11/capacity management.md",
-    "Verksamhetsledning/VLBokKap10/loading.md",
-    "Verksamhetsledning/VLBokKap10/dependent and independet demand.md",
-    "Verksamhetsledning/VLBokKap10/PD Ratio.md",
-    "Verksamhetsledning/VLBokKap10/supply-demand and planning and control.md",
-    "Verksamhetsledning/VLBokKap10/monitoring and control.md",
-    "Verksamhetsledning/VLBokKap10/planning and control.md",
-    "Verksamhetsledning/VLBokKap10/scheduling.md",
+    "Kvaff/modeller och samband.md",
+    "Kvaff/Kausala diagram.md",
+    "Kvaff/Estimatorer för utfall som ej är normalföreldade.md",
+    "Kvaff/Modeller som analytiska verktyg.md",
+    "Kvaff/olika sorters variabler.md",
+    "Kvaff/Studera orsak och samband.md",
+    "Kvaff/Prediktion.md",
+    "Kvaff/Angående regressionsanalys.md",
+    "Läsa mer i Numme.md",
+    "Kvaff/Endogenitetsproblem.md",
+    "Kvaff/Från modell till slutsats genom regessionsanalys.md",
+    "Läsa mer i Sanstat.md",
+    "Kvaff/utforska mönster i data.md",
+    "Kvaff/validitet och urval.md",
+    "Att repetera el o våg o våg.md",
+    "Kvaff/reliabilitet och validitet.md",
+    "Kvaff/Beskrivning av mätserie.md",
+    "Kvaff/analystyper.md",
+    "Kvaff/Analysalternativ.md",
+    "Kvaff/Slutsatser från data.md",
+    "Medieproduktion/Medieproduktion introFL.md",
+    "PBS.md",
+    "MDI/Norman Everyday things.md",
+    "Kvaff/modellera relationer mellan två variabler.md",
+    "Kvaff/felaktig data och rensning.md",
+    "Kvaff/Använda data.md",
+    "Untitled",
+    "Kvaff/Kap 1",
+    "Assets/Pasted image 20250122201441.png",
+    "Assets/Pasted image 20250122201132.png",
+    "Assets/Pasted image 20250122200350.png",
+    "Assets/Pasted image 20250122200104.png",
+    "MDI",
+    "Kvaff",
     "Assets/Pasted image 20240501165913.png",
     "Assets/Pasted image 20240501183306.png",
     "Assets/Pasted image 20240501174659.png",
     "Assets/Pasted image 20240501173026.png",
     "Assets/Pasted image 20240522213110.png",
     "Assets/Pasted image 20241221150146.png",
-    "Assets/Pasted image 20250103141730.png",
-    "Assets/Pasted image 20250103142304.png",
-    "Assets/Pasted image 20250103140546.png",
-    "Assets/Pasted image 20250103140419.png",
     "Untitled.canvas",
     "Verksamhetsledning/VLBokKap3",
     "Verksamhetsledning/VLBokKap9",
     "Verksamhetsledning/VLBokKap13",
     "Verksamhetsledning/VLBokKap12",
     "Verksamhetsledning/VLBokKap4",
-    "Verksamhetsledning/VLBokKap11",
-    "Verksamhetsledning/VLBokKap10",
-    "Medieproduktion",
-    "Verksamhetsledning/VLBokKap8",
-    "Verksamhetsledning/VLBokKap7"
+    "Verksamhetsledning/VLBokKap11"
   ]
 }
