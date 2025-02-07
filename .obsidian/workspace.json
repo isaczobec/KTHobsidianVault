@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kvaff/Kausala diagram.md",
+                "file": "MDI/Norman Everyday things.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kausala diagram"
+              "title": "Norman Everyday things"
+            }
+          },
+          {
+            "id": "481835e9b812e6f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MDI/Good design.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Good design"
+            }
+          },
+          {
+            "id": "a3d67f7572d6d402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MDI/Norman Everyday things.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Norman Everyday things"
+            }
+          },
+          {
+            "id": "9c36d789e05e530b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MDI/Kap7/interface types.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "interface types"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interaktionste",
+                "query": "exponentia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,54 +208,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "b90f9ffc83354425",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "Kvaff/modeller och samband.md",
-    "Kvaff/Kausala diagram.md",
-    "Kvaff/Estimatorer för utfall som ej är normalföreldade.md",
-    "Kvaff/Modeller som analytiska verktyg.md",
-    "Kvaff/olika sorters variabler.md",
-    "Kvaff/Studera orsak och samband.md",
-    "Kvaff/Prediktion.md",
-    "Kvaff/Angående regressionsanalys.md",
-    "Läsa mer i Numme.md",
-    "Kvaff/Endogenitetsproblem.md",
-    "Kvaff/Från modell till slutsats genom regessionsanalys.md",
-    "Läsa mer i Sanstat.md",
-    "Kvaff/utforska mönster i data.md",
-    "Kvaff/validitet och urval.md",
-    "Att repetera el o våg o våg.md",
-    "Kvaff/reliabilitet och validitet.md",
-    "Kvaff/Beskrivning av mätserie.md",
-    "Kvaff/analystyper.md",
-    "Kvaff/Analysalternativ.md",
-    "Kvaff/Slutsatser från data.md",
-    "Medieproduktion/Medieproduktion introFL.md",
-    "PBS.md",
+    "MDI/Kap7",
+    "MDI/Kap7/Techniques for designing UX.md",
+    "Assets/Pasted image 20250207174424.png",
+    "MDI/Kap7/interface types.md",
+    "MDI/Kap2/Double diamond.md",
+    "MDI/Kap2/process of interaction design.md",
+    "MDI/Kap2/User centered design.md",
     "MDI/Norman Everyday things.md",
+    "MDI/Kap2/understanding the problem space.md",
+    "MDI/skippat interaction design.md",
+    "Assets/Pasted image 20250207151833.png",
+    "Untitled.md",
+    "Assets/Pasted image 20250207151532.png",
+    "MDI/Kap1/Good design.md",
+    "MDI/Kap1/Interaction design.md",
+    "MDI/Kap1/User experience.md",
+    "MDI/Kap1/accesability and inclusiveness.md",
+    "MDI/Kap1/Usability and User Experience Goals.md",
+    "Assets/Pasted image 20250207133112.png",
+    "Assets/Pasted image 20250207131633.png",
+    "MDI/Kap2",
+    "MDI/Kap1",
+    "Att repetera el o våg o våg.md",
+    "Läsa mer i Sanstat.md",
+    "Kvaff/Modeller som analytiska verktyg.md",
+    "Kvaff/Från modell till slutsats genom regessionsanalys.md",
+    "Kvaff/Angående regressionsanalys.md",
+    "Assets/Pasted image 20250202134443.png",
+    "Assets/Pasted image 20250202131511.png",
     "Kvaff/modellera relationer mellan två variabler.md",
-    "Kvaff/felaktig data och rensning.md",
-    "Kvaff/Använda data.md",
+    "Kvaff/Prediktion.md",
+    "Kvaff/reliabilitet och validitet.md",
+    "Kvaff/Slutsatser från data.md",
+    "Kvaff/Studera orsak och samband.md",
+    "Kvaff/utforska mönster i data.md",
     "Untitled",
     "Kvaff/Kap 1",
     "Assets/Pasted image 20250122201441.png",
     "Assets/Pasted image 20250122201132.png",
     "Assets/Pasted image 20250122200350.png",
-    "Assets/Pasted image 20250122200104.png",
     "MDI",
     "Kvaff",
-    "Assets/Pasted image 20240501165913.png",
-    "Assets/Pasted image 20240501183306.png",
-    "Assets/Pasted image 20240501174659.png",
-    "Assets/Pasted image 20240501173026.png",
-    "Assets/Pasted image 20240522213110.png",
-    "Assets/Pasted image 20241221150146.png",
     "Untitled.canvas",
     "Verksamhetsledning/VLBokKap3",
     "Verksamhetsledning/VLBokKap9",
     "Verksamhetsledning/VLBokKap13",
-    "Verksamhetsledning/VLBokKap12",
-    "Verksamhetsledning/VLBokKap4",
-    "Verksamhetsledning/VLBokKap11"
+    "Verksamhetsledning/VLBokKap12"
   ]
 }
