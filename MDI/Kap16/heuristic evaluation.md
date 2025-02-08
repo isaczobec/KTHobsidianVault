@@ -1,4 +1,7 @@
 #InteractionDesignKap16
+
+**!!!! MÅSTE LÄSA https://www.nngroup.com/articles/ten-usability-heuristics/**
+
 *Metod för [[Evaluation]] som inte involverar users*
 Denna går ut på att testa om en interface och dess element möter ett antal tested and tried principer (*heuristics*) för [[Interaction design]]
 - dessa heuristics är goda generella designprinciper

@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b90f9ffc83354425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MDI/Norman Everyday things.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Norman Everyday things"
-            }
-          },
-          {
-            "id": "481835e9b812e6f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MDI/Good design.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Good design"
-            }
-          },
-          {
             "id": "a3d67f7572d6d402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDI/Norman Everyday things.md",
-                "mode": "preview",
+                "file": "MDI/Kap15/field studies.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Norman Everyday things"
-            }
-          },
-          {
-            "id": "9c36d789e05e530b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MDI/Kap14/Types of Evaluation.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Types of Evaluation"
+              "title": "field studies"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,54 +165,53 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9c36d789e05e530b",
+  "active": "a3d67f7572d6d402",
   "lastOpenFiles": [
+    "MDI/Kap15/in the wild studies.md",
+    "MDI/Kap15/usability testing.md",
+    "MDI/Kap15/field studies.md",
+    "MDI/Kap15/Conducting experiments.md",
+    "MDI/Kap16/heuristic evaluation.md",
+    "MDI/Kap16/predictive models.md",
+    "MDI/Norman Everyday things.md",
+    "MDI/Kap14/Evaluation case studies.md",
+    "MDI/Kap14/Types of Evaluation.md",
+    "MDI/Kap14/Evaluation.md",
+    "MDI/Kap16/walkthroughs.md",
+    "MDI/Kap16/inspections.md",
+    "MDI/Kap16/analytics and AslashB testing.md",
+    "MDI/Kap15",
+    "Untitled.md",
+    "Assets/Pasted image 20250208152933.png",
     "Läsa mer i Numme.md",
     "Läsa mer i Sanstat.md",
-    "Untitled.md",
     "PBS.md",
     "Att repetera el o våg o våg.md",
     "MDI/Kap1/accesability and inclusiveness.md",
-    "MDI/Kap16/analytics and AslashB testing.md",
     "MDI/Kap16",
-    "MDI/Kap16/heuristic evaluation.md",
-    "MDI/Kap16/inspections.md",
-    "MDI/Kap16/predictive models.md",
-    "MDI/Kap16/walkthroughs.md",
     "analytics and A/B Testing.md",
     "analytics and A",
     "analytics and A/B testing.md",
     "Assets/Pasted image 20250208140314.png",
-    "MDI/Kap14/Evaluation.md",
     "Assets/Pasted image 20250208133952.png",
     "Assets/Pasted image 20250208133420.png",
     "Verksamhetsledning/VLBokKap3/four perspectives on operations strategy.md",
-    "MDI/Kap14/Types of Evaluation.md",
-    "MDI/Kap14/Evaluation case studies.md",
     "Assets/Pasted image 20250208130814.png",
     "Assets/Pasted image 20250208130809.png",
     "MDI/skippat interaction design.md",
-    "MDI/Norman Everyday things.md",
     "MDI/Kap14",
     "EkonomiStyrning/ESbokKap9/EVA.md",
     "EkonomiStyrning/ESbokKap8/budget evaluation.md",
-    "MDI/Kap7/interface types.md",
     "MDI/Kap7",
-    "MDI/Kap7/Techniques for designing UX.md",
     "Assets/Pasted image 20250207174424.png",
-    "MDI/Kap2/Double diamond.md",
-    "MDI/Kap2/process of interaction design.md",
-    "MDI/Kap2/User centered design.md",
     "Assets/Pasted image 20250207151833.png",
     "Assets/Pasted image 20250207151532.png",
     "Assets/Pasted image 20250207133112.png",
-    "Assets/Pasted image 20250207131633.png",
     "MDI/Kap2",
     "MDI/Kap1",
     "Kvaff/Kap 1",
     "MDI",
     "Kvaff",
-    "Untitled.canvas",
-    "Verksamhetsledning/VLBokKap3"
+    "Untitled.canvas"
   ]
 }
