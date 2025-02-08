@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDI/Kap7/interface types.md",
-                "mode": "source",
+                "file": "MDI/Kap14/Types of Evaluation.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "interface types"
+              "title": "Types of Evaluation"
             }
           }
         ],
@@ -208,20 +208,29 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "9c36d789e05e530b",
   "lastOpenFiles": [
+    "MDI/Kap14/Evaluation.md",
+    "MDI/Kap14/Evaluation case studies.md",
+    "MDI/Kap14/Types of Evaluation.md",
+    "Assets/Pasted image 20250208130814.png",
+    "Assets/Pasted image 20250208130809.png",
+    "PBS.md",
+    "Untitled.md",
+    "MDI/skippat interaction design.md",
+    "MDI/Norman Everyday things.md",
+    "MDI/Kap14",
+    "EkonomiStyrning/ESbokKap9/EVA.md",
+    "EkonomiStyrning/ESbokKap8/budget evaluation.md",
+    "MDI/Kap7/interface types.md",
     "MDI/Kap7",
     "MDI/Kap7/Techniques for designing UX.md",
     "Assets/Pasted image 20250207174424.png",
-    "MDI/Kap7/interface types.md",
     "MDI/Kap2/Double diamond.md",
     "MDI/Kap2/process of interaction design.md",
     "MDI/Kap2/User centered design.md",
-    "MDI/Norman Everyday things.md",
     "MDI/Kap2/understanding the problem space.md",
-    "MDI/skippat interaction design.md",
     "Assets/Pasted image 20250207151833.png",
-    "Untitled.md",
     "Assets/Pasted image 20250207151532.png",
     "MDI/Kap1/Good design.md",
     "MDI/Kap1/Interaction design.md",
@@ -239,23 +248,13 @@
     "Kvaff/Angående regressionsanalys.md",
     "Assets/Pasted image 20250202134443.png",
     "Assets/Pasted image 20250202131511.png",
-    "Kvaff/modellera relationer mellan två variabler.md",
-    "Kvaff/Prediktion.md",
-    "Kvaff/reliabilitet och validitet.md",
-    "Kvaff/Slutsatser från data.md",
-    "Kvaff/Studera orsak och samband.md",
-    "Kvaff/utforska mönster i data.md",
     "Untitled",
     "Kvaff/Kap 1",
     "Assets/Pasted image 20250122201441.png",
-    "Assets/Pasted image 20250122201132.png",
-    "Assets/Pasted image 20250122200350.png",
     "MDI",
     "Kvaff",
     "Untitled.canvas",
     "Verksamhetsledning/VLBokKap3",
-    "Verksamhetsledning/VLBokKap9",
-    "Verksamhetsledning/VLBokKap13",
-    "Verksamhetsledning/VLBokKap12"
+    "Verksamhetsledning/VLBokKap9"
   ]
 }
