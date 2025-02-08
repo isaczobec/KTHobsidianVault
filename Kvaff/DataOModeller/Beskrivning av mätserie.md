@@ -33,11 +33,11 @@
 	- gör genom t-test, ok enl CGVS om lagom stora mätserier
 
 Om har flera mätserier behövs generaliserat test för jämföra varians i dem
-- Standardtest variansanalysis, ANOVA
+- Standardtest variansanalysis, ANOVA #läsmerkvaff
 	- Om inte ger signifikant resultat förkastar man INTE att serierna har samma medelvärde
 	- om ger signifikant res vill veta vilka serier som skiljer sig
 		- Kan vara problematiskt jämföra 2 och 2: risk för felaktigt signifikant res ökar med antal mätserier
-		- kan köra post-hoc test efter anova som korrigerar för detta, bonferroni-korrigering för göra svårare för resultat att vara signifikanta
+		- kan köra post-hoc test #läsmerkvaff efter anova som korrigerar för detta, bonferroni-korrigering för göra svårare för resultat att vara signifikanta #läsmerkvaff
 
 
 ## Beskrivning av samvariation

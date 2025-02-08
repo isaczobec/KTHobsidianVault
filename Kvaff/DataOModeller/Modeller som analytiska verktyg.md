@@ -22,11 +22,11 @@ Modeller förändrar komplex verklighet/värld till någott greppbart / översik
 			- om stabilt system kan använda algoritmiska metoder för finna bästa beskrivning (både i struktur och parameterval)
 			- stabilt = systemet fungerar på samma sätt i framtiden som under tiden data genererades
 			- Bra modell = en som skapar riktig output med indata som inte använts under träning (*out of sample prediction*)
-				- denna förmåga beskrivs av roc-kurva elr precision recall-kurva
+				- denna förmåga beskrivs av roc-kurva elr precision recall-kurva #läsmerkvaff
 			- Maskininlärning vanligt för dessa tillämpningar
-				- Ex stödvektormaskin (support vector machine), klassificeierar/skiljer datapunkter
+				- Ex stödvektormaskin (support vector machine), klassificeierar/skiljer datapunkter #läsmerkvaff
 				- Random forest: aggregera flera beslutsträd t genomsnittsmodell
-					- #clarifyKvaff s 41 hur random forest funkar, fatta inte riktigt 
+					- #clarifyKvaff s 41 hur random forest funkar, fatta inte riktigt #läsmerkvaff 
 	- 2. **Modellen som systemrepresentation/beskrivning av systemdynamik**
 			- om modellerar system som är förändligt måste förändringen modelleras utifrån teoretisk förståelse
 			- =>Måste ha minne, bero på *tillståndsvariabler* som ändras över tid och som har påverkanssamband med andra tillståndsvariabler. Påverkanssamband kan beskrivas med parametrar/kunskap från tidigare undersökningar eller skattas
