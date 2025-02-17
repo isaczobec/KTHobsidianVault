@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kvaff/DataOModeller/Analysalternativ.md",
-                "mode": "source",
+                "file": "MDI/Kap15/usability testing.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Analysalternativ"
+              "title": "usability testing"
             }
           }
         ]
@@ -165,76 +165,38 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "floating": {
-    "id": "1e9aba03ee11595e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "934f215546d84ab5",
-        "type": "window",
-        "children": [
-          {
-            "id": "f0654a8ee2f447b0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "53c1c249e72b28c3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kanske läsa mer om i kvaff.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kanske läsa mer om i kvaff"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 297,
-        "y": 296,
-        "width": 721,
-        "height": 426,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "MDI/Kap16/inspections.md",
+    "MDI/Kap16/heuristic evaluation.md",
+    "MDI/Norman Everyday things.md",
+    "MDI/Kap16/walkthroughs.md",
+    "MDI/Kap15/Conducting experiments.md",
+    "MDI/Kap15/field studies.md",
+    "MDI/Kap15/in the wild studies.md",
+    "MDI/Kap15/usability testing.md",
+    "MDI/Kap14/Types of Evaluation.md",
+    "MDI/Kap14/Evaluation.md",
+    "Kvaff/DataOModeller/Modeller som analytiska verktyg.md",
+    "Kvaff/DataOModeller/modeller och samband.md",
+    "Kvaff/DataOModeller/Kausala diagram.md",
+    "Kvaff/DataOModeller/Beskrivning av mätserie.md",
+    "Kvaff/DataOModeller/Endogenitetsproblem.md",
+    "Verksamhetsledning/VLBokKap6/automating processes.md",
+    "Verksamhetsledning/VLBokKap4/innovation in the value chain.md",
+    "Att repetera el o våg o våg.md",
+    "Kanske läsa mer om i kvaff.md",
+    "MDI/Kap16/predictive models.md",
+    "MDI/Kap14/Evaluation case studies.md",
+    "Kvaff/DataOModeller/Analysalternativ.md",
     "Kvaff/Sanstat/statistiska undersökningar.md",
     "Kvaff/DataOModeller",
     "Kvaff/Sanstat/planering av statistiska undersökningar.md",
     "Kvaff/Sanstat",
-    "Kanske läsa mer om i kvaff.md",
     "Assets/Pasted image 20250208191338.png",
     "Assets/Pasted image 20250208185038.png",
     "Kvaff/DataOModeller/olika sorters variabler.md",
     "Kvaff/DataOModeller/modellera relationer mellan två variabler.md",
-    "Kvaff/DataOModeller/modeller och samband.md",
-    "Kvaff/DataOModeller/Modeller som analytiska verktyg.md",
-    "Kvaff/DataOModeller/validitet och urval.md",
-    "Kvaff/DataOModeller/reliabilitet och validitet.md",
-    "Kvaff/DataOModeller/Slutsatser från data.md",
-    "Kvaff/DataOModeller/felaktig data och rensning.md",
-    "Kvaff/DataOModeller/Beskrivning av mätserie.md",
-    "Kvaff/DataOModeller/utforska mönster i data.md",
-    "Kvaff/DataOModeller/Studera orsak och samband.md",
-    "Kvaff/DataOModeller/Kausala diagram.md",
-    "Kvaff/DataOModeller/Från modell till slutsats genom regessionsanalys.md",
-    "Kvaff/DataOModeller/Estimatorer för utfall som ej är normalföreldade.md",
-    "Kvaff/DataOModeller/Endogenitetsproblem.md",
-    "Kvaff/DataOModeller/Använda data.md",
-    "Kvaff/DataOModeller/Angående regressionsanalys.md",
-    "Kvaff/DataOModeller/analystyper.md",
-    "Kvaff/DataOModeller/Analysalternativ.md",
-    "MDI/Kap15/field studies.md",
-    "MDI/Kap15/in the wild studies.md",
-    "MDI/Kap15/usability testing.md",
     "MDI/Kap15",
     "Assets/Pasted image 20250208152933.png",
     "MDI/Kap16",

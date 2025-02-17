@@ -15,3 +15,5 @@ lite om speglar och refraktion i sfäriska speglar, var lite trött
 härledningen vågekvationen ljus ca s 1076
 
 FL6 i media, det om kamera
+
+- Fatta inte riktigt interferometer, s 1175
