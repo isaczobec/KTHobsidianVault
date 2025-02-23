@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82aae4eba4ce7704",
+        "id": "54b2f8173de3ea4e",
         "type": "tabs",
         "children": [
           {
-            "id": "11f9c01aaee34bf3",
+            "id": "a15d08e5367088e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDI/Kap8/Interviews.md",
+                "file": "MDI/Kap12/prototyping.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Interviews"
+              "title": "prototyping"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MDI/Kap8/Interviews.md",
+                "file": "MDI/Kap12/prototyping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interviews"
+              "title": "Outgoing links from prototyping"
             }
           },
           {
@@ -165,20 +165,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "a15d08e5367088e6",
   "lastOpenFiles": [
+    "MDI/Kap12",
+    "MDI/Läs mer elr skippat interaction design.md",
+    "MDI/Kap12/prototyping.md",
+    "PBS.md",
+    "MDI/Sketching/sketching.md",
+    "MDI/Norman Everyday things.md",
+    "MDI/Kap7/interface types.md",
+    "MDI/Sketching/Design funnel.md",
+    "MDI/Sketching",
+    "MDI/Ideation",
+    "Assets/Pasted image 20250223151359.png",
+    "MDI/Ideation/ideation.md",
+    "Verksamhetsledning/VLBokKap3/Hayes and wheelwrights four-stage model of operations contribution.md",
+    "MDI/Kap2/User centered design.md",
+    "MDI/Ideation/IDEO.md",
+    "IntroMedia/video technology.md",
+    "MDI/Kap11/use cases.md",
+    "MDI/Kap11/requirements.md",
+    "MDI/Kap11/personas and scenarios.md",
+    "MDI/Kap11/Data gathering for requirements.md",
+    "MDI/Kap11/brainstorming for innovation.md",
+    "MDI/Kap8/Interviews.md",
     "MDI/Kap8/Data gathering.md",
     "MDI/Kap8",
-    "MDI/Kap8/Interviews.md",
-    "PBS.md",
     "Läsa mer i Sanstat.md",
-    "MDI/Kap11/brainstorming for innovation.md",
     "MDI/Kap11",
-    "MDI/Kap11/Data gathering for requirements.md",
     "Kanske läsa mer om i kvaff.md",
-    "MDI/Kap11/personas and scenarios.md",
-    "MDI/Kap11/requirements.md",
-    "MDI/Kap11/use cases.md",
     "Assets/Pasted image 20250223114823.png",
     "MDI/Kap15/usability testing.md",
     "Läsa mer i Numme.md",
@@ -187,31 +202,17 @@
     "Assets/Pasted image 20250223105030.png",
     "Assets/Pasted image 20250223104559.png",
     "MDI/Kap2/Double diamond.md",
-    "MDI/Kap2/process of interaction design.md",
     "Assets/Pasted image 20250222171501.png",
     "Assets/Pasted image 20250222171453.png",
-    "MDI/Kap15/field studies.md",
     "Assets/Pasted image 20250222165500.png",
-    "MDI/Kap14/Evaluation case studies.md",
     "Assets/Pasted image 20250222163028.png",
-    "MDI/Kap16/predictive models.md",
-    "MDI/Kap16/walkthroughs.md",
-    "MDI/Kap16/inspections.md",
-    "MDI/Kap16/heuristic evaluation.md",
-    "MDI/Norman Everyday things.md",
-    "MDI/Kap15/Conducting experiments.md",
-    "MDI/Kap15/in the wild studies.md",
-    "MDI/Kap14/Types of Evaluation.md",
     "Kvaff/DataOModeller",
     "Kvaff/Sanstat",
     "Assets/Pasted image 20250208191338.png",
-    "Assets/Pasted image 20250208185038.png",
     "MDI/Kap15",
     "MDI/Kap16",
     "analytics and A",
     "MDI/Kap14",
-    "MDI/Kap7",
-    "MDI/Kap2",
     "Untitled.canvas"
   ]
 }
