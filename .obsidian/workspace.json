@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef16579df4871870",
+            "id": "11f9c01aaee34bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDI/Kap15/usability testing.md",
-                "mode": "preview",
+                "file": "MDI/Kap8/Interviews.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "usability testing"
+              "title": "Interviews"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#KvaffKap4",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MDI/Norman Everyday things.md",
+                "file": "MDI/Kap8/Interviews.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Norman Everyday things"
+              "title": "Outgoing links from Interviews"
             }
           },
           {
@@ -167,52 +167,51 @@
   },
   "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "MDI/Kap8/Data gathering.md",
+    "MDI/Kap8",
+    "MDI/Kap8/Interviews.md",
+    "PBS.md",
+    "Läsa mer i Sanstat.md",
+    "MDI/Kap11/brainstorming for innovation.md",
+    "MDI/Kap11",
+    "MDI/Kap11/Data gathering for requirements.md",
+    "Kanske läsa mer om i kvaff.md",
+    "MDI/Kap11/personas and scenarios.md",
+    "MDI/Kap11/requirements.md",
+    "MDI/Kap11/use cases.md",
+    "Assets/Pasted image 20250223114823.png",
+    "MDI/Kap15/usability testing.md",
+    "Läsa mer i Numme.md",
+    "Untitled.md",
+    "Assets/Pasted image 20250223105219.png",
+    "Assets/Pasted image 20250223105030.png",
+    "Assets/Pasted image 20250223104559.png",
+    "MDI/Kap2/Double diamond.md",
+    "MDI/Kap2/process of interaction design.md",
+    "Assets/Pasted image 20250222171501.png",
+    "Assets/Pasted image 20250222171453.png",
+    "MDI/Kap15/field studies.md",
+    "Assets/Pasted image 20250222165500.png",
+    "MDI/Kap14/Evaluation case studies.md",
+    "Assets/Pasted image 20250222163028.png",
+    "MDI/Kap16/predictive models.md",
+    "MDI/Kap16/walkthroughs.md",
     "MDI/Kap16/inspections.md",
     "MDI/Kap16/heuristic evaluation.md",
     "MDI/Norman Everyday things.md",
-    "MDI/Kap16/walkthroughs.md",
     "MDI/Kap15/Conducting experiments.md",
-    "MDI/Kap15/field studies.md",
     "MDI/Kap15/in the wild studies.md",
-    "MDI/Kap15/usability testing.md",
     "MDI/Kap14/Types of Evaluation.md",
-    "MDI/Kap14/Evaluation.md",
-    "Kvaff/DataOModeller/Modeller som analytiska verktyg.md",
-    "Kvaff/DataOModeller/modeller och samband.md",
-    "Kvaff/DataOModeller/Kausala diagram.md",
-    "Kvaff/DataOModeller/Beskrivning av mätserie.md",
-    "Kvaff/DataOModeller/Endogenitetsproblem.md",
-    "Verksamhetsledning/VLBokKap6/automating processes.md",
-    "Verksamhetsledning/VLBokKap4/innovation in the value chain.md",
-    "Att repetera el o våg o våg.md",
-    "Kanske läsa mer om i kvaff.md",
-    "MDI/Kap16/predictive models.md",
-    "MDI/Kap14/Evaluation case studies.md",
-    "Kvaff/DataOModeller/Analysalternativ.md",
-    "Kvaff/Sanstat/statistiska undersökningar.md",
     "Kvaff/DataOModeller",
-    "Kvaff/Sanstat/planering av statistiska undersökningar.md",
     "Kvaff/Sanstat",
     "Assets/Pasted image 20250208191338.png",
     "Assets/Pasted image 20250208185038.png",
-    "Kvaff/DataOModeller/olika sorters variabler.md",
-    "Kvaff/DataOModeller/modellera relationer mellan två variabler.md",
     "MDI/Kap15",
-    "Assets/Pasted image 20250208152933.png",
     "MDI/Kap16",
     "analytics and A",
-    "Assets/Pasted image 20250208140314.png",
-    "Assets/Pasted image 20250208133952.png",
-    "Assets/Pasted image 20250208133420.png",
-    "Assets/Pasted image 20250208130814.png",
-    "Assets/Pasted image 20250208130809.png",
     "MDI/Kap14",
     "MDI/Kap7",
-    "Assets/Pasted image 20250207174424.png",
-    "Assets/Pasted image 20250207151833.png",
     "MDI/Kap2",
-    "MDI/Kap1",
-    "Kvaff/Kap 1",
     "Untitled.canvas"
   ]
 }

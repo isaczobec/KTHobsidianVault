@@ -22,3 +22,7 @@ speciell typ field studies för testa ny teknologi: [[in the wild studies]]
 vidare
 - kan vara bra med field studies eftersom users kan få familiariza sig över lång tid i sin setting naturliga setting med teknologin
 - om vill testa hur expert interagerar med komplicerad applikation över lång tid är det svårt att göra i controlled lab environment, bättre med field study
+
+
+Andra mål med field studies:
+![[Pasted image 20250222165500.png]]
