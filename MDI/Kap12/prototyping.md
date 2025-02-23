@@ -99,4 +99,6 @@ prototyping innebär alltid kompromissar, ex lofi så funkar sällan produkten s
 	- **SDKs**
 		- Package av programming tools som supportar development av applikationer
 		- ofta IDE ingår
-		- 
+
+
+![[Pasted image 20250223185328.png]]

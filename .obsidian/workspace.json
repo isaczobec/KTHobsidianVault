@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDI/Kap12/prototyping.md",
+                "file": "MDI/Läs mer elr skippat interaction design.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "prototyping"
+              "title": "Läs mer elr skippat interaction design"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MDI/Kap12/prototyping.md",
+                "file": "MDI/Läs mer elr skippat interaction design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from prototyping"
+              "title": "Outgoing links from Läs mer elr skippat interaction design"
             }
           },
           {
@@ -167,12 +167,15 @@
   },
   "active": "a15d08e5367088e6",
   "lastOpenFiles": [
+    "MDI/Norman Everyday things.md",
+    "MDI/Kap7/Techniques for designing UX.md",
+    "Prototyping for tiny fingers.md",
+    "MDI/Kap12/prototyping.md",
+    "Assets/Pasted image 20250223185328.png",
     "MDI/Kap12",
     "MDI/Läs mer elr skippat interaction design.md",
-    "MDI/Kap12/prototyping.md",
     "PBS.md",
     "MDI/Sketching/sketching.md",
-    "MDI/Norman Everyday things.md",
     "MDI/Kap7/interface types.md",
     "MDI/Sketching/Design funnel.md",
     "MDI/Sketching",
@@ -201,18 +204,15 @@
     "Assets/Pasted image 20250223105219.png",
     "Assets/Pasted image 20250223105030.png",
     "Assets/Pasted image 20250223104559.png",
-    "MDI/Kap2/Double diamond.md",
     "Assets/Pasted image 20250222171501.png",
     "Assets/Pasted image 20250222171453.png",
     "Assets/Pasted image 20250222165500.png",
     "Assets/Pasted image 20250222163028.png",
     "Kvaff/DataOModeller",
     "Kvaff/Sanstat",
-    "Assets/Pasted image 20250208191338.png",
     "MDI/Kap15",
     "MDI/Kap16",
     "analytics and A",
-    "MDI/Kap14",
     "Untitled.canvas"
   ]
 }
