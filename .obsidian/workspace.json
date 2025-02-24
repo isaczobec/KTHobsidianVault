@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54b2f8173de3ea4e",
+        "id": "49893953d19d6180",
         "type": "tabs",
         "children": [
           {
-            "id": "a15d08e5367088e6",
+            "id": "d343c68deccce4c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDI/Läs mer elr skippat interaction design.md",
+                "file": "Kvaff/DataProcessing/Exploration & visualisation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Läs mer elr skippat interaction design"
+              "title": "Exploration & visualisation"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "falsk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,16 +165,31 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a15d08e5367088e6",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "PBS.md",
+    "Kvaff/DataProcessing",
+    "Kvaff/DataProcessing/Exploration & visualisation.md",
+    "Läsa mer i Sanstat.md",
+    "Att repetera el o våg o våg.md",
+    "Kvaff/DataProcessing/Data collection and storage.md",
+    "Kvaff/DataProcessing/Data preparation.md",
+    "Kvaff/DataProcessing/data science.md",
+    "Assets/Pasted image 20250224111500.png",
+    "MDI/Prototyping for tiny fingers.md",
+    "Kvaff/Kanske läsa mer om i kvaff.md",
+    "Assets/Pasted image 20250224110238.png",
+    "Kvaff/Sanstat/statistiska undersökningar.md",
+    "Kvaff/DataOModeller/Prediktion.md",
+    "Kvaff/Sanstat/planering av statistiska undersökningar.md",
+    "Kvaff/DataOModeller/utforska mönster i data.md",
+    "Kvaff/DataOModeller/validitet och urval.md",
+    "MDI/Läs mer elr skippat interaction design.md",
     "MDI/Norman Everyday things.md",
     "MDI/Kap7/Techniques for designing UX.md",
-    "Prototyping for tiny fingers.md",
     "MDI/Kap12/prototyping.md",
     "Assets/Pasted image 20250223185328.png",
     "MDI/Kap12",
-    "MDI/Läs mer elr skippat interaction design.md",
-    "PBS.md",
     "MDI/Sketching/sketching.md",
     "MDI/Kap7/interface types.md",
     "MDI/Sketching/Design funnel.md",
@@ -185,34 +200,18 @@
     "Verksamhetsledning/VLBokKap3/Hayes and wheelwrights four-stage model of operations contribution.md",
     "MDI/Kap2/User centered design.md",
     "MDI/Ideation/IDEO.md",
-    "IntroMedia/video technology.md",
-    "MDI/Kap11/use cases.md",
-    "MDI/Kap11/requirements.md",
-    "MDI/Kap11/personas and scenarios.md",
-    "MDI/Kap11/Data gathering for requirements.md",
-    "MDI/Kap11/brainstorming for innovation.md",
-    "MDI/Kap8/Interviews.md",
-    "MDI/Kap8/Data gathering.md",
     "MDI/Kap8",
-    "Läsa mer i Sanstat.md",
     "MDI/Kap11",
-    "Kanske läsa mer om i kvaff.md",
     "Assets/Pasted image 20250223114823.png",
-    "MDI/Kap15/usability testing.md",
-    "Läsa mer i Numme.md",
-    "Untitled.md",
     "Assets/Pasted image 20250223105219.png",
     "Assets/Pasted image 20250223105030.png",
     "Assets/Pasted image 20250223104559.png",
     "Assets/Pasted image 20250222171501.png",
     "Assets/Pasted image 20250222171453.png",
-    "Assets/Pasted image 20250222165500.png",
-    "Assets/Pasted image 20250222163028.png",
     "Kvaff/DataOModeller",
     "Kvaff/Sanstat",
     "MDI/Kap15",
     "MDI/Kap16",
-    "analytics and A",
     "Untitled.canvas"
   ]
 }
