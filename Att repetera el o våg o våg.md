@@ -17,3 +17,7 @@ härledningen vågekvationen ljus ca s 1076
 FL6 i media, det om kamera
 
 - Fatta inte riktigt interferometer, s 1175
+
+## Tentauppgifter jag inte fatta
+- 230529 A5
+- 

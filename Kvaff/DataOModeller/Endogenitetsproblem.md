@@ -25,4 +25,7 @@ Om skattar sambandandet X -> Y med linjär regressionsmodell blir sambandet bara
 					- !!! Men inte andra källor t endogenitet
 	- Om vill hantera ömsesidigt beroende variabler eller båda faktorer (X och Y?) påverkas av tidsinvariant oobserverad faktor, måste man ha mer avancerade regressionsmodeller för att undvika endogenitetsproblem i kvasi-experimentella data
 		- ex instrumentalvariabelmodeller
-- 
+
+
+Endogenitetsproblem är när någon förklaringsvariabel är korrelerad med felterm, dvs all påverkan av det som vår modell inte har fångat upp
+![[Pasted image 20250303203847.png]]

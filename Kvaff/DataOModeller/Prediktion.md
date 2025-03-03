@@ -31,13 +31,14 @@ Analytikers uppgift ofta att göra förutsägningar om framtid snarare än endas
 - Om dikotoma eller kategoriska klasificieringar (utifrån andra mätvärden från en datapunkt) är det man söker kan man mäta prediktionsförmåga som andel korrekta klassificieringar
 - bör göra avvägningar mellan positiva och negativa klassificieringar: Om värre med falsk negativ/positiv bör man favoura den andra
 - Kan använda ROC-kurva för att visa dessa klassificieringar, y axeln visar andel positiva fall som klassas som positiva, x-axeln andel negativa fall som klassas som positiva
-- Kan istället ha presicion-recall-kurva: Horisontell axel har mått för hur stor andel av alla observationer som klassas som positiva som är korrekt klassificierade
+- Kan istället ha presicion-recall-kurva: Horisontell axel har mått för hur stor andel av alla observationer som klassas som positiva som är korrekt klassificierade #clarifyKvaff 
 - Dessa kurvor kan simplifieras som AUC (area under the curve) fr 0 t 1, värde nära 1 visar att nästan alla mätpunkter som klassas som positiva verkligen är positiva
 
 ## Prognosmodeller
 - Kan använda många olika verktyg när man ska göra prognoser av framtiden
 - regressionsmodeller m mkm ofta dåliga för tidsserier eftersom framtida utfall ofta beror på tidigare utfall
 	- Dessa har så kallad autokorrelation, de beroendena bryter mot "antagandet om oberoende feltermer i gauss-markov-villkoren"
+	- autokorrelation – utfall påverkas av ett eller flera tidigare utfall
 	- riskerar underskatta standardfelen
 	- måste modellera autokorrelation med prognosmodeller som ARCH och GARCH
 		- Kan också använda enklare modeller

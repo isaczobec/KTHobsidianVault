@@ -15,3 +15,5 @@
 - Hur t-test går till
 
 
+- R2-värde
+- falsk positiv och negativ

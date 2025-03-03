@@ -12,4 +12,3 @@ om linjär i parametrar man skattar kan man göra (linjär) regression med vilke
 - eller godtyckligt polynom $Y = \alpha + \beta_1 X + \beta_2 X^2$
 	- Om signifikant att $\beta_2 = 0$ så visat sambandet linjärt
 
-
