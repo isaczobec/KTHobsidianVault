@@ -1,4 +1,4 @@
-#KvaffKap7#KvaffKap7
+#KvaffKap7
 Om skattar sambandandet X -> Y med linjär regressionsmodell blir sambandet bara väntervärdesriktigt om påverkan är exogen i sammanhanget (att det skett variation utifrån som bara påverkar X?)
 - om finns confounding factors, förväxlingsfaktorer, som modellen ej fångar upp blir skattning skev
 	- => modellen lider av endogenitetsproblem ouppfångad kontrollvariabel

@@ -11,6 +11,7 @@
 
 - Finns betydande skillnader i planeringsarbete mellan jämförande och icke-jämförande undersökningar
 
+
 ## Icke-jämförande undersökningar
 - önskar information om någon okänd storhet inom någon disciplin
 - måste ta ett stickprov med n element från målpopulationen
