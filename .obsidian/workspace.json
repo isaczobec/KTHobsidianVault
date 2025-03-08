@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fb2e0d10b01b58c",
+        "id": "9491f0e5717fefa4",
         "type": "tabs",
         "children": [
           {
-            "id": "f21c24b6d139bdc7",
+            "id": "4b68bb36f09c3942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kvaff/DataOModeller/Kausala diagram.md",
+                "file": "Kvaff/DataOModeller/Studera orsak och samband.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kausala diagram"
+              "title": "Studera orsak och samband"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#KvaffKap7",
+                "query": "randomiserad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,34 +166,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "4b68bb36f09c3942",
   "lastOpenFiles": [
-    "Kvaff/DataOModeller/Angående regressionsanalys.md",
-    "Kvaff/DataOModeller/Kausala diagram.md",
-    "Kvaff/DataOModeller/Endogenitetsproblem.md",
-    "Kvaff/DataOModeller/Från modell till slutsats genom regessionsanalys.md",
-    "Kvaff/DataOModeller/Estimatorer för utfall som ej är normalföreldade.md",
-    "Kvaff/Övrigt/Övrigt om prognoser.md",
-    "Kvaff/Övrigt/Ett schema för problemlösning genom dataanalys.md",
-    "Kvaff/Övrigt/business intelligence vs business analytics.md",
-    "Kvaff/DataOModeller/Prediktion.md",
-    "Kvaff/DataOModeller/Studera orsak och samband.md",
-    "Kvaff/DataOModeller/Analysalternativ.md",
-    "Kvaff/DataOModeller/olika sorters variabler.md",
-    "Kvaff/DataOModeller/modellera relationer mellan två variabler.md",
-    "Kvaff/DataOModeller/Modeller som analytiska verktyg.md",
-    "Kvaff/DataOModeller/modeller och samband.md",
-    "Kvaff/DataOModeller/reliabilitet och validitet.md",
-    "Kvaff/DataOModeller/validitet och urval.md",
-    "Kvaff/DataOModeller/Slutsatser från data.md",
-    "Kvaff/DataOModeller/felaktig data och rensning.md",
-    "Kvaff/DataOModeller/Beskrivning av mätserie.md",
+    "Kvaff/kvafftablecontents.pdf",
+    "Kvaff/KvaffAnteckningar.pdf",
     "Kvaff/out.md",
-    "Kvaff/DataOModeller/Använda data.md",
-    "Kvaff/DataOModeller/analystyper.md",
-    "Kvaff/DataProcessing/Exploration & visualisation.md",
-    "Kvaff/DataProcessing/data science.md",
-    "Kvaff/DataProcessing/Data preparation.md",
+    "Kvaff/Sanstat/planering av statistiska undersökningar.md",
+    "Kvaff/Sanstat/statistiska undersökningar.md",
+    "MDI/Ideation/ideation.md",
+    "MDI/Ideation/IDEO.md",
+    "MDI/Prototyping for tiny fingers.md",
+    "MDI/Norman Everyday things.md",
+    "MDI/Läs mer elr skippat interaction design.md",
+    "MDI/Sketching/sketching.md",
+    "MDI/Sketching/Design funnel.md",
+    "MDI/Kap16/analytics and AslashB testing.md",
+    "MDI/Kap16/heuristic evaluation.md",
+    "MDI/Kap16/inspections.md",
+    "MDI/Kap16/predictive models.md",
+    "MDI/Kap16/walkthroughs.md",
+    "MDI/Kap15/field studies.md",
+    "MDI/Kap15/in the wild studies.md",
+    "MDI/Kap15/Conducting experiments.md",
+    "MDI/Kap15/usability testing.md",
+    "MDI/Kap14/Types of Evaluation.md",
+    "MDI/Kap14/Evaluation case studies.md",
+    "MDI/Kap14/Evaluation.md",
+    "MDI/Kap12/prototyping.md",
+    "MDI/Kap11/personas and scenarios.md",
+    "MDI/Kap11/brainstorming for innovation.md",
     "Assets/Pasted image 20250303210016.png",
     "Assets/Pasted image 20250303205845.png",
     "Assets/Pasted image 20250303205640.png",
@@ -212,7 +214,6 @@
     "MDI/Kap11",
     "Kvaff/DataOModeller",
     "Kvaff/Sanstat",
-    "MDI/Kap15",
     "Untitled.canvas"
   ]
 }

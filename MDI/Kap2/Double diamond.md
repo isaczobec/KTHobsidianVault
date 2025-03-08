@@ -12,3 +12,5 @@ Kärnan av dessa faser fångas i filosofin av [[User centered design]], att invo
 - user centered approach gör att user concerns directar utvecklingen, inte bara tekniska concerns
 
 Första steg [[understanding the problem space]]
+
+kan appliceras på [[brainstorming for innovation]]
