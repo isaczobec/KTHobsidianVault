@@ -1,0 +1,17 @@
+
+- [ ] Exempel 3.7 och geometriska summor
+- [ ] Teori för differensekvationer?  nämnt i exemplet ovan
+	- [ ] Lite samma sak på slutet s. 42
+- [x] varför absorptionstider är ändliga 
+- [x] Ev s. 32 vidare om besivet att det finns en statisk fördelning
+- [ ] grafprodukt
+- [ ] 5.2 något om periodiska kedjor
+- [ ] sista villkoren på s. 43 o allmänt llite om oändliga markovkedjor
+- [ ] asymptotiskt uppträdande oändliga kedjor s.41
+- [ ] Skippade laplacetransformen, inte med i läshänvisningar på föreläsningssidan
+- [ ] Bevisen sluten s 59 gick snabbt igenom
+- [ ] Tidsinhomogena poissonprocesser
+- [ ] Typ allt om födelse-dödsprocesser och poissonprocesser (i kap 6)
+- [ ] Typ allt om poissionprocesser HUR MAN LÖSER POISON MATRISER
+- [ ] repetera köteori?
+- [ ] varför poissonprocesser har oberoende ökningar

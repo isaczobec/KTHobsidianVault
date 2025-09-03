@@ -14,3 +14,4 @@ Kärnan av dessa faser fångas i filosofin av [[User centered design]], att invo
 Första steg [[understanding the problem space]]
 
 kan appliceras på [[brainstorming for innovation]]
+

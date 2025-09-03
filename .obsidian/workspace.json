@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9491f0e5717fefa4",
+        "id": "330667916dc3f641",
         "type": "tabs",
         "children": [
           {
-            "id": "4b68bb36f09c3942",
+            "id": "63a7a48e56ad1fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kvaff/DataOModeller/Studera orsak och samband.md",
-                "mode": "preview",
+                "file": "Finansiering ME1311/Kap6/bonds.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Studera orsak och samband"
+              "title": "bonds"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "randomiserad",
+                "query": "yield curve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MDI/Norman Everyday things.md",
+                "file": "security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Norman Everyday things"
+              "title": "Backlinks for security"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MDI/Läs mer elr skippat interaction design.md",
+                "file": "security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Läs mer elr skippat interaction design"
+              "title": "Outgoing links from security"
             }
           },
           {
@@ -157,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
@@ -166,54 +166,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4b68bb36f09c3942",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "Kvaff/kvafftablecontents.pdf",
-    "Kvaff/KvaffAnteckningar.pdf",
-    "Kvaff/out.md",
-    "Kvaff/Sanstat/planering av statistiska undersökningar.md",
-    "Kvaff/Sanstat/statistiska undersökningar.md",
-    "MDI/Ideation/ideation.md",
-    "MDI/Ideation/IDEO.md",
-    "MDI/Prototyping for tiny fingers.md",
-    "MDI/Norman Everyday things.md",
-    "MDI/Läs mer elr skippat interaction design.md",
-    "MDI/Sketching/sketching.md",
-    "MDI/Sketching/Design funnel.md",
-    "MDI/Kap16/analytics and AslashB testing.md",
-    "MDI/Kap16/heuristic evaluation.md",
-    "MDI/Kap16/inspections.md",
-    "MDI/Kap16/predictive models.md",
-    "MDI/Kap16/walkthroughs.md",
-    "MDI/Kap15/field studies.md",
-    "MDI/Kap15/in the wild studies.md",
-    "MDI/Kap15/Conducting experiments.md",
-    "MDI/Kap15/usability testing.md",
-    "MDI/Kap14/Types of Evaluation.md",
-    "MDI/Kap14/Evaluation case studies.md",
-    "MDI/Kap14/Evaluation.md",
-    "MDI/Kap12/prototyping.md",
-    "MDI/Kap11/personas and scenarios.md",
-    "MDI/Kap11/brainstorming for innovation.md",
+    "Finansiering ME1311/Kap6",
+    "Finansiering ME1311/Kap5/yield curve and discount rates.md",
+    "Finansiering ME1311/Kap6/bonds.md",
+    "Finansiering ME1311/Kap4/timeline.md",
+    "San läs mer.md",
+    "PL/plSeminarium24-05-07/Perspektivväxling.md",
+    "Finansiering ME1311/Kap5/Interest rates.md",
+    "Finansiering ME1311/Kap2/Income statement.md",
+    "PL/PLbok/PLkap10/Ändringshantering.md",
+    "Finansiering ME1311/Kap2/statement of shareholders equity.md",
+    "Finansiering ME1311/Kap2/statement of cash flow.md",
+    "Finansiering ME1311/Kap2/Other financial statement information.md",
+    "Finansiering ME1311/Kap2/financial statements.md",
+    "Finansiering ME1311/Kap2/financial statement analysis.md",
+    "Finansiering ME1311/Kap2/Stockholders equity.md",
+    "EkonomiStyrning/ESbokKap9/EVA.md",
+    "PL/PLinstruderingsfrågor/Centralisering.md",
+    "PL/PLbok/PLkap1/Kultur.md",
+    "PL/plFöreläsning24-04-23/Vertikal arbetsdelning.md",
+    "PL/plFöreläsning24-04-23/horisontell arbetsdelning.md",
+    "PL/PLVideoOrganisationsstruktur/struktur.md",
+    "PL/PLbok/PLkap1/Organisation.md",
+    "PL/Bolman & Deal/Hur chefer lyckas.md",
+    "PL/Bolman & Deal/Strategier för att förbättra organisationer.md",
+    "PL/plSeminarium24-05-07/Makt och konflikter i organisationer.md",
+    "Finansiering ME1311/Kap5/risk and taxes.md",
+    "Finansiering ME1311/Kap5",
+    "Finansiering ME1311/Kap4",
+    "Assets/Pasted image 20250830111824.png",
+    "Assets/Pasted image 20250830105235.png",
+    "Assets/Pasted image 20250830102825.png",
+    "Assets/Pasted image 20250830102648.png",
+    "Assets/Pasted image 20250828155755.png",
+    "Finansiering ME1311/Kap3",
+    "Dtek/Module 1",
+    "Untitled 1",
+    "Finansiering ME1311/Kap2",
+    "etc",
+    "Finansiering ME1311/Kap1",
+    "Finansiering ME1311/FL1",
+    "Finansiering ME1311",
     "Assets/Pasted image 20250303210016.png",
     "Assets/Pasted image 20250303205845.png",
     "Assets/Pasted image 20250303205640.png",
     "Assets/Pasted image 20250303205630.png",
     "Assets/Pasted image 20250303205227.png",
-    "Assets/Pasted image 20250303204341.png",
-    "Assets/Pasted image 20250303204318.png",
-    "Assets/Pasted image 20250303204300.png",
-    "Assets/Pasted image 20250303204232.png",
-    "Assets/Pasted image 20250303204221.png",
-    "Kvaff/Övrigt",
-    "Kvaff/DataProcessing",
-    "MDI/Kap12",
-    "MDI/Sketching",
-    "MDI/Ideation",
-    "MDI/Kap8",
-    "MDI/Kap11",
-    "Kvaff/DataOModeller",
-    "Kvaff/Sanstat",
     "Untitled.canvas"
   ]
 }

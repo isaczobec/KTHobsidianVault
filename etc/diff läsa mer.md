@@ -1,0 +1,9 @@
+- [ ] Kanske försöka återskapa beviset av dirchlets sats?
+- [ ] kanske repetera parsevals identitet
+- [ ] kanske lite mer om differentiering integrering fourierserier s. 76
+- [ ] theorem 3.3 proof
+- [ ] skippade residue theroem, fanns inte i läshänvisningar?? avsnitt  3.6
+- [ ] metod 2 för visa inga time limited och frequency limited f finns, s 134
+- [ ] kanske härledningarna av lösningarna för laplace och värme ekvationer med fourierserier
+	- [ ] samma fast med fouriertransform
+	- [ ] Convolutions med fouriertransform

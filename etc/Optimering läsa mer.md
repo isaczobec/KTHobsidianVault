@@ -1,0 +1,10 @@
+- [ ] skippade appendix kap 6, var massa tunga bevis som inte verkade superviktiga
+- [ ] gör övningar network flow (kap 7.1), kanske läsa lite mer om/repetera de också
+- [ ] Varför basic solution är optimal (och exakta definitionen av basic solution)
+- [ ] Ev mer om SVD
+- [ ] ev beviset s 118
+- [ ] kanske kolla igenom proofs om vilka krav som finns för att x ska vara en lokal minimizer till convex f
+- [ ] hur matrisgrejen för nollrum metod kvadratisk optimering fungerar
+- [ ] proof Lemma 19.2?
+- [ ] repetera lemma 20.6 och det som leder upp till den, fatta typ men kan bra att prova göra själv
+- [ ] 
