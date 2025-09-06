@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
+                    "file": "politiskt perspektiv.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "fem organisatoriska grundformer"
+                  "title": "politiskt perspektiv"
                 }
               }
             ]
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bureau",
+                "query": "delegera ansvar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,8 +196,19 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "964b9b4bc6b24c67",
   "lastOpenFiles": [
+    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
+    "EkonomiStyrning/ESbokKap4/responsibility centre.md",
+    "PL/PLinstruderingsfrågor/Centralisering.md",
+    "politiskt perspektiv.md",
+    "Model I & Model II.md",
+    "Assets/Pasted image 20250906174543.png",
+    "human-resource perspektivet.md",
+    "IntroIndek/IntroIndekBok/IntroIndekBokKap15/Maslows behovspyramid.md",
+    "Assets/Pasted image 20250906170655.png",
+    "EkonomiStyrning/ESbokKap10/theory x and theory y.md",
+    "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
     "PL/plFöreläsning24-04-23/Generell organisations 5 delar.md",
     "strukturperspektivet.md",
     "PL/plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
@@ -209,21 +221,12 @@
     "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
     "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
     "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
-    "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
-    "PL/PLinstruderingsfrågor/Centralisering.md",
     "PL/plFöreläsning24-05-13/professionell byråkrati.md",
     "PL/plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
     "Assets/Pasted image 20250906161255.png",
     "PL/PLVideoOrganisationsstruktur/struktur.md",
     "koordinering.md",
     "Kunskapsintensivt arbete och organisation/OKA lista.md",
-    "PL/plFöreläsning24-04-23/Vertikal arbetsdelning.md",
-    "PL/plFöreläsning24-04-23/Mekanismer för samordning, styrning och kontroll.md",
-    "PL/Andra källor/Horisontell och Vertikal differentiering.md",
-    "PL/plFöreläsning24-04-23/Differentiering och integrering.md",
-    "Scientific management.md",
-    "PL/plSeminarium24-05-07/Perspektivväxling.md",
-    "Finansiering ME1311/Kap9/total payout model.md",
     "Finansiering ME1311/Kap9",
     "Kunskapsintensivt arbete och organisation",
     "Finansiering ME1311/Kap8",
@@ -241,8 +244,6 @@
     "Untitled 1",
     "Assets/Pasted image 20250303210016.png",
     "Assets/Pasted image 20250303205845.png",
-    "Assets/Pasted image 20250303205640.png",
-    "Assets/Pasted image 20250303205630.png",
     "Untitled.canvas"
   ]
 }
