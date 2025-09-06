@@ -15,4 +15,11 @@ mycket formell kompetens behövs
 mycket ***omdefenition av roller***, ofta decentraliserat beslutsfatatnde i enskilda projekt
 Arbetet romantiseras, liten gräns privatliv och arbetsliv
 
+
+### Maskinbyråkrati
+- mycket ledning, de bestämmer
+- mellanchefer kommunicerar vad de ska göra till operativa kärnan
+- mycket support och technostructure ofta
+- måste motivera arbetare i operativa kärnan
+
 se även [[professionell byråkrati]] och [[Divisionaliserad organisationsstruktur]]d

@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "330667916dc3f641",
-        "type": "tabs",
+        "id": "1163b0cc54f85bab",
+        "type": "split",
         "children": [
           {
-            "id": "63a7a48e56ad1fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finansiering ME1311/Kap6/bonds.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "bonds"
-            }
+            "id": "5a3bf6ddb46c09d0",
+            "type": "tabs",
+            "dimension": 67.81609195402298,
+            "children": [
+              {
+                "id": "964b9b4bc6b24c67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "fem organisatoriska grundformer"
+                }
+              }
+            ]
+          },
+          {
+            "id": "91fe10ab232dc006",
+            "type": "tabs",
+            "dimension": 32.18390804597701,
+            "children": [
+              {
+                "id": "384e9e6c270748fa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Funktionsbaserad organisationsstruktur"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yield curve",
+                "query": "bureau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,32 +197,38 @@
   },
   "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "Finansiering ME1311/Kap6",
-    "Finansiering ME1311/Kap5/yield curve and discount rates.md",
-    "Finansiering ME1311/Kap6/bonds.md",
-    "Finansiering ME1311/Kap4/timeline.md",
-    "San läs mer.md",
-    "PL/plSeminarium24-05-07/Perspektivväxling.md",
-    "Finansiering ME1311/Kap5/Interest rates.md",
-    "Finansiering ME1311/Kap2/Income statement.md",
-    "PL/PLbok/PLkap10/Ändringshantering.md",
-    "Finansiering ME1311/Kap2/statement of shareholders equity.md",
-    "Finansiering ME1311/Kap2/statement of cash flow.md",
-    "Finansiering ME1311/Kap2/Other financial statement information.md",
-    "Finansiering ME1311/Kap2/financial statements.md",
-    "Finansiering ME1311/Kap2/financial statement analysis.md",
-    "Finansiering ME1311/Kap2/Stockholders equity.md",
-    "EkonomiStyrning/ESbokKap9/EVA.md",
+    "PL/plFöreläsning24-04-23/Generell organisations 5 delar.md",
+    "strukturperspektivet.md",
+    "PL/plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
+    "PL/PLVideoOrganisationsstruktur/Projektorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/Produkt och funktionsbaserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Processorienterade organisationer.md",
+    "PL/PLVideoOrganisationsstruktur/Nätverksorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/Affärsområdesbaserad divisionsorganisation.md",
+    "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
+    "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
     "PL/PLinstruderingsfrågor/Centralisering.md",
-    "PL/PLbok/PLkap1/Kultur.md",
-    "PL/plFöreläsning24-04-23/Vertikal arbetsdelning.md",
-    "PL/plFöreläsning24-04-23/horisontell arbetsdelning.md",
+    "PL/plFöreläsning24-05-13/professionell byråkrati.md",
+    "PL/plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
+    "Assets/Pasted image 20250906161255.png",
     "PL/PLVideoOrganisationsstruktur/struktur.md",
-    "PL/PLbok/PLkap1/Organisation.md",
-    "PL/Bolman & Deal/Hur chefer lyckas.md",
-    "PL/Bolman & Deal/Strategier för att förbättra organisationer.md",
-    "PL/plSeminarium24-05-07/Makt och konflikter i organisationer.md",
-    "Finansiering ME1311/Kap5/risk and taxes.md",
+    "koordinering.md",
+    "Kunskapsintensivt arbete och organisation/OKA lista.md",
+    "PL/plFöreläsning24-04-23/Vertikal arbetsdelning.md",
+    "PL/plFöreläsning24-04-23/Mekanismer för samordning, styrning och kontroll.md",
+    "PL/Andra källor/Horisontell och Vertikal differentiering.md",
+    "PL/plFöreläsning24-04-23/Differentiering och integrering.md",
+    "Scientific management.md",
+    "PL/plSeminarium24-05-07/Perspektivväxling.md",
+    "Finansiering ME1311/Kap9/total payout model.md",
+    "Finansiering ME1311/Kap9",
+    "Kunskapsintensivt arbete och organisation",
+    "Finansiering ME1311/Kap8",
+    "Finansiering ME1311/Kap7",
+    "Finansiering ME1311/Kap6",
     "Finansiering ME1311/Kap5",
     "Finansiering ME1311/Kap4",
     "Assets/Pasted image 20250830111824.png",
@@ -204,16 +239,10 @@
     "Finansiering ME1311/Kap3",
     "Dtek/Module 1",
     "Untitled 1",
-    "Finansiering ME1311/Kap2",
-    "etc",
-    "Finansiering ME1311/Kap1",
-    "Finansiering ME1311/FL1",
-    "Finansiering ME1311",
     "Assets/Pasted image 20250303210016.png",
     "Assets/Pasted image 20250303205845.png",
     "Assets/Pasted image 20250303205640.png",
     "Assets/Pasted image 20250303205630.png",
-    "Assets/Pasted image 20250303205227.png",
     "Untitled.canvas"
   ]
 }

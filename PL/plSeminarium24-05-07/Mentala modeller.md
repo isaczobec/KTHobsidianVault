@@ -1,4 +1,6 @@
 #plSeminarium24-05-07
+#OkaKap2 
+
 Bohman och deal
 
 måste kunna byta perspektiv in en "blinkprocess"
@@ -10,3 +12,7 @@ måste kunna göra detta för att hänga med, speciellt i kommunikativ rationali
 Måste ske omedvetet och väldigt snabbt
 - Vilket perspektiv har de som säger något? för Kunna värdera vad de säger (?)
 - 
+
+Vi ser värden genom våra mentala modeller
+- om oversimplified blir det fallacies
+- för de med bra mentalla modeller blir det styrka istället: [[Perspektivväxling]], [[Perspektiv]]

@@ -1,4 +1,9 @@
 
+hur högt upp i organisationen som ärenden flyttas
+- kan delegera befogenheter men inte ansvar
+- delegationsordning visar vad chefer på olika nivåer får göra
+- vad som är bra beror på situationen, ex inte för mycket detaljstyrning i [[Kunskapsintensiv organisation]]
+
 #plInstuderingsfrågor 
 
 ## Varför centralisera vissa funktioner och decentralisera andra?
