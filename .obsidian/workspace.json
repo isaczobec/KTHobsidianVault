@@ -18,15 +18,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "politiskt perspektiv.md",
+                    "file": "Kunskapsintensivt arbete och organisation/human-resource perspektivet.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "politiskt perspektiv"
+                  "title": "human-resource perspektivet"
+                }
+              },
+              {
+                "id": "9b866af4c4e322f7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "symboliskt perspektiv.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "symboliskt perspektiv"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "91fe10ab232dc006",
@@ -195,21 +210,27 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "9b866af4c4e322f7",
   "lastOpenFiles": [
+    "symboliskt perspektiv.md",
+    "Assets/Pasted image 20250908133251.png",
+    "Assets/Pasted image 20250908124349.png",
+    "Assets/Pasted image 20250908123248.png",
+    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
+    "Kunskapsintensivt arbete och organisation/human-resource perspektivet.md",
+    "Kunskapsintensivt arbete och organisation/Model I & Model II.md",
+    "Kunskapsintensivt arbete och organisation/koordinering.md",
+    "Kunskapsintensivt arbete och organisation/politiskt perspektiv.md",
     "EkonomiStyrning/FL2024-08-26/throughput controls.md",
     "EkonomiStyrning/ESbokKap4/responsibility centre.md",
     "PL/PLinstruderingsfrågor/Centralisering.md",
-    "politiskt perspektiv.md",
-    "Model I & Model II.md",
     "Assets/Pasted image 20250906174543.png",
-    "human-resource perspektivet.md",
     "IntroIndek/IntroIndekBok/IntroIndekBokKap15/Maslows behovspyramid.md",
     "Assets/Pasted image 20250906170655.png",
     "EkonomiStyrning/ESbokKap10/theory x and theory y.md",
     "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
     "PL/plFöreläsning24-04-23/Generell organisations 5 delar.md",
-    "strukturperspektivet.md",
+    "Kunskapsintensivt arbete och organisation/strukturperspektivet.md",
     "PL/plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
     "PL/PLVideoOrganisationsstruktur/Projektorganisation.md",
     "PL/PLVideoOrganisationsstruktur/Produkt och funktionsbaserad organisationsstruktur.md",
@@ -218,14 +239,10 @@
     "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
     "PL/PLVideoOrganisationsstruktur/Affärsområdesbaserad divisionsorganisation.md",
     "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
-    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
     "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
     "PL/plFöreläsning24-05-13/professionell byråkrati.md",
     "PL/plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
     "Assets/Pasted image 20250906161255.png",
-    "PL/PLVideoOrganisationsstruktur/struktur.md",
-    "koordinering.md",
-    "Kunskapsintensivt arbete och organisation/OKA lista.md",
     "Finansiering ME1311/Kap9",
     "Kunskapsintensivt arbete och organisation",
     "Finansiering ME1311/Kap8",
@@ -237,12 +254,9 @@
     "Assets/Pasted image 20250830105235.png",
     "Assets/Pasted image 20250830102825.png",
     "Assets/Pasted image 20250830102648.png",
-    "Assets/Pasted image 20250828155755.png",
     "Finansiering ME1311/Kap3",
     "Dtek/Module 1",
     "Untitled 1",
-    "Assets/Pasted image 20250303210016.png",
-    "Assets/Pasted image 20250303205845.png",
     "Untitled.canvas"
   ]
 }
