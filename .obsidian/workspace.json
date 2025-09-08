@@ -10,7 +10,7 @@
           {
             "id": "5a3bf6ddb46c09d0",
             "type": "tabs",
-            "dimension": 67.81609195402298,
+            "dimension": 76.17370892018779,
             "children": [
               {
                 "id": "964b9b4bc6b24c67",
@@ -31,7 +31,7 @@
           {
             "id": "91fe10ab232dc006",
             "type": "tabs",
-            "dimension": 32.18390804597701,
+            "dimension": 23.826291079812208,
             "children": [
               {
                 "id": "384e9e6c270748fa",
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "964b9b4bc6b24c67",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
     "EkonomiStyrning/FL2024-08-26/throughput controls.md",
     "EkonomiStyrning/ESbokKap4/responsibility centre.md",

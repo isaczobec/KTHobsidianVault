@@ -143,3 +143,50 @@ Koaliationer kan bildas för att få villja igenom
 - opersonligt
 - cyniskt
 - tar bort positiv energi
+
+
+### Political skills
+
+skills som en manager har
+- **Agenda-setting**
+	- outlines mål och aktiviteter för komma dit
+- **Mapping the political terrain**
+	- måste veta hur landscape ser ut innan tar desiscions
+		1. Determine channels of informal communication. 
+		2. Identify principal agents of political influence. 
+		3. Analyze possibilities for mobilizing internal and external players. 
+		4. Anticipate counterstrategies that others are likely to employ.
+- **Networking and building coalitions**
+	- indentify relevant relationships
+	- asses who might resist, why, how strongly
+	- develop links with opponents, for negotiation, education, etc
+	- om failar, använd mer forceful metoder
+- **Bargaining and negotiating**
+	- value creators föresrpåkar winwin, value claimers förespråkar att andra gör concessions
+
+politik kan vara destructive eller givande, kan påverka hur change kan göras i organisationer
+
+## Political Dimensions of Organizational Processes
+- organisationsdesign handlar ibland om *vems* interessts som ska främjas av organisationen
+
+### sources of opolitical initiative
+- Partisans och authority-modellen ger upphov till två typer:
+	- Bottom up
+		- mobilization of groups to assert interests
+		- kan hända om widespread missnöje länge eller dissapointment
+	- Top down
+		- Authorities capacity to influence subordinates
+		- kan bli väldigt poltitiskt om man vill att subordinates ska utföra förändring, kan vara bra att kontakta dem först
+
+### ORGANIZATIONS AS POLITICAL AGENTS
+- förutom intern politik kan organisationer delta i larger arenas
+	- vara involverad i actual politic
+	- kan ovkså vara inom konkurrens, att frama sin businiess på ett sätt jämtemot competitors (exempelvis uber vs traditionell taxi)
+
+kan bildas ekosystem runt vad som helst, exmepelvis ofta public regulation eller public policy ecosystems
+- blir mycket lobying, exmeplvis branded drugstores
+
+Soceity kan också vara ecosystem
+- många companies har större economies än länder
+
+Om företag har stor market share har de väldigt mycket makt, kan ibland skada fri konkurens
