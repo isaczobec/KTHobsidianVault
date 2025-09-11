@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kunskapsintensivt arbete och organisation/human-resource perspektivet.md",
+                    "file": "San läs mer.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "human-resource perspektivet"
+                  "title": "San läs mer"
                 }
               },
               {
@@ -32,16 +32,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "symboliskt perspektiv.md",
-                    "mode": "source",
+                    "file": "Kunskapsintensivt arbete och organisation/koordinering.md",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "symboliskt perspektiv"
+                  "title": "koordinering"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "91fe10ab232dc006",
@@ -210,26 +209,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9b866af4c4e322f7",
+  "active": "964b9b4bc6b24c67",
   "lastOpenFiles": [
-    "symboliskt perspektiv.md",
-    "Assets/Pasted image 20250908133251.png",
-    "Assets/Pasted image 20250908124349.png",
-    "Assets/Pasted image 20250908123248.png",
-    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
+    "Kunskapsintensivt arbete och organisation/symboliskt perspektiv.md",
     "Kunskapsintensivt arbete och organisation/human-resource perspektivet.md",
-    "Kunskapsintensivt arbete och organisation/Model I & Model II.md",
     "Kunskapsintensivt arbete och organisation/koordinering.md",
     "Kunskapsintensivt arbete och organisation/politiskt perspektiv.md",
-    "EkonomiStyrning/FL2024-08-26/throughput controls.md",
-    "EkonomiStyrning/ESbokKap4/responsibility centre.md",
-    "PL/PLinstruderingsfrågor/Centralisering.md",
-    "Assets/Pasted image 20250906174543.png",
-    "IntroIndek/IntroIndekBok/IntroIndekBokKap15/Maslows behovspyramid.md",
-    "Assets/Pasted image 20250906170655.png",
-    "EkonomiStyrning/ESbokKap10/theory x and theory y.md",
-    "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
-    "PL/plFöreläsning24-04-23/Generell organisations 5 delar.md",
+    "Kunskapsintensivt arbete och organisation/Model I & Model II.md",
     "Kunskapsintensivt arbete och organisation/strukturperspektivet.md",
     "PL/plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
     "PL/PLVideoOrganisationsstruktur/Projektorganisation.md",
@@ -237,11 +223,25 @@
     "PL/PLVideoOrganisationsstruktur/Processorienterade organisationer.md",
     "PL/PLVideoOrganisationsstruktur/Nätverksorganisation.md",
     "PL/PLVideoOrganisationsstruktur/Matrisorganisation.md",
-    "PL/PLVideoOrganisationsstruktur/Affärsområdesbaserad divisionsorganisation.md",
-    "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
     "PL/PLVideoOrganisationsstruktur/kundbaserat organisationsschema.md",
+    "PL/PLVideoOrganisationsstruktur/Funktionsbaserad organisationsstruktur.md",
+    "PL/PLVideoOrganisationsstruktur/Affärsområdesbaserad divisionsorganisation.md",
+    "PL/plFöreläsning24-04-23/Generell organisations 5 delar.md",
+    "PL/plFöreläsning24-04-23/fem organisatoriska grundformer.md",
+    "PL/PLVideoOrganisationsstruktur/Divisionaliserad organisationsstruktur.md",
     "PL/plFöreläsning24-05-13/professionell byråkrati.md",
+    "PL/PLinstruderingsfrågor/Centralisering.md",
     "PL/plFöreläsning24-04-23/Kunskapsintensiv organisation.md",
+    "Kunskapsintensivt arbete och organisation/coping with ambiguity and complexity.md",
+    "PL/plSeminarium24-05-07/Perspektivväxling.md",
+    "Kunskapsintensivt arbete och organisation/OKA lista.md",
+    "PL/Bolman & Deal/Perspektiv.md",
+    "PL/plFöreläsning24-04-23/Vertikal arbetsdelning.md",
+    "Assets/Pasted image 20250908133251.png",
+    "Assets/Pasted image 20250908124349.png",
+    "Assets/Pasted image 20250908123248.png",
+    "Assets/Pasted image 20250906174543.png",
+    "Assets/Pasted image 20250906170655.png",
     "Assets/Pasted image 20250906161255.png",
     "Finansiering ME1311/Kap9",
     "Kunskapsintensivt arbete och organisation",
