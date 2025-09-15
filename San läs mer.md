@@ -18,3 +18,5 @@ hur man använder $\Phi$ funkitonen för att räkna ut normalfördelningens sann
 gör alla proofsen på s. 167
 
 kanske det på sida 172 och Cram´er’s theorem
+
+gör alla proofs själv för multivariate normal dist
