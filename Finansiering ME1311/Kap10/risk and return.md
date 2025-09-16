@@ -1,7 +1,7 @@
 #FinKap10
 mer variable securities som small stocks och snp har högre potentiella returns än ex treasury bills men högre variability
 
-expected return = $E[R], R \in [0,1]$
+expected return = $E[R], R \in [0,\infty]$
 - använd detta eftersom inte alla investments har samma cash flows, initial prices, payouts etc för att kunna jämföra dem
 
 variance/std för att mäta riskiness

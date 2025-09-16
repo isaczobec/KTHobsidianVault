@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finansiering ME1311/Kap10/types of risk.md",
+                "file": "project cost of capital.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "types of risk"
+              "title": "project cost of capital"
             }
           }
         ]
@@ -40,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
@@ -168,17 +166,20 @@
   },
   "active": "16f9c5834f520cfc",
   "lastOpenFiles": [
-    "Finansiering ME1311/Kap10/firm-specific vs systematic risk.md",
+    "equity cost of capital.md",
+    "project cost of capital.md",
+    "debt cost of capital.md",
     "Finansiering ME1311/Kap10/risk and return.md",
-    "Finansiering ME1311/Kap10",
-    "Finansiering ME1311/Kap10/types of risk.md",
-    "San läs mer.md",
     "Finansiering ME1311/Kap10/meausuring systematic risk.md",
+    "Finansiering ME1311/Kap9/discounted free cash flow model.md",
+    "Finansiering ME1311/Kap10/firm-specific vs systematic risk.md",
+    "Finansiering ME1311/Kap10/types of risk.md",
+    "Finansiering ME1311/Kap10",
+    "San läs mer.md",
     "Finansiering ME1311/Kap8/Capital budgeting.md",
     "Finansiering ME1311/Kap2/Balance sheet.md",
     "Finansiering ME1311/Kap8/break-even analysis.md",
     "Finansiering ME1311/Kap9/dividends vs investment and grotwh.md",
-    "Finansiering ME1311/Kap9/discounted free cash flow model.md",
     "Finansiering ME1311/Kap2/financial statement analysis.md",
     "EkonomiStyrning/ESbokKap8/parts of the budget.md",
     "Finansiering ME1311/Kap2/statement of cash flow.md",
@@ -192,8 +193,6 @@
     "Kunskapsintensivt arbete och organisation/OKA lista.md",
     "Kunskapsintensivt arbete och organisation/strukturperspektivet.md",
     "PL/plFöreläsning24-04-23/Byråkrati kontra Kaos.md",
-    "PL/PLVideoOrganisationsstruktur/Projektorganisation.md",
-    "PL/PLVideoOrganisationsstruktur/Produkt och funktionsbaserad organisationsstruktur.md",
     "Assets/Pasted image 20250908133251.png",
     "Assets/Pasted image 20250908124349.png",
     "Assets/Pasted image 20250908123248.png",
