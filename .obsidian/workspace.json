@@ -11,10 +11,14 @@
             "id": "d8fac9a7d34dce6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Finansiering ME1311/Kap16/agency benefits of leverage.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "agency benefits of leverage"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capm",
+                "query": "distress costs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,38 +166,39 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "d8fac9a7d34dce6a",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "Finansiering ME1311/Kap16/default and bankruptcy in perfect market.md",
+    "Finansiering ME1311/Kap16/agency benefits of leverage.md",
+    "Finansiering ME1311/Kap16",
+    "Finansiering ME1311/Kap16/agency costs and the tradeoff theory.md",
+    "Finansiering ME1311/Kap16/agency costs of levarege.md",
+    "Finansiering ME1311/Kap16/assymetric information and capital structure.md",
+    "Finansiering ME1311/Kap16/bottom line of capital structure.md",
+    "Finansiering ME1311/Kap16/Financial distress costs and firm value.md",
+    "Finansiering ME1311/Kap16/The tradeof theory.md",
+    "San läs mer.md",
+    "Finansiering ME1311/Kap13/investing styles.md",
+    "Finansiering ME1311/Kap13/identifying alpha.md",
+    "Finansiering ME1311/Kap12/project cost of capital.md",
+    "Finansiering ME1311/Kap14/Market value balance sheet.md",
     "Finansiering ME1311/Kap15/interest tax deduction.md",
     "Finansiering ME1311/Kap15/recapitalizing to capture the tax shield.md",
     "Finansiering ME1311/Kap15",
     "Finansiering ME1311/Kap15/optimal capital structure with taxes.md",
-    "San läs mer.md",
     "Finansiering ME1311/Kap14/leverage, risk and the cost of capital.md",
-    "Finansiering ME1311/Kap14/Market value balance sheet.md",
     "Finansiering ME1311/Kap14/equity vs debt financing.md",
     "Finansiering ME1311/Kap14",
-    "Finansiering ME1311/Kap13/investing styles.md",
-    "Finansiering ME1311/Kap13/identifying alpha.md",
     "Finansiering ME1311/Kap13",
     "Finansiering ME1311/Kap12/debt cost of capital.md",
     "Finansiering ME1311/Kap12",
     "Finansiering ME1311/Kap12/equity cost of capital.md",
     "Finansiering ME1311/Kap12/Fördelar med CAPM.md",
-    "Finansiering ME1311/Kap12/project cost of capital.md",
     "Finansiering ME1311/Kap10/meausuring systematic risk.md",
     "Finansiering ME1311/Kap9/discounted free cash flow model.md",
     "Finansiering ME1311/Kap10/types of risk.md",
     "Finansiering ME1311/Kap10/firm-specific vs systematic risk.md",
-    "Finansiering ME1311/Kap10/risk and return.md",
     "Finansiering ME1311/Kap10",
-    "Finansiering ME1311/Kap8/Capital budgeting.md",
-    "Finansiering ME1311/Kap2/Balance sheet.md",
-    "Finansiering ME1311/Kap8/break-even analysis.md",
-    "Finansiering ME1311/Kap9/dividends vs investment and grotwh.md",
-    "Finansiering ME1311/Kap2/financial statement analysis.md",
-    "EkonomiStyrning/ESbokKap8/parts of the budget.md",
-    "Finansiering ME1311/Kap2/statement of cash flow.md",
     "Assets/Pasted image 20250908133251.png",
     "Assets/Pasted image 20250908124349.png",
     "Assets/Pasted image 20250908123248.png",
@@ -204,7 +209,6 @@
     "Kunskapsintensivt arbete och organisation",
     "Finansiering ME1311/Kap8",
     "Finansiering ME1311/Kap7",
-    "Finansiering ME1311/Kap6",
     "Assets/Pasted image 20250830111824.png",
     "Assets/Pasted image 20250830105235.png",
     "Assets/Pasted image 20250830102825.png",
