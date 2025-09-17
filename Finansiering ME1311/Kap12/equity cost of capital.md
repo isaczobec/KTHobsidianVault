@@ -1,4 +1,4 @@
-
+#FinKap12
 Under capm assumptions: cost of capital av en investment opportunity blir expected return av en investment med samma beta som denna (se [[meausuring systematic risk]] )
 - kan använda denna cost of capital för att värdera stock ex i [[discounted free cash flow model]]
 
