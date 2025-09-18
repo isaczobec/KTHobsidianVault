@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finansiering ME1311/Kap17/tax disadvantage of dividends.md",
+                "file": "Finansiering ME1311/Kap18/the APV method.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tax disadvantage of dividends"
+              "title": "the APV method"
+            }
+          },
+          {
+            "id": "9b2e1929fb773176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finansiering ME1311/Kap18/apv with other leverage policies.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "apv with other leverage policies"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shares",
+                "query": "wacc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,39 +181,40 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "d8fac9a7d34dce6a",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "Finansiering ME1311/Kap18/The WACC Method.md",
+    "Finansiering ME1311/Kap18/the APV method.md",
+    "Finansiering ME1311/Kap18",
+    "Finansiering ME1311/Kap18/the FTE method.md",
+    "Finansiering ME1311/Kap18/project based costs of capital.md",
+    "San läs mer.md",
+    "Finansiering ME1311/Kap18/apv with other leverage policies.md",
+    "Finansiering ME1311/Kap18/other effects of financing on projects.md",
+    "Finansiering ME1311/Kap12/debt cost of capital.md",
+    "Finansiering ME1311/Kap14/leverage, risk and the cost of capital.md",
+    "Finansiering ME1311/Kap15/interest tax deduction.md",
+    "Finansiering ME1311/Kap9/discounted free cash flow model.md",
+    "Finansiering ME1311/Kap16/agency costs and the tradeoff theory.md",
+    "Finansiering ME1311/Kap17/tax disadvantage of dividends.md",
     "Finansiering ME1311/Kap17/comparasion of dividens and share repurchases.md",
     "Finansiering ME1311/Kap17/payout vs retention of cash.md",
     "Finansiering ME1311/Kap17",
-    "Finansiering ME1311/Kap17/tax disadvantage of dividends.md",
-    "San läs mer.md",
     "Finansiering ME1311/Kap17/distributions to shareholders.md",
-    "Finansiering ME1311/Kap16/agency costs and the tradeoff theory.md",
     "Finansiering ME1311/Kap16/agency costs of levarege.md",
     "Finansiering ME1311/Kap2/enterprise value.md",
     "Finansiering ME1311/Kap16/assymetric information and capital structure.md",
     "Finansiering ME1311/Kap16/agency benefits of leverage.md",
-    "Finansiering ME1311/Kap15/interest tax deduction.md",
     "Finansiering ME1311/Kap16/default and bankruptcy in perfect market.md",
     "Finansiering ME1311/Kap16",
     "Finansiering ME1311/Kap16/bottom line of capital structure.md",
     "Finansiering ME1311/Kap16/Financial distress costs and firm value.md",
     "Finansiering ME1311/Kap16/The tradeof theory.md",
     "Finansiering ME1311/Kap13/investing styles.md",
-    "Finansiering ME1311/Kap13/identifying alpha.md",
-    "Finansiering ME1311/Kap12/project cost of capital.md",
-    "Finansiering ME1311/Kap14/Market value balance sheet.md",
-    "Finansiering ME1311/Kap15/recapitalizing to capture the tax shield.md",
     "Finansiering ME1311/Kap15",
-    "Finansiering ME1311/Kap15/optimal capital structure with taxes.md",
-    "Finansiering ME1311/Kap14/leverage, risk and the cost of capital.md",
-    "Finansiering ME1311/Kap14/equity vs debt financing.md",
     "Finansiering ME1311/Kap14",
     "Finansiering ME1311/Kap13",
-    "Finansiering ME1311/Kap12/debt cost of capital.md",
     "Finansiering ME1311/Kap12",
-    "Finansiering ME1311/Kap12/equity cost of capital.md",
     "Finansiering ME1311/Kap10",
     "Assets/Pasted image 20250908133251.png",
     "Assets/Pasted image 20250908124349.png",
@@ -208,7 +224,6 @@
     "Assets/Pasted image 20250906161255.png",
     "Finansiering ME1311/Kap9",
     "Kunskapsintensivt arbete och organisation",
-    "Finansiering ME1311/Kap8",
     "Assets/Pasted image 20250830111824.png",
     "Assets/Pasted image 20250830105235.png",
     "Assets/Pasted image 20250830102825.png",

@@ -12,4 +12,4 @@ För issua equity för att ge högre dividend:
 - Om capital gains tax lägre preferar share repurchase, optimalt med *inga dividends*
 
 firmor använder fortfarande dividens trotts detta, kallas *dividend puzzle*
-- 
+-
