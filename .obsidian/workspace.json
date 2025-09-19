@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finansiering ME1311/Kap29/managing agency conflicts.md",
+                "file": "Finansiering ME1311/Kap23/seasoned equity offering.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "managing agency conflicts"
+              "title": "seasoned equity offering"
             }
           }
         ],
@@ -181,12 +181,17 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9b2e1929fb773176",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "Finansiering ME1311/Kap23/venture capital investing.md",
+    "Finansiering ME1311/Kap23/sources of funding.md",
+    "Finansiering ME1311/Kap23",
+    "Finansiering ME1311/Kap23/IPO puzzles.md",
+    "Finansiering ME1311/Kap23/seasoned equity offering.md",
+    "Finansiering ME1311/Kap29/managing agency conflicts.md",
     "Finansiering ME1311/Kap29/corporate governance and agency costs.md",
     "Finansiering ME1311/Kap29/compenstation policies.md",
     "Finansiering ME1311/Kap29",
-    "Finansiering ME1311/Kap29/managing agency conflicts.md",
     "Finansiering ME1311/Kap18/apv with other leverage policies.md",
     "Finansiering ME1311/Kap18/The WACC Method.md",
     "Finansiering ME1311/Kap18/the APV method.md",
@@ -207,11 +212,7 @@
     "Finansiering ME1311/Kap17/distributions to shareholders.md",
     "Finansiering ME1311/Kap16/agency costs of levarege.md",
     "Finansiering ME1311/Kap2/enterprise value.md",
-    "Finansiering ME1311/Kap16/assymetric information and capital structure.md",
-    "Finansiering ME1311/Kap16/agency benefits of leverage.md",
-    "Finansiering ME1311/Kap16/default and bankruptcy in perfect market.md",
     "Finansiering ME1311/Kap16",
-    "Finansiering ME1311/Kap16/bottom line of capital structure.md",
     "Finansiering ME1311/Kap15",
     "Finansiering ME1311/Kap14",
     "Finansiering ME1311/Kap13",
@@ -223,7 +224,6 @@
     "Assets/Pasted image 20250906174543.png",
     "Assets/Pasted image 20250906170655.png",
     "Assets/Pasted image 20250906161255.png",
-    "Finansiering ME1311/Kap9",
     "Assets/Pasted image 20250830111824.png",
     "Assets/Pasted image 20250830105235.png",
     "Assets/Pasted image 20250830102825.png",
