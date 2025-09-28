@@ -53,7 +53,7 @@ zero-copoun bond YTM måste vara samma som risk free interest rate med samma ter
 
 Kan enligt [[Law of one price]] värdera coupon bonds med en samling zero-coupon bonds
 
-upward sloping [[yield curve and discount rates|yield curve]] ger lägre YTM, och vice versa
+upward sloping [[yield curve and discount rates|yield curve]] ger lägre YTM, och vice versa (????????)
 
 copoun paying yield curve är plot av YTM för bonds med olika maturities
 

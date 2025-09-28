@@ -23,7 +23,7 @@ Indelade i long och current term:
 
 ## Liabilities
 Indelade i long och current term:
-- *Current assets*:
+- *Current liabilities*:
 	- sarisfied inom ett år
 	- accounts payable, leverantörsskulder?
 	- short-term debt, inkluderar också long term debt som kommer betalas inom ett år
@@ -31,7 +31,7 @@ Indelade i long och current term:
 	- deffered/unearned revenue; ex om man inte levererat proukter man sålt än
 	- *current assets - current liabilites = net working capital*
 		- cash avaliable in short term to run business
-- *Long term assets*:
+- *Long term liabilities*:
 	- Long term debt, ex för inskaffa kapital långsiktigt
 	- Capital leases; måste göra regular payments länge för att använda en asset
 	- Defferred taxes: owed but not yet paid, kan uppstå om man har två sets av financial statements
