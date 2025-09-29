@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b8ead6555037450",
+        "id": "0cf083e6b95bab78",
         "type": "tabs",
         "children": [
           {
-            "id": "430ea15b683bd854",
+            "id": "6e8b6fb12f4dff65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
+                "file": "Finansiering ME1311/Kap6/bonds.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "projektledningens historia"
+              "title": "bonds"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unlevered cost of cap",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,10 +168,22 @@
   },
   "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "Finansiering ME1311/benabou triole CSR.md",
+    "Finansiering ME1311/Kap8/Capital budgeting.md",
+    "Finansiering ME1311/Kap9/discounted free cash flow model.md",
+    "Finansiering ME1311/Kap17/distributions to shareholders.md",
+    "Finansiering ME1311/Kap9/method of comparabels.md",
+    "Finansiering ME1311/Kap14/leverage, risk and the cost of capital.md",
+    "Finansiering ME1311/Kap18/the FTE method.md",
+    "Finansiering ME1311/Kap23/venture capital investing.md",
+    "Finansiering ME1311/Kap9/total payout model.md",
+    "Finansiering ME1311/Kap16/agency benefits of leverage.md",
+    "Finansiering ME1311/Kap16/assymetric information and capital structure.md",
+    "Finansiering ME1311/Kap2/enterprise value.md",
+    "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
     "finansiering repetera.md",
     "Kunskapsintensivt arbete och organisation/KS1/symboliskt perspektiv.md",
     "Kunskapsintensivt arbete och organisation/KS1/coping with ambiguity and complexity.md",
-    "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
     "Kunskapsintensivt arbete och organisation/KS1",
     "Kunskapsintensivt arbete och organisation/KS2",
     "PL/PLbok/PLkap6/rapportering.md",
@@ -184,18 +196,6 @@
     "PL/PLbok/PLkap1/Aktivitet.md",
     "Finansiering ME1311/Kap6/bonds.md",
     "Finansiering ME1311/Kap18/apv with other leverage policies.md",
-    "Finansiering ME1311/Kap2/financial statement analysis.md",
-    "Finansiering ME1311/Kap14/leverage, risk and the cost of capital.md",
-    "Finansiering ME1311/Kap14/equity vs debt financing.md",
-    "Verksamhetsledning/VLBokKap3/operations strategy process.md",
-    "MDI/mdiALLT.md",
-    "Finansiering ME1311/Kap15/interest tax deduction.md",
-    "Finansiering ME1311/Kap16/agency costs and the tradeoff theory.md",
-    "Finansiering ME1311/Kap8/Capital budgeting.md",
-    "Finansiering ME1311/Kap12/debt cost of capital.md",
-    "Finansiering ME1311/Kap9/total payout model.md",
-    "Finansiering ME1311/Kap2/enterprise value.md",
-    "Finansiering ME1311/Kap16/agency costs of levarege.md",
     "Finansiering ME1311/Kap24",
     "Finansiering ME1311/Kap23",
     "Finansiering ME1311/Kap29",
