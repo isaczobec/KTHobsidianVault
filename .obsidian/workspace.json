@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finansiering ME1311/Kap6/bonds.md",
+                "file": "martinson et al.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "bonds"
+              "title": "martinson et al"
             }
           }
         ]
@@ -166,8 +166,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "6e8b6fb12f4dff65",
   "lastOpenFiles": [
+    "martinson et al.md",
+    "Finansiering ME1311/Kap6/bonds.md",
     "Finansiering ME1311/benabou triole CSR.md",
     "Finansiering ME1311/Kap8/Capital budgeting.md",
     "Finansiering ME1311/Kap9/discounted free cash flow model.md",
@@ -194,8 +196,6 @@
     "PL/PLbok/PLkap1/Proccesser.md",
     "PL/PLbok/PLkap1/Flödesbaserad verksamhet.md",
     "PL/PLbok/PLkap1/Aktivitet.md",
-    "Finansiering ME1311/Kap6/bonds.md",
-    "Finansiering ME1311/Kap18/apv with other leverage policies.md",
     "Finansiering ME1311/Kap24",
     "Finansiering ME1311/Kap23",
     "Finansiering ME1311/Kap29",
