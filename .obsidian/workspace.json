@@ -11,14 +11,10 @@
             "id": "6e8b6fb12f4dff65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "martinson et al.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "martinson et al"
+              "title": "New tab"
             }
           }
         ]
@@ -166,9 +162,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6e8b6fb12f4dff65",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "Finansiering ME1311/hong et al.md",
+    "Finansiering ME1311/martinson et al.md",
     "martinson et al.md",
+    "hong et al.md",
     "Finansiering ME1311/Kap6/bonds.md",
     "Finansiering ME1311/benabou triole CSR.md",
     "Finansiering ME1311/Kap8/Capital budgeting.md",
@@ -193,9 +192,6 @@
     "PL/PLbok/PLkap6/Kommunikationsplan.md",
     "PL/PLbok/PLkap6/Kommunikationsmodellen.md",
     "PL/PLbok/PLkap6/Kommunikation.md",
-    "PL/PLbok/PLkap1/Proccesser.md",
-    "PL/PLbok/PLkap1/Flödesbaserad verksamhet.md",
-    "PL/PLbok/PLkap1/Aktivitet.md",
     "Finansiering ME1311/Kap24",
     "Finansiering ME1311/Kap23",
     "Finansiering ME1311/Kap29",
