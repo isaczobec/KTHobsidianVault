@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0cf083e6b95bab78",
+        "id": "a0cfee72d6391e97",
         "type": "tabs",
         "children": [
           {
-            "id": "6e8b6fb12f4dff65",
+            "id": "ca45fc457f8f528e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kunskapsintensivt arbete och organisation/KS2/projektplanen och projektledarens verktygslåda.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "projektplanen och projektledarens verktygslåda"
             }
           }
         ]
@@ -164,6 +168,16 @@
   },
   "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251002124011.png",
+    "Kunskapsintensivt arbete och organisation/KS2/definiera projekt.md",
+    "Kunskapsintensivt arbete och organisation/KS2/projektplanen och projektledarens verktygslåda.md",
+    "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
+    "Kunskapsintensivt arbete och organisation/KS1/OKA lista.md",
+    "Kunskapsintensivt arbete och organisation/KS1/Model I & Model II.md",
+    "PL/plFöreläsning24-05-13/Återkoppla.md",
+    "PL/plFöreläsning24-05-13/Hur olika lär sig.md",
+    "PL/plFöreläsning24-05-13/kunskapskapital.md",
+    "PL/plFöreläsning24-05-13/professionell byråkrati.md",
     "Finansiering ME1311/hong et al.md",
     "Finansiering ME1311/martinson et al.md",
     "martinson et al.md",
@@ -180,18 +194,8 @@
     "Finansiering ME1311/Kap9/total payout model.md",
     "Finansiering ME1311/Kap16/agency benefits of leverage.md",
     "Finansiering ME1311/Kap16/assymetric information and capital structure.md",
-    "Finansiering ME1311/Kap2/enterprise value.md",
-    "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
-    "finansiering repetera.md",
-    "Kunskapsintensivt arbete och organisation/KS1/symboliskt perspektiv.md",
-    "Kunskapsintensivt arbete och organisation/KS1/coping with ambiguity and complexity.md",
     "Kunskapsintensivt arbete och organisation/KS1",
     "Kunskapsintensivt arbete och organisation/KS2",
-    "PL/PLbok/PLkap6/rapportering.md",
-    "PL/PLbok/PLkap6/Möte.md",
-    "PL/PLbok/PLkap6/Kommunikationsplan.md",
-    "PL/PLbok/PLkap6/Kommunikationsmodellen.md",
-    "PL/PLbok/PLkap6/Kommunikation.md",
     "Finansiering ME1311/Kap24",
     "Finansiering ME1311/Kap23",
     "Finansiering ME1311/Kap29",
