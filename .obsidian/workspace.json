@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunskapsintensivt arbete och organisation/KS2/projektplanen och projektledarens verktygslåda.md",
+                "file": "Kunskapsintensivt arbete och organisation/KS2/IT-projekt.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "projektplanen och projektledarens verktygslåda"
+              "title": "IT-projekt"
             }
           }
         ]
@@ -166,11 +166,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "ca45fc457f8f528e",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251002131711.png",
+    "Kunskapsintensivt arbete och organisation/KS2/projektplanen och projektledarens verktygslåda.md",
+    "Kunskapsintensivt arbete och organisation/KS2/IT-projekt.md",
     "Assets/Pasted image 20251002124011.png",
     "Kunskapsintensivt arbete och organisation/KS2/definiera projekt.md",
-    "Kunskapsintensivt arbete och organisation/KS2/projektplanen och projektledarens verktygslåda.md",
     "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
     "Kunskapsintensivt arbete och organisation/KS1/OKA lista.md",
     "Kunskapsintensivt arbete och organisation/KS1/Model I & Model II.md",
@@ -193,7 +195,6 @@
     "Finansiering ME1311/Kap23/venture capital investing.md",
     "Finansiering ME1311/Kap9/total payout model.md",
     "Finansiering ME1311/Kap16/agency benefits of leverage.md",
-    "Finansiering ME1311/Kap16/assymetric information and capital structure.md",
     "Kunskapsintensivt arbete och organisation/KS1",
     "Kunskapsintensivt arbete och organisation/KS2",
     "Finansiering ME1311/Kap24",
@@ -213,7 +214,6 @@
     "Assets/Pasted image 20250830111824.png",
     "Assets/Pasted image 20250830105235.png",
     "Assets/Pasted image 20250830102825.png",
-    "Assets/Pasted image 20250830102648.png",
     "Untitled.canvas"
   ]
 }
