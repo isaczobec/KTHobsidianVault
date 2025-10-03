@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunskapsintensivt arbete och organisation/KS2/IT-projekt.md",
+                "file": "Kunskapsintensivt arbete och organisation/KS2/projektledarskap och individen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "IT-projekt"
+              "title": "projektledarskap och individen"
+            }
+          },
+          {
+            "id": "3f56ae8229711285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kunskapsintensivt arbete och organisation/KS2/interessentanalys.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "interessentanalys"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +181,27 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "ca45fc457f8f528e",
+  "active": "f1539d4aa44a6e3b",
   "lastOpenFiles": [
-    "Assets/Pasted image 20251002131711.png",
+    "Kunskapsintensivt arbete och organisation/KS2/projektledarskap och individen.md",
+    "Assets/Pasted image 20251003130244.png",
+    "Assets/Pasted image 20251003125651.png",
+    "Assets/Pasted image 20251003125621.png",
+    "Kunskapsintensivt arbete och organisation/KS2/interessentanalys.md",
+    "Assets/Pasted image 20251003124353.png",
+    "Assets/Pasted image 20251003122905.png",
+    "Kunskapsintensivt arbete och organisation/KS2/ME1010 projektorganisation.md",
+    "Assets/Pasted image 20251003122236.png",
+    "Kunskapsintensivt arbete och organisation/KS2/definiera projekt.md",
     "Kunskapsintensivt arbete och organisation/KS2/projektplanen och projektledarens verktygslåda.md",
     "Kunskapsintensivt arbete och organisation/KS2/IT-projekt.md",
-    "Assets/Pasted image 20251002124011.png",
-    "Kunskapsintensivt arbete och organisation/KS2/definiera projekt.md",
+    "Kunskapsintensivt arbete och organisation/KS2/riskhanteringME1010.md",
+    "Kunskapsintensivt arbete och organisation/KS1/symboliskt perspektiv.md",
+    "Assets/Pasted image 20251003115327.png",
+    "Assets/Pasted image 20251003115237.png",
+    "Assets/Pasted image 20251003114255.png",
+    "PL/plFöreläsning24-05-15/SAFe.md",
+    "Assets/Pasted image 20251002144410.png",
     "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
     "Kunskapsintensivt arbete och organisation/KS1/OKA lista.md",
     "Kunskapsintensivt arbete och organisation/KS1/Model I & Model II.md",
@@ -189,12 +218,6 @@
     "Finansiering ME1311/Kap8/Capital budgeting.md",
     "Finansiering ME1311/Kap9/discounted free cash flow model.md",
     "Finansiering ME1311/Kap17/distributions to shareholders.md",
-    "Finansiering ME1311/Kap9/method of comparabels.md",
-    "Finansiering ME1311/Kap14/leverage, risk and the cost of capital.md",
-    "Finansiering ME1311/Kap18/the FTE method.md",
-    "Finansiering ME1311/Kap23/venture capital investing.md",
-    "Finansiering ME1311/Kap9/total payout model.md",
-    "Finansiering ME1311/Kap16/agency benefits of leverage.md",
     "Kunskapsintensivt arbete och organisation/KS1",
     "Kunskapsintensivt arbete och organisation/KS2",
     "Finansiering ME1311/Kap24",
@@ -205,15 +228,6 @@
     "Finansiering ME1311/Kap16",
     "Finansiering ME1311/Kap15",
     "Finansiering ME1311/Kap14",
-    "Assets/Pasted image 20250908133251.png",
-    "Assets/Pasted image 20250908124349.png",
-    "Assets/Pasted image 20250908123248.png",
-    "Assets/Pasted image 20250906174543.png",
-    "Assets/Pasted image 20250906170655.png",
-    "Assets/Pasted image 20250906161255.png",
-    "Assets/Pasted image 20250830111824.png",
-    "Assets/Pasted image 20250830105235.png",
-    "Assets/Pasted image 20250830102825.png",
     "Untitled.canvas"
   ]
 }
