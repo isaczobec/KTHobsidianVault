@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a0cfee72d6391e97",
+        "id": "63a72be94f67c17b",
         "type": "tabs",
         "children": [
           {
-            "id": "ca45fc457f8f528e",
+            "id": "546792d8b3300f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunskapsintensivt arbete och organisation/KS2/projektledarskap och individen.md",
+                "file": "Finansiering_Lecture11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "projektledarskap och individen"
-            }
-          },
-          {
-            "id": "3f56ae8229711285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kunskapsintensivt arbete och organisation/KS2/interessentanalys.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "interessentanalys"
+              "title": "Finansiering_Lecture11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "private equity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,43 +166,44 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1539d4aa44a6e3b",
+  "active": "546792d8b3300f9e",
   "lastOpenFiles": [
-    "Kunskapsintensivt arbete och organisation/KS2/projektledarskap och individen.md",
+    "Assets/Pasted image 20251006120416.png",
+    "Finansiering_Lecture12.md",
+    "Assets/Pasted image 20251005202035.png",
+    "Finansiering ME1311/hong et al.md",
+    "Finansiering ME1311/martinson et al.md",
+    "Finansiering_Lecture11.md",
+    "Finansiering ME1311/Kap29/compenstation policies.md",
+    "Finansiering ME1311/Kap16/agency costs of levarege.md",
+    "Kunskapsintensivt arbete och organisation/KS2/ledarskap, entreprenörskap och genus.md",
+    "Kunskapsintensivt arbete och organisation/KS2/Struktur, kultur och förändringsarbete i organisationer.md",
+    "finansiering repetera.md",
+    "Finansiering ME1311/Kap23/sources of funding.md",
+    "Assets/Pasted image 20251005190227.png",
+    "Assets/Pasted image 20251005190006.png",
+    "Finansiering ME1311/Kap16/agency costs and the tradeoff theory.md",
+    "Finansiering ME1311/Kap29/managing agency conflicts.md",
+    "Finansiering ME1311/benabou triole CSR.md",
+    "Finansiering ME1311/Kap29/corporate governance and agency costs.md",
+    "Finansiering ME1311/Kap16/agency benefits of leverage.md",
+    "Finansiering ME1311/Kap24/repayment provisions.md",
+    "Finansiering ME1311/Kap24/bond covenants.md",
+    "Finansiering ME1311/Kap24/corporate debt.md",
+    "Finansiering ME1311/Kap24/other types of debt.md",
+    "Finansiering ME1311/Kap23/venture capital investing.md",
+    "Finansiering ME1311/Kap23/seasoned equity offering.md",
+    "Finansiering ME1311/Kap18/project based costs of capital.md",
+    "Finansiering ME1311/Kap18/other effects of financing on projects.md",
+    "Finansiering ME1311/Kap18/apv with other leverage policies.md",
+    "Finansiering ME1311/Kap18/the APV method.md",
     "Assets/Pasted image 20251003130244.png",
     "Assets/Pasted image 20251003125651.png",
     "Assets/Pasted image 20251003125621.png",
-    "Kunskapsintensivt arbete och organisation/KS2/interessentanalys.md",
     "Assets/Pasted image 20251003124353.png",
     "Assets/Pasted image 20251003122905.png",
-    "Kunskapsintensivt arbete och organisation/KS2/ME1010 projektorganisation.md",
     "Assets/Pasted image 20251003122236.png",
-    "Kunskapsintensivt arbete och organisation/KS2/definiera projekt.md",
-    "Kunskapsintensivt arbete och organisation/KS2/projektplanen och projektledarens verktygslåda.md",
-    "Kunskapsintensivt arbete och organisation/KS2/IT-projekt.md",
-    "Kunskapsintensivt arbete och organisation/KS2/riskhanteringME1010.md",
-    "Kunskapsintensivt arbete och organisation/KS1/symboliskt perspektiv.md",
     "Assets/Pasted image 20251003115327.png",
-    "Assets/Pasted image 20251003115237.png",
-    "Assets/Pasted image 20251003114255.png",
-    "PL/plFöreläsning24-05-15/SAFe.md",
-    "Assets/Pasted image 20251002144410.png",
-    "Kunskapsintensivt arbete och organisation/KS2/projektledningens historia.md",
-    "Kunskapsintensivt arbete och organisation/KS1/OKA lista.md",
-    "Kunskapsintensivt arbete och organisation/KS1/Model I & Model II.md",
-    "PL/plFöreläsning24-05-13/Återkoppla.md",
-    "PL/plFöreläsning24-05-13/Hur olika lär sig.md",
-    "PL/plFöreläsning24-05-13/kunskapskapital.md",
-    "PL/plFöreläsning24-05-13/professionell byråkrati.md",
-    "Finansiering ME1311/hong et al.md",
-    "Finansiering ME1311/martinson et al.md",
-    "martinson et al.md",
-    "hong et al.md",
-    "Finansiering ME1311/Kap6/bonds.md",
-    "Finansiering ME1311/benabou triole CSR.md",
-    "Finansiering ME1311/Kap8/Capital budgeting.md",
-    "Finansiering ME1311/Kap9/discounted free cash flow model.md",
-    "Finansiering ME1311/Kap17/distributions to shareholders.md",
     "Kunskapsintensivt arbete och organisation/KS1",
     "Kunskapsintensivt arbete och organisation/KS2",
     "Finansiering ME1311/Kap24",

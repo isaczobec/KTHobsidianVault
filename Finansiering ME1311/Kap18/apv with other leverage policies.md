@@ -6,7 +6,7 @@ om håller interest payments till en konstant ratio till FCF har de en *constant
 - $k = \text{interest paid in year t}/FCF_t = \text{Konst.}$
 - eftersom tax shields värde då beror på projektets outcome har den samma risk som projektet, och unlevered cost of capital bör användas
 - men då blir PV(interest tax shield) propotionerlig mot PV(unlevered projektet) (se s.698)
-	- $\implies V^L = \tau_c k \cdot V^U$
+	- $\implies V^L = (1+\tau_c k) V^U$
 
 Om FCF ökar m konstant rate är konstant D/E equiv med konstant interest coverage ratio
 

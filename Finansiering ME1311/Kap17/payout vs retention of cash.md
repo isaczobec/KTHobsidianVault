@@ -26,7 +26,7 @@ agency av retaining:
 - om mycket cash finns finns risk att managers gör negative npv pet projects, köper excessive luxuries etc
 - om har mycket debt kan equity holders villja att earnings betalas ut, se [[agency costs of levarege]]
 
-sammantaget bör anledningarna att retaina costs vara samma som för att ha lite leverage: undvika financial distress, vilja kunna göra investment opportuniyies
+sammantaget bör anledningarna att retaina earnings vara samma som för att ha lite leverage: undvika financial distress, vilja kunna göra investment opportuniyies
 - måste vägas mot dess tax disadvantages för att hitta rätt nivå
 - enligt management entrenchemnt theory kan managers interest variera från shareholders, och de kommer bara betala ut när pressured av shareholders
 
