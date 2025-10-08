@@ -198,3 +198,11 @@ projektledare
 		- stanna upp och reflektera
 		- skapa en stimulerande miljö
 		- ange syfte och inriktning
+
+
+kursbokens kapitel 15-22
+artiklarna 1-4 (projledning), 6-8 (ledarskap/intersektionalitet)
+De inspelade föreläsningarna om ledarskap och intersektionalitet
+de totalt sex föreläsningarna om projektledning och agil projektledning
+
+entreprenörskap kommer inte, inte dagens föreläsning heller 2025-10-08
