@@ -5,7 +5,7 @@ könsstruktur har tre dimensioner:
 - antalsfördelningar mellan kvinnor och män 
 - könssegregeringsmönster i sysslor, yrken och positioner
 - fördelning av inflytande och makt
-[[]()]()
+
 kultur = hur normer och värdereingar påverkar föreeställningar och beteende i organisationer
 - olika aspekter av kulturen kan vara kvinnofientliga, ex jargong, etc
 
