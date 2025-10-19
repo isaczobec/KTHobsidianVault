@@ -8,4 +8,5 @@ en application av MM proposition I är att kan göra market value sheet:
 Kan därmed beräkna market value of equity genom: market value of assets - market value of all debt and liabilities
 
 att ex låna för att köpa tillbaka shares ändrar inte priset på aktier, se s.533
+- får mindre equity och mindre shares outstanding: Equity per share fortfarande samma
 - värdet för shareholders är fortfarande samma

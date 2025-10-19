@@ -19,4 +19,4 @@ Ofta beror interest rate på *term*/horisont/tidsperiod av lånet/investeringen
 		- Om short term förväntas höjas:
 			- Alla vill låna long term nu för att slippa högre ränta i framtiden $\implies$ long term priserna ökar
 		- slowdown i ekonomin => sjunkande interest rates => downward sloping yield curve, kan på något sätt alltså indikera future economic growth
-		- 
+- Hade funnits en arbitrage opportunity om yield curven inte matchade framtida priser???

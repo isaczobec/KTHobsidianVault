@@ -6,7 +6,7 @@ Dividend payout $Div_t = \frac{\text{Earnings}_t}{\text{Shares Outstanding}_t} \
 
 Kan retaina eller dela ut earnings
 - Om vi antar att ökade earnings **endast kommer från reinvestment:**
-- Kan anta att change in earnings = new investment  * return on investment = earnings * retention rate * return on investment
+- Kan anta att change in earnings = new investment  \* return on investment = earnings \* retention rate * return on investment
 
 earnings growth rate blir change in earnings/earnings = retention rate * return on new investment 
 
