@@ -60,3 +60,18 @@ kan bygga flip flops med transistors istället för gates, se s.114-115 (skippad
 
 en circuit är en synchronous circuit om och endast om
 ▸ Every circuit element is either a register or a combinational circuit ▸ At least one circuit element is a register ▸ All registers receive the same clock signal ▸ Every cyclic path contains at least one register
+
+## Finite state machines
+finite state machines med k registers har 2^k possible states
+- i Moore machines beror outputs bara på current state, i Mealy machines beror på current state och current input
+
+## Adders
+- Half adder: input A och B, output A+B och carry
+- Full adder: input A B carry, output Summan och carry
+- långsamt att chaina ihop flera full adders eftersom måste propogata carry genom alla, kan istället dela upp i block där man snabbt räknar ut om en carry kommer från ett block för att slippa vänta på hela tiden (se s.239)
+- s.242-243 om hur man kan göra en adder med logaritmisk komplexitet (fattade inte exakt)
+
+## ALU
+heart of most computers
+- har en control signal som bestämmer vilken operation som ska göras, implementerad med multiplexors exempelvis
+- har ibland flags för ex carry outs osv
