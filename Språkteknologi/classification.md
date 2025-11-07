@@ -64,3 +64,36 @@ har en labeled trainig set: ![[Pasted image 20251102165904.png]]
 **för multinomial distribution**
 ![[Pasted image 20251102192108.png]]
 ![[Pasted image 20251102192431.png]]
+
+### Evaluation: Precision, Recall, F-measure
+- har true/false negatives/positives
+- att beräkna accuracy som andel korrekt klassifierade fall är missvisande om försöker klassificiera rare cases
+	- använder istället preciscion och recall
+		- ![[Pasted image 20251103120553.png]]
+		- ![[Pasted image 20251103120639.png]]
+	- för väga båda har vi F-measure
+		- beta > 1 favors recall, beta < 1 favor precision
+		- ![[Pasted image 20251103120829.png]]
+		- kommer från harmonic mean
+			- ![[Pasted image 20251103120952.png]]
+- För flera klasser:
+	- ![[Pasted image 20251103121227.png]]
+	- kan ha macroavaraging: Beräkna en true/false positive/negative matrix för varje klass och sen average ihop metrics
+	- Microavaraging: skapa en ända matrix med true/false positives/negatives
+		- I denna blir more frequent class facoured
+
+## Cross validation
+- för att få använda all data för test och training
+- cross validation: dela in all data i k folds, välj sedan k-1 av de för träna på, testa på den sista och beräkna sedan average erorr rate
+- måste vara blind corpus man tränar på: blir fusk att kolla på testdatan
+	- för denna anledning brukar man ända ha ett avsett test set, men skippa dev sets
+
+## Overfitting/reguralization
+- Om vissa features bara accidentaly associearde med en viss klass i training data har vi overfitting, vill att modelen ska vara general istället
+- lägg till en regularization term till loss function
+- ![[Pasted image 20251103123214.png]]
+- R-termen penalizar stora vikter, ska bli mer generell
+- kan ex vara
+	- ![[Pasted image 20251103123302.png]]
+	- ![[Pasted image 20251103123308.png]]
+- L2 preferar många small weights, L1 många 0 och några högre

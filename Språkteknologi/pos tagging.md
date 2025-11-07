@@ -20,6 +20,8 @@ HHM POS tagging
 	- FÖr att bestämma sequence of alla tags, hitta den som maximerar likelyhooden given the observed words:
 		- För POS tagging ![[Pasted image 20251102135404.png]]
 		- Kan istället använda bayes formula och droppa denominatorn: ![[Pasted image 20251102135508.png]]
+		- vi använder independence of outputs assumption och markov assumption
+		- ![[Pasted image 20251103114420.png]], ![[Pasted image 20251103114427.png]]
 - **Viterbi algo**
 	- Beräknar $V_t(j)$, sannolikheten att ord t är av typ j givet att vi tagit den mest probable vägen av tags hit
 	- ![[Pasted image 20251102141559.png]]
