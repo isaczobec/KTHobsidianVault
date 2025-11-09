@@ -20,3 +20,7 @@ fördel med query langueage är att det inte kan göra allt = simplare att imple
 		- natural join: para alla tuples som agreear i alla attributes i unionen av R och S
 		- Theta join: to produkten av R och S och behåll alla pairs som uppfyller någon condition C
 	- renaming, ändrar inte tuples men namnen på ex attributer
+
+# chapter 5
+consider relations som är bags (multisets) istället för sets = samma tuple kan förekomma fler gånger
+- order fortfarande irrelevant
