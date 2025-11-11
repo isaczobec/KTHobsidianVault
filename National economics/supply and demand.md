@@ -99,3 +99,71 @@ kan justera pris till supply = demand
 - **Slopes of the curves**
 	- relative size of price/quantity change beror på steepness av demand/supply curves
 	- ![[Pasted image 20251110153036.png]]
+	- om supply curve shiftas beror relativa ändringen av equilibrium price/quantity på slope av demand curve
+	- inward shift av demand brukar sänka pris och quantity
+	- inward shift av supply brukar öka pris och sänka quantity
+	- om båda kurvor rör sig i samma håll kommer quantity for sure ändras, pris ändring okänt
+	- om båda kurvor rör sig i olika riktining kommer price surely ändras, kan inte säga något om demand
+
+## Elasticity
+- demand curves steep -> consumers inte price sensitive, kommer köpa ungefär samma quantity oavsett priset
+- steep supply curve -> suppliers kommer supplya ungefär samma quantity oavsett price
+- om de är flat så är small price change -> stor quantity change
+- **Elasticity** = percentage change i en quantity per percentage change i en annan
+	- *price elasticity*:  the percentage change in quantity demanded resulting from a given percentage change in price.
+- **Skillnad slope och elasticity**
+	- Slope beror på unit of measurements av quantities
+	- kan inte heller jämföra across different products, eftersom vi mäter i olika quantites och med olika magnitudes (exempel s. 137)
+	- elasticity löser detta genom mäta allt i relative terms (%)
+	- ![[Pasted image 20251111110648.png]]
+		- price elasticity of demand blir alltid negativ, av supply alltid positiv
+- **olika marknader**
+	- marknader med stor möjlighet till substitut har hög price elasticities of demand, ex äpplen
+	- låg möjlighet till substitut -> lägre price elasticity of demand
+	- Om det är lätt för en supplier att ändra production amounts är price elasticity of supply hög
+	- Om det är svårt att höja/sänka level of production, ex dyrt/svårt att exit/enter the market, kommer price elasticity of supply vara låg. ex platser i stadiums
+
+#### Elasticities and time horizons
+- om har lång tid att ändra sina consumption patterns blir price elasticity of demand högre, och vice versa
+- ex gas prices låg i short term: kan inte ändra sin schedule, få substitut på kort sikt
+	- på lång sikt kan man dock ändra sina patterns ex köpa mer bensinsnål bil, flytta närmare jobbet, och då blir price elasticity högre
+- Samma gäller för suppliers: Kan kanske inte ändra supplied amount in response till kort ökning i pris, men om ökningen varar över lång tid kan man ha tid att utöka, och då blir elasticiteten högre
+- allt detta => long run supply/demand curves flatter än short term
+- **klassificieringar av elasticities**
+- +/- 1 = unit elasticitu
+- 0 = perfectly inelastic, ingen demand change in response to prices
+- inf = perfectly elastic, INFINITE change i demand till vilken price change som helt
+
+#### Relatera elasticity till curve slopes
+![[Pasted image 20251111112853.png]]
+![[Pasted image 20251111112859.png]]
+price elasticity of demand är -inf då demand är 0 då ökningen från 0 blir infinite
+går ner till då P/Q = slope, då unit elasticity
+sen på P = 0 perfectly inelastic
+
+för supply curve: börjar i +inf, men når inte 0
+
+### Perfectly elastic/inelastic
+![[Pasted image 20251111113953.png]]
+inelastic
+- ex demand curve för insulin kommer vara perfectly inelastic
+- stadium places perfectly inelastic supply
+- changes i supply/demand kommer ändast påverka price, inte quantity, om supply/demand är perfectly inelastic
+elastic
+- pris under demand curve innebär att alla kommer vilja köpa, ovanför ingen.
+- tex produkter som är väldigt vanliga commodities, ex corn
+- för supply om det är ungefär samma costs för alla och exit/entry är enkla: ingen vill producera till ett pris under sina costs
+- om demand curve/supply curve flat kommer endast equilibrium quantity, inte price, ändras om supply/demand ändras
+
+### Elasticity of "Everything else"
+- elasticity av andra faktorer än pris på quantity demanded/supplied
+- income elasticity (consumer income):
+	- ![[Pasted image 20251111115213.png]]
+	- negativ income elasticity = inferior goods (bus tickets, youth hostels)
+	- normal goods = positiv elasticity, det mesta
+	- elasticity över 1 = luxury goods (yachts, fine art)
+- cross price elasticity
+	- ![[Pasted image 20251111121240.png]]
+	- percentage change i demand av en good per percentage price change i en annan
+	- om positiv betyder det denna vara är en substitute för den andra
+	- om negativ betyder det goodsen är complements. om priset av en stiger köper man mindre av båda. Milk och cereal osv
