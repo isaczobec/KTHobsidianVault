@@ -116,3 +116,6 @@ fall där budget constraint inte är en rak linje
 	- ![[Pasted image 20251111185417.png]]
 	- här behöver indifference curve inte tangera budget constraint
 	- om man får väldigt lite marginal utility även från den första av en good kan detta hända
+
+sammantaget: consumption patterns beror på preferences (utility funciton) och på level of income och market prices (budget constraint)
+

@@ -1,0 +1,13 @@
+
+- hemsidan
+	- bygga om
+	- bättre input validation
+	- lägga datan i en databas, hosta
+- rätt data i excel, få bort manuellt arbete med att lägga till medlemmar i ett excellark
+	- databas
+- constraints i input för membership form
+	- årskurs
+	- programm
+	- endast låta kthmedlemmar bli medlemmar
+- gemensam platform
+	- 
