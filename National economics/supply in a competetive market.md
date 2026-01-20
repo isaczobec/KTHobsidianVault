@@ -96,9 +96,11 @@ hur bestämmer firm hur mycket som ska produceras?
 - i verkligheten förändring tar tid
 - ![[Pasted image 20251127164140.png]]
 - quantity sjunker och pris sjunker temporärt till firms exitat om demand skiftar innåt
+
 **Cost decrease**
 - Marginal costs och ATC skiftar neråt => supply curve skiftar neråt, quantity ökar och pris går ner
 - permanent skifte eftersom LATC har minskat. Priset sjunker tills dessa nås 
+![[Pasted image 20251218150646.png]]
 
 **Increasing och decreasing cost industries**
 - vi har tidigare assumat att total cost inte ändras med total industry output

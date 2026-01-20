@@ -73,7 +73,7 @@ kan också för hitta profit maximizing price plugga in MR = MC
 - när elasticitet ökar minskar optimal markup - intuitivt ska man ge lägre priser till priskänsliga kunder
 - dessa kvantiteter kallas *Lerner index*
 - Om högre = mindre elastitcity kan man prissätta högre över marginal cost
-- om perfectly elastic som i perfectly competetive markets är $E^D = -\infty$ och priset blir 0
+- om perfectly elastic som i perfectly competetive markets är $E^D = -\infty$ och markup blir 0
 - dock implyar $E^D \in [-1,0)$ att $MC < 0$, makar ingen sense, så operata inte at point of demand curve were demand is inelastic
 	- så lerner index tar värden i $(0,1)$
 	- är ett mått på market power

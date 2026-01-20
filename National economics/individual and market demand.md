@@ -73,10 +73,13 @@
 		- detta är generellt fallet för inferior goods: substitution effekt ökar quantity mer än income effect minskar den
 	- ![[Pasted image 20251112155448.png]]
 	- *giffen goods*
-		- där reduced price innebär att demand för varan ökar
+		- där increased price innebär att demand för varan ökar
 		- detta är fallet om substitution effects positiva inverkan på quantity demanded är mindre än den negativa av income effekt -> måset vara en inferior good
 		- ![[Pasted image 20251112160549.png]]
-
+	- vidare
+		- Substitution effect is always negative (= motsatt sign mot prisändring) under standard 4 assumptions, income effect kan vara positiv/negativ beroende på om varan är normal eller inferior good 
+		- en giffen good har att income effect är så starkt negativ att den utväger substitution effect
+			- om pris minskar minskar demand, om pris ökar ökar demand
 ## Substitutes and complements
 - när price i en good ändras ändras demand/quantity av en substitute good i samma riktning (eftersom kan substituta de för varandra)
 	- ![[Pasted image 20251112161247.png]]

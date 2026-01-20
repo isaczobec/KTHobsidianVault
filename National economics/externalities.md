@@ -44,6 +44,7 @@ finns negative och positive externalities = costs/benefits til third party inte 
 - om man kan justera private cost så att den matchar social cost eller private benefit så matchar social benefits hade alla firms/consumers gjort optimala val
 - ex för negative externalities kan man applya extra costs till firms eller consumers, sänker kvantitet
 - kan för positive externalities betala consumers eller firms för producing/purchasing, höja quantity
+- *Pigouvian taxes är en price affecting change*
 
 ### Pigouvian taxes
 - tax levied on an actitivty to raise its price, to take into account the external marginal costs imposed by a negative externality
@@ -63,6 +64,7 @@ finns negative och positive externalities = costs/benefits til third party inte 
 - **Uncertainty**
 	- Kan vara dyrt att estimata marginal benefit fel
 	- ![[Pasted image 20251129172422.png]]
+	- Om MCP steep använd quantity restriction, om MCP flat använda tax
 	- för att limita quantity itll optimal level akn man antingen sätta en quota, hamnar i QpollB, eller en tax, hamnar i QpollC
 	- det blir DWL för att man estimatar marginal benefit fel
 	- om price regulations (pigouvian taxes) eller quantity regulations (quoatas) är sämst om har fel beror på steepnes av marginal abatement och cost curve
