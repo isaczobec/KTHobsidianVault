@@ -1,0 +1,1 @@
+detta kapitlet känndes irrelevant, kolla senare när fler föreläsningar/tentor kommer om det verkar vara relevant #clarifyN 
