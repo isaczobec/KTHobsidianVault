@@ -11,7 +11,7 @@ production function visar samband input (kapital och labor), samt produktivitet/
 **Per capita**
 - GDP för hela landet mäter inte individuellt välstånd
 - har lowercase letters för per capita
-- Per capita growth of gdp är growth rate of gdp + growth rate of population
+- growth rate of gdp = Per capita growth of gdp + growth rate of population
 	- ![[Pasted image 20260121113937.png]]
 - vi får att per capita gdp growth rate = ![[Pasted image 20260121114123.png]]
 - i per capita terms: ![[Pasted image 20260121114208.png]]
