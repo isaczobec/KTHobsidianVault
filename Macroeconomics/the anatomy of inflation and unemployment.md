@@ -52,7 +52,7 @@ några characteristics of unemployement (US labour market):
 	- Termen *jobless recovery* kommer från perioder då unemployment stigit efter rcesions över
 
 ## FULL EMPLOYMENT
-- determinants av natural unemployment u* kan tänkas på in terms av *duration & frequency* av unemployment
+- determinants av natural unemployment u\* kan tänkas på in terms av *duration & frequency* av unemployment
 	- duration of unemployment beror på labour markets struktur och:
 		- organization of labour market
 		- demographic makeup of labour force
@@ -101,7 +101,8 @@ några characteristics of unemployement (US labour market):
 - **Perfectly anticipated inflation**
 	- inga kostander eftersom alla kontrakt görs med takten av inflation i åtanke
 	- däremot växer costs of holding currency med inflation rate
-	- "shoe-leather" costs av att använda mindre case #clarifyN s. 168
+	- "shoe-leather" costs av att använda mindre belopp cash (ex fler trips to bank) #clarifyN s. 168
+	- menu costs är kostnader associerade med att ändra prisbeloppen överallt
 	- om nivå av inflation så hög att payments system faller isär är kostanderna större
 - **Imperfectly anticipated inflation**
 	- risken att actual inflation varierar från expected inflation är en kostnad eftersom attraktiva deals inte görs till en följd av detta

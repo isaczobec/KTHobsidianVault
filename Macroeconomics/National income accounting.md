@@ -129,3 +129,10 @@ Problem med GDP
 
 
 ![[Pasted image 20260120192549.png]]
+
+
+### reell ränta
+
+idag köpa $x_t / P_t$ enheter
+nästa period $x_t(1+R_t) / P_{t+1}$
+rell ränta då $\frac{x_t(1+R_t) / P_{t+1} - x_t / P_t}{x_t / P_t} = \frac{1+R_t}{1+\pi_t}-1$

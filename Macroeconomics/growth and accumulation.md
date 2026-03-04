@@ -8,6 +8,10 @@ production function visar samband input (kapital och labor), samt produktivitet/
 - tillväxten i production ges av
 - ![[Pasted image 20260121113208.png]]
 
+*från föreläsning*
+![[Pasted image 20260303163330.png]]
+![[Pasted image 20260303163336.png]]
+
 **Per capita**
 - GDP för hela landet mäter inte individuellt välstånd
 - har lowercase letters för per capita
@@ -42,6 +46,7 @@ factor of production lägger endast till till production om dess supply ökar
 	- om saving högre än detta stiger output och capital per worker, om lägre sjunker de
 
 **Investment and saving**
+![[Pasted image 20260303165126.png]]
 - ekonomin behöver investa $nk$ kapital för att ge kapital till nya workers, eftersom $n = \Delta N / N$ är growth rate och $k$ är level of capital
 - depreciation rate är $d$
 - så investment neede är $(n+d)k$
@@ -78,3 +83,6 @@ tidigare antogs $\Delta A / A = 0$, men ekonomier växer eftersom det finns tech
 #clarifyN kanske repetera alla formler och olika versioner lite, föreläsningsvideo och boken innan s. 73
 
 ![[Pasted image 20260121184110.png]]
+
+![[Pasted image 20260303180849.png]]
+![[Pasted image 20260303181201.png]]
