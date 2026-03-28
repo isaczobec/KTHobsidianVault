@@ -3,7 +3,7 @@ Knowledge workers är workers med specialized knowledge som applyar deras knowle
 
 *Possesion* of knowledge and skills beskrivs best som human capital 
 
-Mycket racit knowledge, fokuserar inte på separate aspects eller ecplicit parts of the skill
+Mycket tacit knowledge, fokuserar inte på separate aspects eller ecplicit parts of the skill
 
 Inte bra med bytåkrati, ofta nya situationer man behöver tillämpa knowledge i
 
