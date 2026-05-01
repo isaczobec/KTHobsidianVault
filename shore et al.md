@@ -1,4 +1,42 @@
+Lynn M shore och beth G Chung
 
+Har tidigare varit lite research on inclusive leadership
+
+- Nu växer det. Måste kunna avgöra vad ledare behöver göra för att vara inclusive.
+
+Shore et al define inclusion som "the degree to which an employee perceives that he or she is an esteemed member of the work group through uniqueness"
+
+- Byggd på optimal distinctivesness theory: folk vill vara både lika och olika från andra samtidigt
+- Similarity ökar sannolikhet bli welcomed i group och belonging, difference related to recognition of ways in which person is distinctive, ökar need for fullfilment.
+- Ökar fullfilment att ha starka relationships med work group, acceptans av grupp de identifyar med
+- Belonging till group kräver dock compliance till vissa normer som kan strida mot need for uniqueness - om unika drag hos människor upplevs som devalued minskar kännsla av inclusion.
+
+Shore et al presenterade 2x2 inclusion framework för beskriva hur belongingness och value in uniqueness upplevs i grupp.
+
+- Inclusion = high belongingness och value in uniqueness - kan ha individuality medan treated som insider
+- Assimilation = high belongingness and low value in uniqueness - när employee upplevs som insider endast då de passar in i organizational behavioural norms by minimizng display of ways in which they are unique
+- Differentiation = low belongingness and high value in uniqueness när employee inte viewed som insider men dess unika characteristics ses som viktiga för gruppens success (kan uppleva om ex är diversity hire)
+- Exclusion = low belongingness and low value in uniqueness; när en employee inte ses som viktig insider med viktig roll, men andra employees är insiders.
+
+Tidigare inte undersökt hur leader contributar till varje quandrant i modellen.
+
+- dessa undersöker treatment (inclusive experience) of individual members
+- Hur leader agerar påverkar om en worker tror de blir inkluderade, bör assimilate, differentiate eller ska bli excluded
+
+**The leader emphasizing inclusion**
+
+**Prior research on leader inclusion**
+
+- EnNembhard and Edmondson (2006) defined leader inclusiveness as "words and deeds exhibited by leaders that invite and appreciate others contributions".
+- Att visa inclusiveness in the team hjälpte deal with proffesion-derived status differences effectively, low status proffesion workers encoureged
+- -   
+        
+- Kan också vara så att inclusiveness envoregas creativity genom psychological safety
+- En measure inkluderar ex hur öppen till höra nya ideer managers är, the och om de manager är redo att lyssna på employees; hur de treatar employees
+    - Dessa kan bidra till psychological safety/empowerement, work engagement and affective commitment, thriving at work
+- Leader som är inclusive är motivated by developing good relationships with followers to create environment in which employees can share perspectives, experience psychologiv
+
+---
 - Randel et al säger att leaders efforts är focused på fostering group members perceptions av belonging och value for uniqueness as a group member
 - Pro diversity beleiefs antecedent to leader inclusion
 - Pro-diversity beliefs recognize and appreciate within-group differences som borde translate till behavoiurs som encourage belongingness and value in uniqueness
